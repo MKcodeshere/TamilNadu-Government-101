@@ -1,0 +1,63 @@
+[
+  {
+    "id": "dmk-spa",
+    "name": { "en": "Secular Progressive Alliance", "ta": "சமூக முற்போக்குக் கூட்டணி" },
+    "shortName": "DMK-SPA",
+    "color": "#E31E24",
+    "leadParty": "DMK",
+    "parties": [
+      { "name": { "en": "Dravida Munnetra Kazhagam", "ta": "திராவிட முன்னேற்றக் கழகம்" }, "shortName": "DMK", "seats": 164, "color": "#E31E24" },
+      { "name": { "en": "Indian National Congress", "ta": "இந்திய தேசிய காங்கிரஸ்" }, "shortName": "INC", "seats": 28, "color": "#19AAED" },
+      { "name": { "en": "Desiya Murpokku Dravida Kazhagam", "ta": "தேசிய முற்போக்கு திராவிட கழகம்" }, "shortName": "DMDK", "seats": 10, "color": "#FFCC00" },
+      { "name": { "en": "Viduthalai Chiruthaigal Katchi", "ta": "விடுதலைச் சிறுத்தைகள் கட்சி" }, "shortName": "VCK", "seats": 8, "color": "#0000FF" },
+      { "name": { "en": "Communist Party of India", "ta": "இந்தியக் கம்யூனிஸ்ட் கட்சி" }, "shortName": "CPI", "seats": 5, "color": "#FF0000" },
+      { "name": { "en": "Communist Party of India (Marxist)", "ta": "இந்தியக் கம்யூனிஸ்ட் கட்சி (மார்க்சிஸ்ட்)" }, "shortName": "CPI(M)", "seats": 5, "color": "#CC0000" },
+      { "name": { "en": "Marumalarchi Dravida Munnetra Kazhagam", "ta": "மறுமலர்ச்சி திராவிட முன்னேற்றக் கழகம்" }, "shortName": "MDMK", "seats": 4, "color": "#FF6600" },
+      { "name": { "en": "Indian Union Muslim League", "ta": "இந்திய யூனியன் முஸ்லிம் லீக்" }, "shortName": "IUML", "seats": 2, "color": "#006400" },
+      { "name": { "en": "Kongunadu Makkal Desiya Katchi", "ta": "கொங்குநாடு மக்கள் தேசிய கட்சி" }, "shortName": "KMDK", "seats": 2, "color": "#800080" },
+      { "name": { "en": "Manithaneya Makkal Katchi", "ta": "மனிதநேய மக்கள் கட்சி" }, "shortName": "MMK", "seats": 1, "color": "#228B22" },
+      { "name": { "en": "Manithaneya Jananayaga Katchi", "ta": "மனிதநேய ஜனநாயக கட்சி" }, "shortName": "MJK", "seats": 1, "color": "#2E8B57" },
+      { "name": { "en": "Social Democratic Party of India", "ta": "சமூக ஜனநாயகக் கட்சி" }, "shortName": "SDPI", "seats": 1, "color": "#008000" },
+      { "name": { "en": "Mukkulathor Pulipadai", "ta": "முக்குலத்தோர் புலிப்படை" }, "shortName": "MPP", "seats": 1, "color": "#DAA520" },
+      { "name": { "en": "Tamilar Desam Party", "ta": "தமிழர் தேசம் கட்சி" }, "shortName": "TDK", "seats": 1, "color": "#B22222" },
+      { "name": { "en": "Tamilaga Valvurimai Katchi", "ta": "தமிழக வாழ்வுரிமைக் கட்சி" }, "shortName": "TVaK", "seats": 1, "color": "#4B0082" }
+    ],
+    "totalSeats": 234
+  },
+  {
+    "id": "aiadmk-nda",
+    "name": { "en": "National Democratic Alliance", "ta": "தேசிய ஜனநாயகக் கூட்டணி" },
+    "shortName": "AIADMK-NDA",
+    "color": "#00FF00",
+    "leadParty": "AIADMK",
+    "parties": [
+      { "name": { "en": "All India Anna Dravida Munnetra Kazhagam", "ta": "அனைத்திந்திய அண்ணா திராவிட முன்னேற்றக் கழகம்" }, "shortName": "AIADMK", "seats": 178, "color": "#00FF00" },
+      { "name": { "en": "Bharatiya Janata Party", "ta": "பாரதிய ஜனதா கட்சி" }, "shortName": "BJP", "seats": 27, "color": "#FF9933" },
+      { "name": { "en": "Pattali Makkal Katchi", "ta": "பாட்டாளி மக்கள் கட்சி" }, "shortName": "PMK", "seats": 18, "color": "#FFD700" },
+      { "name": { "en": "Amma Makkal Munnetra Kazhagam", "ta": "அம்மா மக்கள் முன்னேற்றக் கழகம்" }, "shortName": "AMMK", "seats": 11, "color": "#32CD32" }
+    ],
+    "totalSeats": 234
+  },
+  {
+    "id": "tvk",
+    "name": { "en": "Tamilaga Vettri Kazhagam", "ta": "தமிழக வெற்றி கழகம்" },
+    "shortName": "TVK",
+    "color": "#FFD700",
+    "leadParty": "TVK",
+    "parties": [
+      { "name": { "en": "Tamilaga Vettri Kazhagam", "ta": "தமிழக வெற்றி கழகம்" }, "shortName": "TVK", "seats": 234, "color": "#FFD700" }
+    ],
+    "totalSeats": 234
+  },
+  {
+    "id": "ntk",
+    "name": { "en": "Naam Tamilar Katchi", "ta": "நாம் தமிழர் கட்சி" },
+    "shortName": "NTK",
+    "color": "#8B0000",
+    "leadParty": "NTK",
+    "parties": [
+      { "name": { "en": "Naam Tamilar Katchi", "ta": "நாம் தமிழர் கட்சி" }, "shortName": "NTK", "seats": 234, "color": "#8B0000" }
+    ],
+    "totalSeats": 234
+  }
+]

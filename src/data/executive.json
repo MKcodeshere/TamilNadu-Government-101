@@ -1,0 +1,446 @@
+{
+  "governor": {
+    "name": "R.V. Arlekar",
+    "since": "2026",
+    "note": "Additional charge; Governor of Kerala holding additional charge of Tamil Nadu after R.N. Ravi was transferred to West Bengal in March 2026"
+  },
+  "chiefMinister": {
+    "name": "M.K. Stalin",
+    "party": "DMK",
+    "constituency": "Kolathur",
+    "since": "2021-05-07"
+  },
+  "deputyChiefMinister": {
+    "name": "Udhayanidhi Stalin",
+    "party": "DMK",
+    "constituency": "Chepauk-Thiruvallikeni",
+    "since": "2024-09-28"
+  },
+  "speaker": {
+    "name": "M. Appavu",
+    "constituency": "Radhapuram"
+  },
+  "ministers": [
+    {
+      "id": "min-01",
+      "name": "M.K. Stalin",
+      "title": { "en": "Chief Minister", "ta": "முதலமைச்சர்" },
+      "portfolios": [
+        { "en": "Public", "ta": "பொது" },
+        { "en": "General Administration", "ta": "பொது நிர்வாகம்" },
+        { "en": "Police", "ta": "காவல்" },
+        { "en": "Home", "ta": "உள்துறை" },
+        { "en": "Welfare of Differently Abled Persons", "ta": "மாற்றுத்திறனாளிகள் நலம்" }
+      ],
+      "party": "DMK",
+      "constituency": "Kolathur",
+      "rank": "cabinet"
+    },
+    {
+      "id": "min-02",
+      "name": "Udhayanidhi Stalin",
+      "title": { "en": "Deputy Chief Minister", "ta": "துணை முதலமைச்சர்" },
+      "portfolios": [
+        { "en": "Youth Welfare and Sports Development", "ta": "இளைஞர் நலனும் விளையாட்டு மேம்பாடும்" },
+        { "en": "Special Programme Implementation", "ta": "சிறப்புத் திட்ட செயலாக்கம்" },
+        { "en": "Planning and Statistics", "ta": "திட்டமிடல் மற்றும் புள்ளியியல்" }
+      ],
+      "party": "DMK",
+      "constituency": "Chepauk-Thiruvallikeni",
+      "rank": "cabinet"
+    },
+    {
+      "id": "min-03",
+      "name": "Duraimurugan",
+      "title": { "en": "Minister for Water Resources", "ta": "நீர்வளத்துறை அமைச்சர்" },
+      "portfolios": [
+        { "en": "Water Resources", "ta": "நீர்வளம்" },
+        { "en": "Legislative Assembly", "ta": "சட்டமன்ற அலுவல்கள்" },
+        { "en": "Elections", "ta": "தேர்தல்" }
+      ],
+      "party": "DMK",
+      "constituency": "Katpadi",
+      "rank": "cabinet"
+    },
+    {
+      "id": "min-04",
+      "name": "K.N. Nehru",
+      "title": { "en": "Minister for Municipal Administration", "ta": "நகராட்சி நிர்வாகத்துறை அமைச்சர்" },
+      "portfolios": [
+        { "en": "Municipal Administration", "ta": "நகராட்சி நிர்வாகம்" },
+        { "en": "Urban Water Supply", "ta": "நகர்ப்புற குடிநீர் வழங்கல்" }
+      ],
+      "party": "DMK",
+      "constituency": "Tiruchirappalli West",
+      "rank": "cabinet"
+    },
+    {
+      "id": "min-05",
+      "name": "Thangam Thennarasu",
+      "title": { "en": "Minister for Finance", "ta": "நிதித்துறை அமைச்சர்" },
+      "portfolios": [
+        { "en": "Finance", "ta": "நிதி" },
+        { "en": "Archaeology", "ta": "தொல்லியல்" },
+        { "en": "Environment and Climate Change", "ta": "சுற்றுச்சூழல் மற்றும் காலநிலை மாற்றம்" }
+      ],
+      "party": "DMK",
+      "constituency": "Tiruchuli",
+      "rank": "cabinet"
+    },
+    {
+      "id": "min-06",
+      "name": "I. Periyasamy",
+      "title": { "en": "Minister for Rural Development", "ta": "ஊரக வளர்ச்சித்துறை அமைச்சர்" },
+      "portfolios": [
+        { "en": "Rural Development", "ta": "ஊரக வளர்ச்சி" },
+        { "en": "Panchayat Raj", "ta": "பஞ்சாயத்து ராஜ்" }
+      ],
+      "party": "DMK",
+      "constituency": "Athoor",
+      "rank": "cabinet"
+    },
+    {
+      "id": "min-07",
+      "name": "E.V. Velu",
+      "title": { "en": "Minister for Public Works", "ta": "பொதுப்பணித்துறை அமைச்சர்" },
+      "portfolios": [
+        { "en": "Public Works", "ta": "பொதுப்பணி" },
+        { "en": "Highways", "ta": "நெடுஞ்சாலைகள்" },
+        { "en": "Minor Ports", "ta": "சிறு துறைமுகங்கள்" }
+      ],
+      "party": "DMK",
+      "constituency": "Tiruvannamalai",
+      "rank": "cabinet"
+    },
+    {
+      "id": "min-08",
+      "name": "M.R.K. Panneerselvam",
+      "title": { "en": "Minister for Agriculture", "ta": "வேளாண்மைத்துறை அமைச்சர்" },
+      "portfolios": [
+        { "en": "Agriculture", "ta": "வேளாண்மை" },
+        { "en": "Horticulture", "ta": "தோட்டக்கலை" },
+        { "en": "Agro Services", "ta": "வேளாண் சேவைகள்" }
+      ],
+      "party": "DMK",
+      "constituency": "Kurinjipadi",
+      "rank": "cabinet"
+    },
+    {
+      "id": "min-09",
+      "name": "K.K.S.S.R. Ramachandran",
+      "title": { "en": "Minister for Revenue", "ta": "வருவாய்த்துறை அமைச்சர்" },
+      "portfolios": [
+        { "en": "Revenue", "ta": "வருவாய்" },
+        { "en": "Disaster Management", "ta": "பேரிடர் மேலாண்மை" }
+      ],
+      "party": "DMK",
+      "constituency": "Aruppukottai",
+      "rank": "cabinet"
+    },
+    {
+      "id": "min-10",
+      "name": "Ma. Subramanian",
+      "title": { "en": "Minister for Health", "ta": "சுகாதாரத்துறை அமைச்சர்" },
+      "portfolios": [
+        { "en": "Health", "ta": "சுகாதாரம்" },
+        { "en": "Medical Education", "ta": "மருத்துவக் கல்வி" },
+        { "en": "Family Welfare", "ta": "குடும்ப நலம்" }
+      ],
+      "party": "DMK",
+      "constituency": "Saidapet",
+      "rank": "cabinet"
+    },
+    {
+      "id": "min-11",
+      "name": "Anbil Mahesh Poyyamozhi",
+      "title": { "en": "Minister for School Education", "ta": "பள்ளிக் கல்வித்துறை அமைச்சர்" },
+      "portfolios": [
+        { "en": "School Education", "ta": "பள்ளிக் கல்வி" }
+      ],
+      "party": "DMK",
+      "constituency": "Thiruverumbur",
+      "rank": "cabinet"
+    },
+    {
+      "id": "min-12",
+      "name": "Govi. Chezhian",
+      "title": { "en": "Minister for Higher Education", "ta": "உயர்கல்வித்துறை அமைச்சர்" },
+      "portfolios": [
+        { "en": "Higher Education", "ta": "உயர்கல்வி" },
+        { "en": "Electronics", "ta": "மின்னணுவியல்" },
+        { "en": "Science and Technology", "ta": "அறிவியல் மற்றும் தொழில்நுட்பம்" }
+      ],
+      "party": "DMK",
+      "constituency": "Thiruvidamarudur",
+      "rank": "cabinet"
+    },
+    {
+      "id": "min-13",
+      "name": "V. Senthil Balaji",
+      "title": { "en": "Minister for Electricity", "ta": "மின்சாரத்துறை அமைச்சர்" },
+      "portfolios": [
+        { "en": "Electricity", "ta": "மின்சாரம்" },
+        { "en": "Non-Conventional Energy Development", "ta": "புதிய மற்றும் புதுப்பிக்கத்தக்க எரிசக்தி" },
+        { "en": "Prohibition and Excise", "ta": "மதுவிலக்கு மற்றும் கலால்" }
+      ],
+      "party": "DMK",
+      "constituency": "Karur",
+      "rank": "cabinet"
+    },
+    {
+      "id": "min-14",
+      "name": "S. Muthusamy",
+      "title": { "en": "Minister for Housing and Urban Development", "ta": "வீட்டு வசதி மற்றும் நகர்ப்புற வளர்ச்சி அமைச்சர்" },
+      "portfolios": [
+        { "en": "Housing and Urban Development", "ta": "வீட்டு வசதி மற்றும் நகர்ப்புற வளர்ச்சி" }
+      ],
+      "party": "DMK",
+      "constituency": "Erode West",
+      "rank": "cabinet"
+    },
+    {
+      "id": "min-15",
+      "name": "T.R.B. Rajaa",
+      "title": { "en": "Minister for Industries", "ta": "தொழிற்துறை அமைச்சர்" },
+      "portfolios": [
+        { "en": "Industries", "ta": "தொழில்" }
+      ],
+      "party": "DMK",
+      "constituency": "Mannargudi",
+      "rank": "cabinet"
+    },
+    {
+      "id": "min-16",
+      "name": "Palanivel Thiagarajan",
+      "title": { "en": "Minister for Information Technology", "ta": "தகவல் தொழில்நுட்பத்துறை அமைச்சர்" },
+      "portfolios": [
+        { "en": "Information Technology", "ta": "தகவல் தொழில்நுட்பம்" },
+        { "en": "Digital Services", "ta": "டிஜிட்டல் சேவைகள்" }
+      ],
+      "party": "DMK",
+      "constituency": "Madurai Central",
+      "rank": "cabinet"
+    },
+    {
+      "id": "min-17",
+      "name": "S. Regupathy",
+      "title": { "en": "Minister for Law", "ta": "சட்டத்துறை அமைச்சர்" },
+      "portfolios": [
+        { "en": "Courts and Law", "ta": "நீதிமன்றங்கள் மற்றும் சட்டம்" },
+        { "en": "Prisons", "ta": "சிறைத்துறை" }
+      ],
+      "party": "DMK",
+      "constituency": "Tirumayam",
+      "rank": "cabinet"
+    },
+    {
+      "id": "min-18",
+      "name": "P. Geetha Jeevan",
+      "title": { "en": "Minister for Social Welfare", "ta": "சமூக நலத்துறை அமைச்சர்" },
+      "portfolios": [
+        { "en": "Social Welfare", "ta": "சமூக நலம்" },
+        { "en": "Women and Child Development", "ta": "பெண்கள் மற்றும் குழந்தைகள் மேம்பாடு" },
+        { "en": "Nutritious Noon Meal Programme", "ta": "சத்துணவுத் திட்டம்" }
+      ],
+      "party": "DMK",
+      "constituency": "Thoothukudi",
+      "rank": "cabinet"
+    },
+    {
+      "id": "min-19",
+      "name": "Anitha R. Radhakrishnan",
+      "title": { "en": "Minister for Fisheries", "ta": "மீன்வளத்துறை அமைச்சர்" },
+      "portfolios": [
+        { "en": "Fisheries", "ta": "மீன்வளம்" },
+        { "en": "Animal Husbandry", "ta": "கால்நடை வளர்ப்பு" }
+      ],
+      "party": "DMK",
+      "constituency": "Tiruchendur",
+      "rank": "cabinet"
+    },
+    {
+      "id": "min-20",
+      "name": "R. Sakkarapani",
+      "title": { "en": "Minister for Food and Civil Supplies", "ta": "உணவு மற்றும் நுகர்பொருள் வழங்கல் அமைச்சர்" },
+      "portfolios": [
+        { "en": "Food and Civil Supplies", "ta": "உணவு மற்றும் நுகர்பொருள் வழங்கல்" },
+        { "en": "Consumer Protection", "ta": "நுகர்வோர் பாதுகாப்பு" }
+      ],
+      "party": "DMK",
+      "constituency": "Oddanchatram",
+      "rank": "cabinet"
+    },
+    {
+      "id": "min-21",
+      "name": "K.R. Periyakaruppan",
+      "title": { "en": "Minister for Cooperation", "ta": "கூட்டுறவுத்துறை அமைச்சர்" },
+      "portfolios": [
+        { "en": "Cooperation", "ta": "கூட்டுறவு" }
+      ],
+      "party": "DMK",
+      "constituency": "Tiruppattur",
+      "rank": "cabinet"
+    },
+    {
+      "id": "min-22",
+      "name": "T.M. Anbarasan",
+      "title": { "en": "Minister for Rural Industries", "ta": "ஊரக தொழில்கள் அமைச்சர்" },
+      "portfolios": [
+        { "en": "Rural Industries", "ta": "ஊரக தொழில்கள்" },
+        { "en": "Small Industries", "ta": "சிறு தொழில்கள்" }
+      ],
+      "party": "DMK",
+      "constituency": "Alandur",
+      "rank": "cabinet"
+    },
+    {
+      "id": "min-23",
+      "name": "M.P. Saminathan",
+      "title": { "en": "Minister for Tamil Language and Culture", "ta": "தமிழ் மொழி மற்றும் பண்பாட்டுத்துறை அமைச்சர்" },
+      "portfolios": [
+        { "en": "Tamil Language and Culture", "ta": "தமிழ் மொழி மற்றும் பண்பாடு" },
+        { "en": "Information and Publicity", "ta": "தகவல் மற்றும் விளம்பரம்" }
+      ],
+      "party": "DMK",
+      "constituency": "Kangayam",
+      "rank": "cabinet"
+    },
+    {
+      "id": "min-24",
+      "name": "P.K. Sekar Babu",
+      "title": { "en": "Minister for Hindu Religious Endowments", "ta": "இந்து சமய அறநிலையத்துறை அமைச்சர்" },
+      "portfolios": [
+        { "en": "Hindu Religious and Charitable Endowments", "ta": "இந்து சமய அறநிலையம்" },
+        { "en": "CMDA", "ta": "சி.எம்.டி.ஏ." }
+      ],
+      "party": "DMK",
+      "constituency": "Harbour",
+      "rank": "cabinet"
+    },
+    {
+      "id": "min-25",
+      "name": "R. Gandhi",
+      "title": { "en": "Minister for Handlooms and Textiles", "ta": "கைத்தறி மற்றும் ஜவுளித்துறை அமைச்சர்" },
+      "portfolios": [
+        { "en": "Handlooms and Textiles", "ta": "கைத்தறி மற்றும் ஜவுளி" }
+      ],
+      "party": "DMK",
+      "constituency": "Ranipet",
+      "rank": "cabinet"
+    },
+    {
+      "id": "min-26",
+      "name": "P. Moorthy",
+      "title": { "en": "Minister for Commercial Taxes", "ta": "வணிக வரித்துறை அமைச்சர்" },
+      "portfolios": [
+        { "en": "Commercial Taxes", "ta": "வணிக வரி" },
+        { "en": "Registration", "ta": "பதிவுத்துறை" }
+      ],
+      "party": "DMK",
+      "constituency": "Madurai East",
+      "rank": "cabinet"
+    },
+    {
+      "id": "min-27",
+      "name": "S.S. Sivasankar",
+      "title": { "en": "Minister for Transport", "ta": "போக்குவரத்துத்துறை அமைச்சர்" },
+      "portfolios": [
+        { "en": "Transport", "ta": "போக்குவரத்து" }
+      ],
+      "party": "DMK",
+      "constituency": "Kunnam",
+      "rank": "cabinet"
+    },
+    {
+      "id": "min-28",
+      "name": "S.M. Nasar",
+      "title": { "en": "Minister for Minorities Welfare", "ta": "சிறுபான்மையினர் நலத்துறை அமைச்சர்" },
+      "portfolios": [
+        { "en": "Minorities Welfare", "ta": "சிறுபான்மையினர் நலம்" },
+        { "en": "Non-Resident Tamils Welfare", "ta": "வெளிநாடு வாழ் தமிழர்கள் நலம்" }
+      ],
+      "party": "DMK",
+      "constituency": "Avadi",
+      "rank": "cabinet"
+    },
+    {
+      "id": "min-29",
+      "name": "Siva V. Meyyanathan",
+      "title": { "en": "Minister for Backward Classes Welfare", "ta": "பிற்படுத்தப்பட்டோர் நலத்துறை அமைச்சர்" },
+      "portfolios": [
+        { "en": "Backward Classes and Most Backward Classes Welfare", "ta": "பிற்படுத்தப்பட்டோர் மற்றும் மிகவும் பிற்படுத்தப்பட்டோர் நலம்" }
+      ],
+      "party": "DMK",
+      "constituency": "Alangudi",
+      "rank": "cabinet"
+    },
+    {
+      "id": "min-30",
+      "name": "C.V. Ganesan",
+      "title": { "en": "Minister for Labour Welfare", "ta": "தொழிலாளர் நலத்துறை அமைச்சர்" },
+      "portfolios": [
+        { "en": "Labour Welfare", "ta": "தொழிலாளர் நலம்" },
+        { "en": "Employment and Training", "ta": "வேலைவாய்ப்பு மற்றும் பயிற்சி" }
+      ],
+      "party": "DMK",
+      "constituency": "Tittakudi",
+      "rank": "cabinet"
+    },
+    {
+      "id": "min-31",
+      "name": "Mano Thangaraj",
+      "title": { "en": "Minister for Milk and Dairy Development", "ta": "பால் மற்றும் பால்வளத்துறை அமைச்சர்" },
+      "portfolios": [
+        { "en": "Milk and Dairy Development", "ta": "பால் மற்றும் பால்வளம்" }
+      ],
+      "party": "DMK",
+      "constituency": "Padmanabhapuram",
+      "rank": "cabinet"
+    },
+    {
+      "id": "min-32",
+      "name": "M. Mathiventhan",
+      "title": { "en": "Minister for Adi Dravidar Welfare", "ta": "ஆதிதிராவிடர் நலத்துறை அமைச்சர்" },
+      "portfolios": [
+        { "en": "Adi Dravidar and Tribal Welfare", "ta": "ஆதிதிராவிடர் மற்றும் பழங்குடியினர் நலம்" }
+      ],
+      "party": "DMK",
+      "constituency": "Rasipuram",
+      "rank": "cabinet"
+    },
+    {
+      "id": "min-33",
+      "name": "N. Kayalvizhi Selvaraj",
+      "title": { "en": "Minister for Human Resources", "ta": "மனிதவளத்துறை அமைச்சர்" },
+      "portfolios": [
+        { "en": "Human Resources Management", "ta": "மனிதவள மேலாண்மை" },
+        { "en": "Pensions and Ex-Servicemen Welfare", "ta": "ஓய்வூதியம் மற்றும் முன்னாள் படைவீரர் நலம்" }
+      ],
+      "party": "DMK",
+      "constituency": "Dharapuram",
+      "rank": "cabinet"
+    },
+    {
+      "id": "min-34",
+      "name": "R. Rajendran",
+      "title": { "en": "Minister for Tourism", "ta": "சுற்றுலாத்துறை அமைச்சர்" },
+      "portfolios": [
+        { "en": "Tourism", "ta": "சுற்றுலா" }
+      ],
+      "party": "DMK",
+      "constituency": "Salem North",
+      "rank": "cabinet"
+    },
+    {
+      "id": "min-35",
+      "name": "Raja Kannappan",
+      "title": { "en": "Minister for Khadi and Village Industries", "ta": "காதி மற்றும் கிராமத் தொழில்கள் அமைச்சர்" },
+      "portfolios": [
+        { "en": "Khadi and Village Industries", "ta": "காதி மற்றும் கிராமத் தொழில்கள்" }
+      ],
+      "party": "DMK",
+      "constituency": "Mudukulathur",
+      "rank": "cabinet"
+    }
+  ]
+}

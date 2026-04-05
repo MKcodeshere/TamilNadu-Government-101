@@ -1,0 +1,2108 @@
+[
+  {
+    "id": "tn-001",
+    "number": 1,
+    "name": { "en": "Gummidipoondi", "ta": "கும்மிடிப்பூண்டி" },
+    "district": "Tiruvallur",
+    "type": "general",
+    "currentMla": { "name": "T.J. Govindarajan", "party": "DMK" },
+    "voterCount": 263000
+  },
+  {
+    "id": "tn-002",
+    "number": 2,
+    "name": { "en": "Ponneri", "ta": "பொன்னேரி" },
+    "district": "Tiruvallur",
+    "type": "sc",
+    "currentMla": { "name": "Durai Chandrasekar", "party": "INC" },
+    "voterCount": 257000
+  },
+  {
+    "id": "tn-003",
+    "number": 3,
+    "name": { "en": "Tiruttani", "ta": "திருத்தணி" },
+    "district": "Tiruvallur",
+    "type": "general",
+    "currentMla": { "name": "S. Chandran", "party": "DMK" },
+    "voterCount": 272000
+  },
+  {
+    "id": "tn-004",
+    "number": 4,
+    "name": { "en": "Tiruvallur", "ta": "திருவள்ளூர்" },
+    "district": "Tiruvallur",
+    "type": "general",
+    "currentMla": { "name": "V.G. Rajendran", "party": "DMK" },
+    "voterCount": 258000
+  },
+  {
+    "id": "tn-005",
+    "number": 5,
+    "name": { "en": "Poonamallee", "ta": "பூந்தமல்லி" },
+    "district": "Tiruvallur",
+    "type": "sc",
+    "currentMla": { "name": "A. Krishnaswamy", "party": "DMK" },
+    "voterCount": 310000
+  },
+  {
+    "id": "tn-006",
+    "number": 6,
+    "name": { "en": "Avadi", "ta": "ஆவடி" },
+    "district": "Tiruvallur",
+    "type": "general",
+    "currentMla": { "name": "S.M. Nasar", "party": "DMK" },
+    "voterCount": 295000
+  },
+  {
+    "id": "tn-007",
+    "number": 7,
+    "name": { "en": "Maduravoyal", "ta": "மதுரவாயல்" },
+    "district": "Chennai",
+    "type": "general",
+    "currentMla": { "name": "K. Ganapathy", "party": "DMK" },
+    "voterCount": 248000
+  },
+  {
+    "id": "tn-008",
+    "number": 8,
+    "name": { "en": "Ambattur", "ta": "அம்பத்தூர்" },
+    "district": "Chennai",
+    "type": "general",
+    "currentMla": { "name": "Joseph Samuel", "party": "DMK" },
+    "voterCount": 267000
+  },
+  {
+    "id": "tn-009",
+    "number": 9,
+    "name": { "en": "Madavaram", "ta": "மாதவரம்" },
+    "district": "Tiruvallur",
+    "type": "general",
+    "currentMla": { "name": "S. Sudharsanam", "party": "DMK" },
+    "voterCount": 284000
+  },
+  {
+    "id": "tn-010",
+    "number": 10,
+    "name": { "en": "Tiruvottiyur", "ta": "திருவொற்றியூர்" },
+    "district": "Chennai",
+    "type": "general",
+    "currentMla": { "name": "K.P. Shankar", "party": "DMK" },
+    "voterCount": 253000
+  },
+  {
+    "id": "tn-011",
+    "number": 11,
+    "name": { "en": "Dr. Radhakrishnan Nagar", "ta": "டாக்டர் ராதாகிருஷ்ணன் நகர்" },
+    "district": "Chennai",
+    "type": "general",
+    "currentMla": { "name": "J.J. Ebenezer", "party": "DMK" },
+    "voterCount": 241000
+  },
+  {
+    "id": "tn-012",
+    "number": 12,
+    "name": { "en": "Perambur", "ta": "பெரம்பூர்" },
+    "district": "Chennai",
+    "type": "general",
+    "currentMla": { "name": "R.D. Shekar", "party": "DMK" },
+    "voterCount": 260000
+  },
+  {
+    "id": "tn-013",
+    "number": 13,
+    "name": { "en": "Kolathur", "ta": "கொளத்தூர்" },
+    "district": "Chennai",
+    "type": "general",
+    "currentMla": { "name": "M.K. Stalin", "party": "DMK" },
+    "voterCount": 275000
+  },
+  {
+    "id": "tn-014",
+    "number": 14,
+    "name": { "en": "Villivakkam", "ta": "வில்லிவாக்கம்" },
+    "district": "Chennai",
+    "type": "general",
+    "currentMla": { "name": "A. Vetriazhagan", "party": "DMK" },
+    "voterCount": 249000
+  },
+  {
+    "id": "tn-015",
+    "number": 15,
+    "name": { "en": "Thiru-Vi-Ka-Nagar", "ta": "திரு.வி.க.நகர்" },
+    "district": "Chennai",
+    "type": "sc",
+    "currentMla": { "name": "P. Sivakumar", "party": "DMK" },
+    "voterCount": 262000
+  },
+  {
+    "id": "tn-016",
+    "number": 16,
+    "name": { "en": "Egmore", "ta": "எழும்பூர்" },
+    "district": "Chennai",
+    "type": "sc",
+    "currentMla": { "name": "I. Paranthamen", "party": "DMK" },
+    "voterCount": 238000
+  },
+  {
+    "id": "tn-017",
+    "number": 17,
+    "name": { "en": "Royapuram", "ta": "இராயபுரம்" },
+    "district": "Chennai",
+    "type": "general",
+    "currentMla": { "name": "R. Murthy", "party": "DMK" },
+    "voterCount": 244000
+  },
+  {
+    "id": "tn-018",
+    "number": 18,
+    "name": { "en": "Harbour", "ta": "துறைமுகம்" },
+    "district": "Chennai",
+    "type": "general",
+    "currentMla": { "name": "P.K. Sekarbabu", "party": "DMK" },
+    "voterCount": 237000
+  },
+  {
+    "id": "tn-019",
+    "number": 19,
+    "name": { "en": "Chepauk-Thiruvallikeni", "ta": "சேப்பாக்கம்-திருவல்லிக்கேணி" },
+    "district": "Chennai",
+    "type": "general",
+    "currentMla": { "name": "Udhayanidhi Stalin", "party": "DMK" },
+    "voterCount": 256000
+  },
+  {
+    "id": "tn-020",
+    "number": 20,
+    "name": { "en": "Thousand Lights", "ta": "ஆயிரம் விளக்கு" },
+    "district": "Chennai",
+    "type": "general",
+    "currentMla": { "name": "N. Ezhilan", "party": "DMK" },
+    "voterCount": 243000
+  },
+  {
+    "id": "tn-021",
+    "number": 21,
+    "name": { "en": "Anna Nagar", "ta": "அண்ணா நகர்" },
+    "district": "Chennai",
+    "type": "general",
+    "currentMla": { "name": "M.K. Mohan", "party": "DMK" },
+    "voterCount": 251000
+  },
+  {
+    "id": "tn-022",
+    "number": 22,
+    "name": { "en": "Virugampakkam", "ta": "விருகம்பாக்கம்" },
+    "district": "Chennai",
+    "type": "general",
+    "currentMla": { "name": "AMV Prabhakara Raja", "party": "DMK" },
+    "voterCount": 246000
+  },
+  {
+    "id": "tn-023",
+    "number": 23,
+    "name": { "en": "Saidapet", "ta": "சைதாப்பேட்டை" },
+    "district": "Chennai",
+    "type": "general",
+    "currentMla": { "name": "Ma. Subramanian", "party": "DMK" },
+    "voterCount": 255000
+  },
+  {
+    "id": "tn-024",
+    "number": 24,
+    "name": { "en": "Thiyagarayanagar", "ta": "தி.நகர்" },
+    "district": "Chennai",
+    "type": "general",
+    "currentMla": { "name": "J. Karunanithi", "party": "DMK" },
+    "voterCount": 240000
+  },
+  {
+    "id": "tn-025",
+    "number": 25,
+    "name": { "en": "Mylapore", "ta": "மயிலாப்பூர்" },
+    "district": "Chennai",
+    "type": "general",
+    "currentMla": { "name": "Dha. Velu", "party": "DMK" },
+    "voterCount": 247000
+  },
+  {
+    "id": "tn-026",
+    "number": 26,
+    "name": { "en": "Velachery", "ta": "வேளச்சேரி" },
+    "district": "Chennai",
+    "type": "general",
+    "currentMla": { "name": "JMH Aassan Maulaana", "party": "INC" },
+    "voterCount": 261000
+  },
+  {
+    "id": "tn-027",
+    "number": 27,
+    "name": { "en": "Sholinganallur", "ta": "சோழிங்கநல்லூர்" },
+    "district": "Chennai",
+    "type": "general",
+    "currentMla": { "name": "S. Aravindramesh", "party": "DMK" },
+    "voterCount": 280000
+  },
+  {
+    "id": "tn-028",
+    "number": 28,
+    "name": { "en": "Alandur", "ta": "ஆலந்தூர்" },
+    "district": "Chennai",
+    "type": "general",
+    "currentMla": { "name": "T.M. Anbarasan", "party": "DMK" },
+    "voterCount": 268000
+  },
+  {
+    "id": "tn-029",
+    "number": 29,
+    "name": { "en": "Sriperumbudur", "ta": "ஸ்ரீபெரும்புதூர்" },
+    "district": "Kancheepuram",
+    "type": "sc",
+    "currentMla": { "name": "K. Selvaperunthagai", "party": "INC" },
+    "voterCount": 273000
+  },
+  {
+    "id": "tn-030",
+    "number": 30,
+    "name": { "en": "Pallavaram", "ta": "பல்லாவரம்" },
+    "district": "Chengalpattu",
+    "type": "general",
+    "currentMla": { "name": "Karunanithi", "party": "DMK" },
+    "voterCount": 265000
+  },
+  {
+    "id": "tn-031",
+    "number": 31,
+    "name": { "en": "Tambaram", "ta": "தாம்பரம்" },
+    "district": "Chengalpattu",
+    "type": "general",
+    "currentMla": { "name": "S.R. Raja", "party": "DMK" },
+    "voterCount": 277000
+  },
+  {
+    "id": "tn-032",
+    "number": 32,
+    "name": { "en": "Chengalpattu", "ta": "செங்கல்பட்டு" },
+    "district": "Chengalpattu",
+    "type": "general",
+    "currentMla": { "name": "M. Varalakshmi", "party": "DMK" },
+    "voterCount": 259000
+  },
+  {
+    "id": "tn-033",
+    "number": 33,
+    "name": { "en": "Thiruporur", "ta": "திருப்போரூர்" },
+    "district": "Chengalpattu",
+    "type": "general",
+    "currentMla": { "name": "S.S. Balaji", "party": "VCK" },
+    "voterCount": 252000
+  },
+  {
+    "id": "tn-034",
+    "number": 34,
+    "name": { "en": "Cheyyur", "ta": "செய்யூர்" },
+    "district": "Chengalpattu",
+    "type": "sc",
+    "currentMla": { "name": "M. Babu", "party": "VCK" },
+    "voterCount": 248000
+  },
+  {
+    "id": "tn-035",
+    "number": 35,
+    "name": { "en": "Madurantakam", "ta": "மதுராந்தகம்" },
+    "district": "Chengalpattu",
+    "type": "sc",
+    "currentMla": { "name": "K. Maragatham", "party": "AIADMK" },
+    "voterCount": 254000
+  },
+  {
+    "id": "tn-036",
+    "number": 36,
+    "name": { "en": "Uthiramerur", "ta": "உத்திரமேரூர்" },
+    "district": "Kancheepuram",
+    "type": "general",
+    "currentMla": { "name": "K. Sundar", "party": "DMK" },
+    "voterCount": 250000
+  },
+  {
+    "id": "tn-037",
+    "number": 37,
+    "name": { "en": "Kancheepuram", "ta": "காஞ்சிபுரம்" },
+    "district": "Kancheepuram",
+    "type": "general",
+    "currentMla": { "name": "CVMP Ezhilarasan", "party": "DMK" },
+    "voterCount": 264000
+  },
+  {
+    "id": "tn-038",
+    "number": 38,
+    "name": { "en": "Arakkonam", "ta": "அரக்கோணம்" },
+    "district": "Ranipet",
+    "type": "sc",
+    "currentMla": { "name": "S. Ravi", "party": "AIADMK" },
+    "voterCount": 269000
+  },
+  {
+    "id": "tn-039",
+    "number": 39,
+    "name": { "en": "Sholingur", "ta": "சோளிங்கர்" },
+    "district": "Ranipet",
+    "type": "general",
+    "currentMla": { "name": "A.M. Munirathinam", "party": "INC" },
+    "voterCount": 271000
+  },
+  {
+    "id": "tn-040",
+    "number": 40,
+    "name": { "en": "Katpadi", "ta": "காட்பாடி" },
+    "district": "Vellore",
+    "type": "general",
+    "currentMla": { "name": "Duraimurugan", "party": "DMK" },
+    "voterCount": 258000
+  },
+  {
+    "id": "tn-041",
+    "number": 41,
+    "name": { "en": "Ranipet", "ta": "இராணிப்பேட்டை" },
+    "district": "Ranipet",
+    "type": "general",
+    "currentMla": { "name": "R. Gandhi", "party": "DMK" },
+    "voterCount": 245000
+  },
+  {
+    "id": "tn-042",
+    "number": 42,
+    "name": { "en": "Arcot", "ta": "ஆற்காடு" },
+    "district": "Ranipet",
+    "type": "general",
+    "currentMla": { "name": "J.L. Eswarappan", "party": "DMK" },
+    "voterCount": 253000
+  },
+  {
+    "id": "tn-043",
+    "number": 43,
+    "name": { "en": "Vellore", "ta": "வேலூர்" },
+    "district": "Vellore",
+    "type": "general",
+    "currentMla": { "name": "P. Karthikeyan", "party": "DMK" },
+    "voterCount": 267000
+  },
+  {
+    "id": "tn-044",
+    "number": 44,
+    "name": { "en": "Anaikattu", "ta": "அணைக்கட்டு" },
+    "district": "Vellore",
+    "type": "general",
+    "currentMla": { "name": "A.P. Nandakumar", "party": "DMK" },
+    "voterCount": 249000
+  },
+  {
+    "id": "tn-045",
+    "number": 45,
+    "name": { "en": "Kilvaithinankuppam", "ta": "கே.வி.குப்பம்" },
+    "district": "Vellore",
+    "type": "sc",
+    "currentMla": { "name": "M. Jagan Moorthy", "party": "AIADMK" },
+    "voterCount": 242000
+  },
+  {
+    "id": "tn-046",
+    "number": 46,
+    "name": { "en": "Gudiyatham", "ta": "குடியாத்தம்" },
+    "district": "Vellore",
+    "type": "sc",
+    "currentMla": { "name": "V. Amulu", "party": "DMK" },
+    "voterCount": 256000
+  },
+  {
+    "id": "tn-047",
+    "number": 47,
+    "name": { "en": "Vaniyambadi", "ta": "வாணியம்பாடி" },
+    "district": "Tirupattur",
+    "type": "general",
+    "currentMla": { "name": "G. Sendhil Kumar", "party": "AIADMK" },
+    "voterCount": 261000
+  },
+  {
+    "id": "tn-048",
+    "number": 48,
+    "name": { "en": "Ambur", "ta": "ஆம்பூர்" },
+    "district": "Tirupattur",
+    "type": "general",
+    "currentMla": { "name": "A.C. Vilwanathan", "party": "DMK" },
+    "voterCount": 254000
+  },
+  {
+    "id": "tn-049",
+    "number": 49,
+    "name": { "en": "Jolarpet", "ta": "ஜோலார்ப்பேட்டை" },
+    "district": "Tirupattur",
+    "type": "general",
+    "currentMla": { "name": "K. Devaraji", "party": "DMK" },
+    "voterCount": 247000
+  },
+  {
+    "id": "tn-050",
+    "number": 50,
+    "name": { "en": "Tirupattur", "ta": "திருப்பத்தூர்" },
+    "district": "Tirupattur",
+    "type": "general",
+    "currentMla": { "name": "A. Nallathambi", "party": "DMK" },
+    "voterCount": 268000
+  },
+  {
+    "id": "tn-051",
+    "number": 51,
+    "name": { "en": "Uthangarai", "ta": "ஊத்தங்கரை" },
+    "district": "Krishnagiri",
+    "type": "sc",
+    "currentMla": { "name": "T.M. Tamilselvam", "party": "AIADMK" },
+    "voterCount": 271000
+  },
+  {
+    "id": "tn-052",
+    "number": 52,
+    "name": { "en": "Bargur", "ta": "பர்கூர்" },
+    "district": "Krishnagiri",
+    "type": "general",
+    "currentMla": { "name": "D. Mathiazhagan", "party": "DMK" },
+    "voterCount": 243000
+  },
+  {
+    "id": "tn-053",
+    "number": 53,
+    "name": { "en": "Krishnagiri", "ta": "கிருஷ்ணகிரி" },
+    "district": "Krishnagiri",
+    "type": "general",
+    "currentMla": { "name": "K. Ashokkumar", "party": "AIADMK" },
+    "voterCount": 257000
+  },
+  {
+    "id": "tn-054",
+    "number": 54,
+    "name": { "en": "Veppanahalli", "ta": "வேப்பனஹள்ளி" },
+    "district": "Krishnagiri",
+    "type": "general",
+    "currentMla": { "name": "K.P. Munusamy", "party": "AIADMK" },
+    "voterCount": 249000
+  },
+  {
+    "id": "tn-055",
+    "number": 55,
+    "name": { "en": "Hosur", "ta": "ஓசூர்" },
+    "district": "Krishnagiri",
+    "type": "general",
+    "currentMla": { "name": "Y. Prakaash", "party": "DMK" },
+    "voterCount": 282000
+  },
+  {
+    "id": "tn-056",
+    "number": 56,
+    "name": { "en": "Thalli", "ta": "தளி" },
+    "district": "Krishnagiri",
+    "type": "general",
+    "currentMla": { "name": "T. Ramachandran", "party": "CPI" },
+    "voterCount": 266000
+  },
+  {
+    "id": "tn-057",
+    "number": 57,
+    "name": { "en": "Palacode", "ta": "பாலக்கோடு" },
+    "district": "Dharmapuri",
+    "type": "general",
+    "currentMla": { "name": "K.P. Anbalagan", "party": "AIADMK" },
+    "voterCount": 273000
+  },
+  {
+    "id": "tn-058",
+    "number": 58,
+    "name": { "en": "Pennagaram", "ta": "பென்னாகரம்" },
+    "district": "Dharmapuri",
+    "type": "general",
+    "currentMla": { "name": "G.K. Mani", "party": "PMK" },
+    "voterCount": 258000
+  },
+  {
+    "id": "tn-059",
+    "number": 59,
+    "name": { "en": "Dharmapuri", "ta": "தருமபுரி" },
+    "district": "Dharmapuri",
+    "type": "general",
+    "currentMla": { "name": "S.P. Venkateshwaran", "party": "PMK" },
+    "voterCount": 264000
+  },
+  {
+    "id": "tn-060",
+    "number": 60,
+    "name": { "en": "Pappireddippatti", "ta": "பாப்பிரெட்டிப்பட்டி" },
+    "district": "Dharmapuri",
+    "type": "general",
+    "currentMla": { "name": "A. Govindasamy", "party": "AIADMK" },
+    "voterCount": 252000
+  },
+  {
+    "id": "tn-061",
+    "number": 61,
+    "name": { "en": "Harur", "ta": "அரூர்" },
+    "district": "Dharmapuri",
+    "type": "sc",
+    "currentMla": { "name": "V. Sampathkumar", "party": "AIADMK" },
+    "voterCount": 269000
+  },
+  {
+    "id": "tn-062",
+    "number": 62,
+    "name": { "en": "Chengam", "ta": "செங்கம்" },
+    "district": "Tiruvannamalai",
+    "type": "sc",
+    "currentMla": { "name": "M.P. Giri", "party": "DMK" },
+    "voterCount": 244000
+  },
+  {
+    "id": "tn-063",
+    "number": 63,
+    "name": { "en": "Tiruvannamalai", "ta": "திருவண்ணாமலை" },
+    "district": "Tiruvannamalai",
+    "type": "general",
+    "currentMla": { "name": "E.V. Velu", "party": "DMK" },
+    "voterCount": 287000
+  },
+  {
+    "id": "tn-064",
+    "number": 64,
+    "name": { "en": "Kilpennathur", "ta": "கீழ்ப்பெண்ணாத்தூர்" },
+    "district": "Tiruvannamalai",
+    "type": "general",
+    "currentMla": { "name": "K. Pitchandi", "party": "DMK" },
+    "voterCount": 250000
+  },
+  {
+    "id": "tn-065",
+    "number": 65,
+    "name": { "en": "Kalasapakkam", "ta": "கலசப்பாக்கம்" },
+    "district": "Tiruvannamalai",
+    "type": "general",
+    "currentMla": { "name": "P.S.T. Saravanan", "party": "DMK" },
+    "voterCount": 248000
+  },
+  {
+    "id": "tn-066",
+    "number": 66,
+    "name": { "en": "Polur", "ta": "போளூர்" },
+    "district": "Tiruvannamalai",
+    "type": "general",
+    "currentMla": { "name": "S.S. Agri Krishnamurthy", "party": "AIADMK" },
+    "voterCount": 255000
+  },
+  {
+    "id": "tn-067",
+    "number": 67,
+    "name": { "en": "Arani", "ta": "ஆரணி" },
+    "district": "Tiruvannamalai",
+    "type": "general",
+    "currentMla": { "name": "S. Ramachandran", "party": "AIADMK" },
+    "voterCount": 251000
+  },
+  {
+    "id": "tn-068",
+    "number": 68,
+    "name": { "en": "Cheyyar", "ta": "செய்யார்" },
+    "district": "Tiruvannamalai",
+    "type": "general",
+    "currentMla": { "name": "O. Jothi", "party": "DMK" },
+    "voterCount": 246000
+  },
+  {
+    "id": "tn-069",
+    "number": 69,
+    "name": { "en": "Vandavasi", "ta": "வந்தவாசி" },
+    "district": "Tiruvannamalai",
+    "type": "sc",
+    "currentMla": { "name": "S. Ambethkumar", "party": "DMK" },
+    "voterCount": 260000
+  },
+  {
+    "id": "tn-070",
+    "number": 70,
+    "name": { "en": "Gingee", "ta": "செஞ்சி" },
+    "district": "Villupuram",
+    "type": "general",
+    "currentMla": { "name": "K.S. Masthan", "party": "DMK" },
+    "voterCount": 257000
+  },
+  {
+    "id": "tn-071",
+    "number": 71,
+    "name": { "en": "Mailam", "ta": "மயிலம்" },
+    "district": "Villupuram",
+    "type": "general",
+    "currentMla": { "name": "C. Sivakumar", "party": "PMK" },
+    "voterCount": 242000
+  },
+  {
+    "id": "tn-072",
+    "number": 72,
+    "name": { "en": "Tindivanam", "ta": "திண்டிவனம்" },
+    "district": "Villupuram",
+    "type": "sc",
+    "currentMla": { "name": "P. Arjunan", "party": "AIADMK" },
+    "voterCount": 253000
+  },
+  {
+    "id": "tn-073",
+    "number": 73,
+    "name": { "en": "Vanur", "ta": "வாணூர்" },
+    "district": "Villupuram",
+    "type": "sc",
+    "currentMla": { "name": "M. Chakrapani", "party": "AIADMK" },
+    "voterCount": 247000
+  },
+  {
+    "id": "tn-074",
+    "number": 74,
+    "name": { "en": "Villupuram", "ta": "விழுப்புரம்" },
+    "district": "Villupuram",
+    "type": "general",
+    "currentMla": { "name": "R. Lakshmanan", "party": "DMK" },
+    "voterCount": 259000
+  },
+  {
+    "id": "tn-075",
+    "number": 75,
+    "name": { "en": "Vikravandi", "ta": "விக்ரவாண்டி" },
+    "district": "Villupuram",
+    "type": "general",
+    "currentMla": { "name": "N. Pugazhenthi", "party": "DMK" },
+    "voterCount": 244000
+  },
+  {
+    "id": "tn-076",
+    "number": 76,
+    "name": { "en": "Tirukkoyilur", "ta": "திருக்கோயிலூர்" },
+    "district": "Kallakurichi",
+    "type": "general",
+    "currentMla": { "name": "K. Ponmudy", "party": "DMK" },
+    "voterCount": 270000
+  },
+  {
+    "id": "tn-077",
+    "number": 77,
+    "name": { "en": "Ulundurpettai", "ta": "உளுந்தூர்ப்பேட்டை" },
+    "district": "Kallakurichi",
+    "type": "general",
+    "currentMla": { "name": "A.J. Manikannan", "party": "DMK" },
+    "voterCount": 249000
+  },
+  {
+    "id": "tn-078",
+    "number": 78,
+    "name": { "en": "Rishivandiyam", "ta": "ரிஷிவந்தியம்" },
+    "district": "Kallakurichi",
+    "type": "general",
+    "currentMla": { "name": "K. Karthikeyan", "party": "DMK" },
+    "voterCount": 256000
+  },
+  {
+    "id": "tn-079",
+    "number": 79,
+    "name": { "en": "Sankarapuram", "ta": "சங்கராபுரம்" },
+    "district": "Kallakurichi",
+    "type": "general",
+    "currentMla": { "name": "T. Udhayasuriyan", "party": "DMK" },
+    "voterCount": 262000
+  },
+  {
+    "id": "tn-080",
+    "number": 80,
+    "name": { "en": "Kallakurichi", "ta": "கள்ளக்குறிச்சி" },
+    "district": "Kallakurichi",
+    "type": "sc",
+    "currentMla": { "name": "M. Senthilkumar", "party": "AIADMK" },
+    "voterCount": 254000
+  },
+  {
+    "id": "tn-081",
+    "number": 81,
+    "name": { "en": "Gangavalli", "ta": "கங்கவள்ளி" },
+    "district": "Salem",
+    "type": "sc",
+    "currentMla": { "name": "A. Nallathambi", "party": "AIADMK" },
+    "voterCount": 248000
+  },
+  {
+    "id": "tn-082",
+    "number": 82,
+    "name": { "en": "Attur", "ta": "ஆத்தூர்" },
+    "district": "Salem",
+    "type": "sc",
+    "currentMla": { "name": "A.P. Jayasankaran", "party": "AIADMK" },
+    "voterCount": 251000
+  },
+  {
+    "id": "tn-083",
+    "number": 83,
+    "name": { "en": "Yercaud", "ta": "ஏற்காடு" },
+    "district": "Salem",
+    "type": "st",
+    "currentMla": { "name": "G. Chitra", "party": "AIADMK" },
+    "voterCount": 237000
+  },
+  {
+    "id": "tn-084",
+    "number": 84,
+    "name": { "en": "Omalur", "ta": "ஓமலூர்" },
+    "district": "Salem",
+    "type": "general",
+    "currentMla": { "name": "R. Mani", "party": "AIADMK" },
+    "voterCount": 263000
+  },
+  {
+    "id": "tn-085",
+    "number": 85,
+    "name": { "en": "Mettur", "ta": "மேட்டூர்" },
+    "district": "Salem",
+    "type": "general",
+    "currentMla": { "name": "S. Sadhasivam", "party": "PMK" },
+    "voterCount": 252000
+  },
+  {
+    "id": "tn-086",
+    "number": 86,
+    "name": { "en": "Edappadi", "ta": "எடப்பாடி" },
+    "district": "Salem",
+    "type": "general",
+    "currentMla": { "name": "K. Palaniswami (Edappadi)", "party": "AIADMK" },
+    "voterCount": 276000
+  },
+  {
+    "id": "tn-087",
+    "number": 87,
+    "name": { "en": "Sankari", "ta": "சங்ககிரி" },
+    "district": "Salem",
+    "type": "general",
+    "currentMla": { "name": "S. Sundararajan", "party": "AIADMK" },
+    "voterCount": 255000
+  },
+  {
+    "id": "tn-088",
+    "number": 88,
+    "name": { "en": "Salem West", "ta": "சேலம் மேற்கு" },
+    "district": "Salem",
+    "type": "general",
+    "currentMla": { "name": "R. Arul", "party": "PMK" },
+    "voterCount": 247000
+  },
+  {
+    "id": "tn-089",
+    "number": 89,
+    "name": { "en": "Salem North", "ta": "சேலம் வடக்கு" },
+    "district": "Salem",
+    "type": "general",
+    "currentMla": { "name": "R. Rajendran", "party": "DMK" },
+    "voterCount": 243000
+  },
+  {
+    "id": "tn-090",
+    "number": 90,
+    "name": { "en": "Salem South", "ta": "சேலம் தெற்கு" },
+    "district": "Salem",
+    "type": "general",
+    "currentMla": { "name": "E. Balasubramanian", "party": "AIADMK" },
+    "voterCount": 250000
+  },
+  {
+    "id": "tn-091",
+    "number": 91,
+    "name": { "en": "Veerapandi", "ta": "வீரபாண்டி" },
+    "district": "Salem",
+    "type": "general",
+    "currentMla": { "name": "M. Rajamuthu", "party": "AIADMK" },
+    "voterCount": 256000
+  },
+  {
+    "id": "tn-092",
+    "number": 92,
+    "name": { "en": "Rasipuram", "ta": "இராசிபுரம்" },
+    "district": "Namakkal",
+    "type": "sc",
+    "currentMla": { "name": "M. Mathiventhan", "party": "DMK" },
+    "voterCount": 248000
+  },
+  {
+    "id": "tn-093",
+    "number": 93,
+    "name": { "en": "Senthamangalam", "ta": "சேந்தமங்கலம்" },
+    "district": "Namakkal",
+    "type": "st",
+    "currentMla": { "name": "K. Ponnusamy", "party": "DMK" },
+    "voterCount": 240000
+  },
+  {
+    "id": "tn-094",
+    "number": 94,
+    "name": { "en": "Namakkal", "ta": "நாமக்கல்" },
+    "district": "Namakkal",
+    "type": "general",
+    "currentMla": { "name": "P. Ramalingam", "party": "DMK" },
+    "voterCount": 262000
+  },
+  {
+    "id": "tn-095",
+    "number": 95,
+    "name": { "en": "Paramathi-Velur", "ta": "பரமத்தி வேலூர்" },
+    "district": "Namakkal",
+    "type": "general",
+    "currentMla": { "name": "S. Sekar", "party": "AIADMK" },
+    "voterCount": 253000
+  },
+  {
+    "id": "tn-096",
+    "number": 96,
+    "name": { "en": "Tiruchengodu", "ta": "திருச்செங்கோடு" },
+    "district": "Namakkal",
+    "type": "general",
+    "currentMla": { "name": "E.R. Eswaran", "party": "DMK" },
+    "voterCount": 259000
+  },
+  {
+    "id": "tn-097",
+    "number": 97,
+    "name": { "en": "Kumarapalayam", "ta": "குமாரபாளையம்" },
+    "district": "Erode",
+    "type": "general",
+    "currentMla": { "name": "P. Thangamani", "party": "AIADMK" },
+    "voterCount": 265000
+  },
+  {
+    "id": "tn-098",
+    "number": 98,
+    "name": { "en": "Erode East", "ta": "ஈரோடு கிழக்கு" },
+    "district": "Erode",
+    "type": "general",
+    "currentMla": { "name": "E. Thirumahan Everaa", "party": "INC" },
+    "voterCount": 247000
+  },
+  {
+    "id": "tn-099",
+    "number": 99,
+    "name": { "en": "Erode West", "ta": "ஈரோடு மேற்கு" },
+    "district": "Erode",
+    "type": "general",
+    "currentMla": { "name": "S. Muthusamy", "party": "DMK" },
+    "voterCount": 255000
+  },
+  {
+    "id": "tn-100",
+    "number": 100,
+    "name": { "en": "Modakkurichi", "ta": "மொடக்குறிச்சி" },
+    "district": "Erode",
+    "type": "general",
+    "currentMla": { "name": "C. Saraswathi", "party": "BJP" },
+    "voterCount": 250000
+  },
+  {
+    "id": "tn-101",
+    "number": 101,
+    "name": { "en": "Dharapuram", "ta": "தாராபுரம்" },
+    "district": "Tiruppur",
+    "type": "sc",
+    "currentMla": { "name": "N. Kayalvizhi", "party": "DMK" },
+    "voterCount": 244000
+  },
+  {
+    "id": "tn-102",
+    "number": 102,
+    "name": { "en": "Kangayam", "ta": "காங்கேயம்" },
+    "district": "Tiruppur",
+    "type": "general",
+    "currentMla": { "name": "M.P. Saminathan", "party": "DMK" },
+    "voterCount": 256000
+  },
+  {
+    "id": "tn-103",
+    "number": 103,
+    "name": { "en": "Perundurai", "ta": "பெருந்துறை" },
+    "district": "Erode",
+    "type": "general",
+    "currentMla": { "name": "S. Jayakumar", "party": "AIADMK" },
+    "voterCount": 261000
+  },
+  {
+    "id": "tn-104",
+    "number": 104,
+    "name": { "en": "Bhavani", "ta": "பவானி" },
+    "district": "Erode",
+    "type": "general",
+    "currentMla": { "name": "K.C. Karuppanan", "party": "AIADMK" },
+    "voterCount": 253000
+  },
+  {
+    "id": "tn-105",
+    "number": 105,
+    "name": { "en": "Anthiyur", "ta": "அந்தியூர்" },
+    "district": "Erode",
+    "type": "general",
+    "currentMla": { "name": "A.G. Venkatachalam", "party": "DMK" },
+    "voterCount": 248000
+  },
+  {
+    "id": "tn-106",
+    "number": 106,
+    "name": { "en": "Gobichettipalayam", "ta": "கோபிச்செட்டிப்பாளையம்" },
+    "district": "Erode",
+    "type": "general",
+    "currentMla": { "name": "K.A. Sengottaiyan", "party": "AIADMK" },
+    "voterCount": 264000
+  },
+  {
+    "id": "tn-107",
+    "number": 107,
+    "name": { "en": "Bhavanisagar", "ta": "பவானிசாகர்" },
+    "district": "Erode",
+    "type": "sc",
+    "currentMla": { "name": "A. Bannari", "party": "AIADMK" },
+    "voterCount": 242000
+  },
+  {
+    "id": "tn-108",
+    "number": 108,
+    "name": { "en": "Udhagamandalam", "ta": "உதகமண்டலம்" },
+    "district": "Nilgiris",
+    "type": "general",
+    "currentMla": { "name": "R. Ganesh", "party": "INC" },
+    "voterCount": 235000
+  },
+  {
+    "id": "tn-109",
+    "number": 109,
+    "name": { "en": "Gudalur", "ta": "கூடலூர்" },
+    "district": "Nilgiris",
+    "type": "sc",
+    "currentMla": { "name": "Pon. Jayaseelan", "party": "AIADMK" },
+    "voterCount": 228000
+  },
+  {
+    "id": "tn-110",
+    "number": 110,
+    "name": { "en": "Coonoor", "ta": "குன்னூர்" },
+    "district": "Nilgiris",
+    "type": "general",
+    "currentMla": { "name": "K. Ramachandran", "party": "DMK" },
+    "voterCount": 232000
+  },
+  {
+    "id": "tn-111",
+    "number": 111,
+    "name": { "en": "Mettupalayam", "ta": "மேட்டுப்பாளையம்" },
+    "district": "Coimbatore",
+    "type": "general",
+    "currentMla": { "name": "A.K. Selvaraj", "party": "AIADMK" },
+    "voterCount": 258000
+  },
+  {
+    "id": "tn-112",
+    "number": 112,
+    "name": { "en": "Avanashi", "ta": "அவினாசி" },
+    "district": "Tiruppur",
+    "type": "sc",
+    "currentMla": { "name": "P. Dhanapal", "party": "AIADMK" },
+    "voterCount": 267000
+  },
+  {
+    "id": "tn-113",
+    "number": 113,
+    "name": { "en": "Tiruppur North", "ta": "திருப்பூர் வடக்கு" },
+    "district": "Tiruppur",
+    "type": "general",
+    "currentMla": { "name": "K.N. Vijeyakumar", "party": "AIADMK" },
+    "voterCount": 271000
+  },
+  {
+    "id": "tn-114",
+    "number": 114,
+    "name": { "en": "Tiruppur South", "ta": "திருப்பூர் தெற்கு" },
+    "district": "Tiruppur",
+    "type": "general",
+    "currentMla": { "name": "K. Selvaraj", "party": "DMK" },
+    "voterCount": 264000
+  },
+  {
+    "id": "tn-115",
+    "number": 115,
+    "name": { "en": "Palladam", "ta": "பல்லடம்" },
+    "district": "Tiruppur",
+    "type": "general",
+    "currentMla": { "name": "MSM Anandan", "party": "AIADMK" },
+    "voterCount": 259000
+  },
+  {
+    "id": "tn-116",
+    "number": 116,
+    "name": { "en": "Sulur", "ta": "சூலூர்" },
+    "district": "Coimbatore",
+    "type": "general",
+    "currentMla": { "name": "V.P. Kandasamy", "party": "AIADMK" },
+    "voterCount": 262000
+  },
+  {
+    "id": "tn-117",
+    "number": 117,
+    "name": { "en": "Kavundampalayam", "ta": "கவுண்டம்பாளையம்" },
+    "district": "Coimbatore",
+    "type": "general",
+    "currentMla": { "name": "G. Arunkumar", "party": "AIADMK" },
+    "voterCount": 255000
+  },
+  {
+    "id": "tn-118",
+    "number": 118,
+    "name": { "en": "Coimbatore North", "ta": "கோயம்புத்தூர் வடக்கு" },
+    "district": "Coimbatore",
+    "type": "general",
+    "currentMla": { "name": "K. Amman Arjunan", "party": "AIADMK" },
+    "voterCount": 247000
+  },
+  {
+    "id": "tn-119",
+    "number": 119,
+    "name": { "en": "Thondamuthur", "ta": "தொண்டாமுத்தூர்" },
+    "district": "Coimbatore",
+    "type": "general",
+    "currentMla": { "name": "S.P. Velumani", "party": "AIADMK" },
+    "voterCount": 268000
+  },
+  {
+    "id": "tn-120",
+    "number": 120,
+    "name": { "en": "Coimbatore South", "ta": "கோயம்புத்தூர் தெற்கு" },
+    "district": "Coimbatore",
+    "type": "general",
+    "currentMla": { "name": "Vanathi Srinivasan", "party": "BJP" },
+    "voterCount": 253000
+  },
+  {
+    "id": "tn-121",
+    "number": 121,
+    "name": { "en": "Singanallur", "ta": "சிங்காநல்லூர்" },
+    "district": "Coimbatore",
+    "type": "general",
+    "currentMla": { "name": "K.R. Jayaram", "party": "AIADMK" },
+    "voterCount": 260000
+  },
+  {
+    "id": "tn-122",
+    "number": 122,
+    "name": { "en": "Kinathukadavu", "ta": "கிணத்துக்கடவு" },
+    "district": "Coimbatore",
+    "type": "general",
+    "currentMla": { "name": "S. Damodaran", "party": "AIADMK" },
+    "voterCount": 249000
+  },
+  {
+    "id": "tn-123",
+    "number": 123,
+    "name": { "en": "Pollachi", "ta": "பொள்ளாச்சி" },
+    "district": "Coimbatore",
+    "type": "general",
+    "currentMla": { "name": "V. Jayaraman", "party": "AIADMK" },
+    "voterCount": 257000
+  },
+  {
+    "id": "tn-124",
+    "number": 124,
+    "name": { "en": "Valparai", "ta": "வால்பாறை" },
+    "district": "Coimbatore",
+    "type": "sc",
+    "currentMla": { "name": "T.K. Amulkandasami", "party": "AIADMK" },
+    "voterCount": 231000
+  },
+  {
+    "id": "tn-125",
+    "number": 125,
+    "name": { "en": "Udumalaipettai", "ta": "உடுமலைப்பேட்டை" },
+    "district": "Tiruppur",
+    "type": "general",
+    "currentMla": { "name": "K. Radhakrishnan", "party": "AIADMK" },
+    "voterCount": 261000
+  },
+  {
+    "id": "tn-126",
+    "number": 126,
+    "name": { "en": "Madathukulam", "ta": "மடத்துக்குளம்" },
+    "district": "Tiruppur",
+    "type": "general",
+    "currentMla": { "name": "C. Mahendran", "party": "AIADMK" },
+    "voterCount": 248000
+  },
+  {
+    "id": "tn-127",
+    "number": 127,
+    "name": { "en": "Palani", "ta": "பழநி" },
+    "district": "Dindigul",
+    "type": "general",
+    "currentMla": { "name": "I.P. Senthil Kumar", "party": "DMK" },
+    "voterCount": 266000
+  },
+  {
+    "id": "tn-128",
+    "number": 128,
+    "name": { "en": "Oddanchatram", "ta": "ஓட்டன்சத்திரம்" },
+    "district": "Dindigul",
+    "type": "general",
+    "currentMla": { "name": "R. Sakkarapani", "party": "DMK" },
+    "voterCount": 258000
+  },
+  {
+    "id": "tn-129",
+    "number": 129,
+    "name": { "en": "Athoor", "ta": "ஆத்தூர்" },
+    "district": "Dindigul",
+    "type": "general",
+    "currentMla": { "name": "I. Periyasamy", "party": "DMK" },
+    "voterCount": 274000
+  },
+  {
+    "id": "tn-130",
+    "number": 130,
+    "name": { "en": "Nilakkottai", "ta": "நிலக்கோட்டை" },
+    "district": "Dindigul",
+    "type": "sc",
+    "currentMla": { "name": "S. Thenmozhi", "party": "AIADMK" },
+    "voterCount": 245000
+  },
+  {
+    "id": "tn-131",
+    "number": 131,
+    "name": { "en": "Natham", "ta": "நத்தம்" },
+    "district": "Dindigul",
+    "type": "general",
+    "currentMla": { "name": "R. Viswanathan", "party": "AIADMK" },
+    "voterCount": 252000
+  },
+  {
+    "id": "tn-132",
+    "number": 132,
+    "name": { "en": "Dindigul", "ta": "திண்டுக்கல்" },
+    "district": "Dindigul",
+    "type": "general",
+    "currentMla": { "name": "C. Sreenivasan", "party": "AIADMK" },
+    "voterCount": 263000
+  },
+  {
+    "id": "tn-133",
+    "number": 133,
+    "name": { "en": "Vedasandur", "ta": "வேடசந்தூர்" },
+    "district": "Dindigul",
+    "type": "general",
+    "currentMla": { "name": "S. Gandhirajan", "party": "DMK" },
+    "voterCount": 249000
+  },
+  {
+    "id": "tn-134",
+    "number": 134,
+    "name": { "en": "Aravakurichi", "ta": "அரவக்குறிச்சி" },
+    "district": "Karur",
+    "type": "general",
+    "currentMla": { "name": "R. Elango", "party": "DMK" },
+    "voterCount": 255000
+  },
+  {
+    "id": "tn-135",
+    "number": 135,
+    "name": { "en": "Karur", "ta": "கரூர்" },
+    "district": "Karur",
+    "type": "general",
+    "currentMla": { "name": "V. Senthilbalaji", "party": "DMK" },
+    "voterCount": 267000
+  },
+  {
+    "id": "tn-136",
+    "number": 136,
+    "name": { "en": "Krishnarayapuram", "ta": "கிருஷ்ணராயபுரம்" },
+    "district": "Karur",
+    "type": "sc",
+    "currentMla": { "name": "K. Sivagama Sundari", "party": "DMK" },
+    "voterCount": 244000
+  },
+  {
+    "id": "tn-137",
+    "number": 137,
+    "name": { "en": "Kulithalai", "ta": "குளித்தலை" },
+    "district": "Karur",
+    "type": "general",
+    "currentMla": { "name": "R. Manickam", "party": "DMK" },
+    "voterCount": 252000
+  },
+  {
+    "id": "tn-138",
+    "number": 138,
+    "name": { "en": "Manapparai", "ta": "மணப்பாறை" },
+    "district": "Tiruchirappalli",
+    "type": "general",
+    "currentMla": { "name": "P. Abdul Samad", "party": "DMK" },
+    "voterCount": 258000
+  },
+  {
+    "id": "tn-139",
+    "number": 139,
+    "name": { "en": "Srirangam", "ta": "ஸ்ரீரங்கம்" },
+    "district": "Tiruchirappalli",
+    "type": "general",
+    "currentMla": { "name": "M. Palaniyandi", "party": "DMK" },
+    "voterCount": 262000
+  },
+  {
+    "id": "tn-140",
+    "number": 140,
+    "name": { "en": "Tiruchirappalli West", "ta": "திருச்சிராப்பள்ளி மேற்கு" },
+    "district": "Tiruchirappalli",
+    "type": "general",
+    "currentMla": { "name": "K.N. Nehru", "party": "DMK" },
+    "voterCount": 270000
+  },
+  {
+    "id": "tn-141",
+    "number": 141,
+    "name": { "en": "Tiruchirappalli East", "ta": "திருச்சிராப்பள்ளி கிழக்கு" },
+    "district": "Tiruchirappalli",
+    "type": "general",
+    "currentMla": { "name": "S. Inigo Irudayaraj", "party": "DMK" },
+    "voterCount": 265000
+  },
+  {
+    "id": "tn-142",
+    "number": 142,
+    "name": { "en": "Thiruverumbur", "ta": "திருவெறும்பூர்" },
+    "district": "Tiruchirappalli",
+    "type": "general",
+    "currentMla": { "name": "Anbil Mahesh Poyyamozhi", "party": "DMK" },
+    "voterCount": 272000
+  },
+  {
+    "id": "tn-143",
+    "number": 143,
+    "name": { "en": "Lalgudi", "ta": "லால்குடி" },
+    "district": "Tiruchirappalli",
+    "type": "general",
+    "currentMla": { "name": "A. Soundarapandian", "party": "DMK" },
+    "voterCount": 254000
+  },
+  {
+    "id": "tn-144",
+    "number": 144,
+    "name": { "en": "Manachanallur", "ta": "மண்ணச்சநல்லூர்" },
+    "district": "Tiruchirappalli",
+    "type": "general",
+    "currentMla": { "name": "S. Kathiravan", "party": "DMK" },
+    "voterCount": 268000
+  },
+  {
+    "id": "tn-145",
+    "number": 145,
+    "name": { "en": "Musiri", "ta": "முசிறி" },
+    "district": "Tiruchirappalli",
+    "type": "general",
+    "currentMla": { "name": "N. Thiyagarajan", "party": "DMK" },
+    "voterCount": 250000
+  },
+  {
+    "id": "tn-146",
+    "number": 146,
+    "name": { "en": "Thuraiyur", "ta": "துறையூர்" },
+    "district": "Tiruchirappalli",
+    "type": "sc",
+    "currentMla": { "name": "S. Stalinkumar", "party": "DMK" },
+    "voterCount": 246000
+  },
+  {
+    "id": "tn-147",
+    "number": 147,
+    "name": { "en": "Perambalur", "ta": "பெரம்பலூர்" },
+    "district": "Perambalur",
+    "type": "sc",
+    "currentMla": { "name": "M. Prabhaharan", "party": "DMK" },
+    "voterCount": 243000
+  },
+  {
+    "id": "tn-148",
+    "number": 148,
+    "name": { "en": "Kunnam", "ta": "குன்னம்" },
+    "district": "Perambalur",
+    "type": "general",
+    "currentMla": { "name": "S.S. Sivasankar", "party": "DMK" },
+    "voterCount": 249000
+  },
+  {
+    "id": "tn-149",
+    "number": 149,
+    "name": { "en": "Ariyalur", "ta": "அரியலூர்" },
+    "district": "Ariyalur",
+    "type": "general",
+    "currentMla": { "name": "K. Chinnappa", "party": "DMK" },
+    "voterCount": 252000
+  },
+  {
+    "id": "tn-150",
+    "number": 150,
+    "name": { "en": "Jayankondam", "ta": "ஜெயங்கொண்டம்" },
+    "district": "Ariyalur",
+    "type": "general",
+    "currentMla": { "name": "Ka So Ka Kannan", "party": "DMK" },
+    "voterCount": 248000
+  },
+  {
+    "id": "tn-151",
+    "number": 151,
+    "name": { "en": "Tittakudi", "ta": "திட்டக்குடி" },
+    "district": "Cuddalore",
+    "type": "sc",
+    "currentMla": { "name": "C.V. Ganesan", "party": "DMK" },
+    "voterCount": 255000
+  },
+  {
+    "id": "tn-152",
+    "number": 152,
+    "name": { "en": "Vriddhachalam", "ta": "விருத்தாசலம்" },
+    "district": "Cuddalore",
+    "type": "general",
+    "currentMla": { "name": "Radhakrishnan", "party": "INC" },
+    "voterCount": 247000
+  },
+  {
+    "id": "tn-153",
+    "number": 153,
+    "name": { "en": "Neyveli", "ta": "நெய்வேலி" },
+    "district": "Cuddalore",
+    "type": "general",
+    "currentMla": { "name": "Saba. Rajendran", "party": "DMK" },
+    "voterCount": 243000
+  },
+  {
+    "id": "tn-154",
+    "number": 154,
+    "name": { "en": "Panruti", "ta": "பண்ருட்டி" },
+    "district": "Cuddalore",
+    "type": "general",
+    "currentMla": { "name": "T. Velmurugan", "party": "DMK" },
+    "voterCount": 256000
+  },
+  {
+    "id": "tn-155",
+    "number": 155,
+    "name": { "en": "Cuddalore", "ta": "கடலூர்" },
+    "district": "Cuddalore",
+    "type": "general",
+    "currentMla": { "name": "G. Iyappan", "party": "DMK" },
+    "voterCount": 260000
+  },
+  {
+    "id": "tn-156",
+    "number": 156,
+    "name": { "en": "Kurinjipadi", "ta": "குறிஞ்சிப்பாடி" },
+    "district": "Cuddalore",
+    "type": "general",
+    "currentMla": { "name": "MRK Panneerselvam", "party": "DMK" },
+    "voterCount": 248000
+  },
+  {
+    "id": "tn-157",
+    "number": 157,
+    "name": { "en": "Bhuvanagiri", "ta": "புவனகிரி" },
+    "district": "Cuddalore",
+    "type": "general",
+    "currentMla": { "name": "A. Arunmozhithevan", "party": "AIADMK" },
+    "voterCount": 254000
+  },
+  {
+    "id": "tn-158",
+    "number": 158,
+    "name": { "en": "Chidambaram", "ta": "சிதம்பரம்" },
+    "district": "Cuddalore",
+    "type": "general",
+    "currentMla": { "name": "K.A. Pandian", "party": "AIADMK" },
+    "voterCount": 251000
+  },
+  {
+    "id": "tn-159",
+    "number": 159,
+    "name": { "en": "Kattumannarkoil", "ta": "காட்டுமன்னார்கோயில்" },
+    "district": "Cuddalore",
+    "type": "sc",
+    "currentMla": { "name": "Sinthanai Selvan", "party": "VCK" },
+    "voterCount": 242000
+  },
+  {
+    "id": "tn-160",
+    "number": 160,
+    "name": { "en": "Sirkazhi", "ta": "சீர்காழி" },
+    "district": "Mayiladuthurai",
+    "type": "sc",
+    "currentMla": { "name": "Panneerselvam", "party": "DMK" },
+    "voterCount": 249000
+  },
+  {
+    "id": "tn-161",
+    "number": 161,
+    "name": { "en": "Mayiladuthurai", "ta": "மயிலாடுதுறை" },
+    "district": "Mayiladuthurai",
+    "type": "general",
+    "currentMla": { "name": "S. Rajakumar", "party": "INC" },
+    "voterCount": 254000
+  },
+  {
+    "id": "tn-162",
+    "number": 162,
+    "name": { "en": "Poompuhar", "ta": "பூம்புகார்" },
+    "district": "Mayiladuthurai",
+    "type": "general",
+    "currentMla": { "name": "M. Nivedha Murugan", "party": "DMK" },
+    "voterCount": 247000
+  },
+  {
+    "id": "tn-163",
+    "number": 163,
+    "name": { "en": "Nagapattinam", "ta": "நாகப்பட்டினம்" },
+    "district": "Nagapattinam",
+    "type": "general",
+    "currentMla": { "name": "J. Mohamed Shanavas", "party": "VCK" },
+    "voterCount": 258000
+  },
+  {
+    "id": "tn-164",
+    "number": 164,
+    "name": { "en": "Kilvelur", "ta": "கீழ்வேலூர்" },
+    "district": "Nagapattinam",
+    "type": "sc",
+    "currentMla": { "name": "V.P. Nagaimaali", "party": "CPI(M)" },
+    "voterCount": 243000
+  },
+  {
+    "id": "tn-165",
+    "number": 165,
+    "name": { "en": "Vedaranyam", "ta": "வேதாரண்யம்" },
+    "district": "Nagapattinam",
+    "type": "general",
+    "currentMla": { "name": "O.S. Manian", "party": "AIADMK" },
+    "voterCount": 250000
+  },
+  {
+    "id": "tn-166",
+    "number": 166,
+    "name": { "en": "Thiruthuraipoondi", "ta": "திருத்துறைப்பூண்டி" },
+    "district": "Tiruvarur",
+    "type": "sc",
+    "currentMla": { "name": "K. Marimuthu", "party": "CPI" },
+    "voterCount": 246000
+  },
+  {
+    "id": "tn-167",
+    "number": 167,
+    "name": { "en": "Mannargudi", "ta": "மன்னார்குடி" },
+    "district": "Tiruvarur",
+    "type": "general",
+    "currentMla": { "name": "TRB Rajaa", "party": "DMK" },
+    "voterCount": 263000
+  },
+  {
+    "id": "tn-168",
+    "number": 168,
+    "name": { "en": "Thiruvarur", "ta": "திருவாரூர்" },
+    "district": "Tiruvarur",
+    "type": "general",
+    "currentMla": { "name": "K. Poondi Kalaivanan", "party": "DMK" },
+    "voterCount": 257000
+  },
+  {
+    "id": "tn-169",
+    "number": 169,
+    "name": { "en": "Nannilam", "ta": "நன்னிலம்" },
+    "district": "Tiruvarur",
+    "type": "general",
+    "currentMla": { "name": "R. Kamaraj", "party": "AIADMK" },
+    "voterCount": 244000
+  },
+  {
+    "id": "tn-170",
+    "number": 170,
+    "name": { "en": "Thiruvidaimarudur", "ta": "திருவிடைமருதூர்" },
+    "district": "Thanjavur",
+    "type": "sc",
+    "currentMla": { "name": "Govi. Chezhiaan", "party": "DMK" },
+    "voterCount": 248000
+  },
+  {
+    "id": "tn-171",
+    "number": 171,
+    "name": { "en": "Kumbakonam", "ta": "கும்பகோணம்" },
+    "district": "Thanjavur",
+    "type": "general",
+    "currentMla": { "name": "G. Anbalagan", "party": "DMK" },
+    "voterCount": 256000
+  },
+  {
+    "id": "tn-172",
+    "number": 172,
+    "name": { "en": "Papanasam", "ta": "பாபநாசம்" },
+    "district": "Thanjavur",
+    "type": "general",
+    "currentMla": { "name": "M.H. Jawahirullah", "party": "DMK" },
+    "voterCount": 250000
+  },
+  {
+    "id": "tn-173",
+    "number": 173,
+    "name": { "en": "Thiruvaiyaru", "ta": "திருவையாறு" },
+    "district": "Thanjavur",
+    "type": "general",
+    "currentMla": { "name": "Durai Chandrasekaran", "party": "DMK" },
+    "voterCount": 259000
+  },
+  {
+    "id": "tn-174",
+    "number": 174,
+    "name": { "en": "Thanjavur", "ta": "தஞ்சாவூர்" },
+    "district": "Thanjavur",
+    "type": "general",
+    "currentMla": { "name": "TKG Neelamegam", "party": "DMK" },
+    "voterCount": 268000
+  },
+  {
+    "id": "tn-175",
+    "number": 175,
+    "name": { "en": "Orathanadu", "ta": "ஒரத்தநாடு" },
+    "district": "Thanjavur",
+    "type": "general",
+    "currentMla": { "name": "R. Vaithilingam", "party": "AIADMK" },
+    "voterCount": 245000
+  },
+  {
+    "id": "tn-176",
+    "number": 176,
+    "name": { "en": "Pattukkottai", "ta": "பட்டுக்கோட்டை" },
+    "district": "Thanjavur",
+    "type": "general",
+    "currentMla": { "name": "K. Annadurai", "party": "DMK" },
+    "voterCount": 253000
+  },
+  {
+    "id": "tn-177",
+    "number": 177,
+    "name": { "en": "Peravurani", "ta": "பேராவூரணி" },
+    "district": "Thanjavur",
+    "type": "general",
+    "currentMla": { "name": "N. Ashokkumar", "party": "DMK" },
+    "voterCount": 249000
+  },
+  {
+    "id": "tn-178",
+    "number": 178,
+    "name": { "en": "Gandarvakottai", "ta": "கந்தர்வக்கோட்டை" },
+    "district": "Pudukkottai",
+    "type": "sc",
+    "currentMla": { "name": "M. Chinnadurai", "party": "CPI(M)" },
+    "voterCount": 241000
+  },
+  {
+    "id": "tn-179",
+    "number": 179,
+    "name": { "en": "Viralimalai", "ta": "விராலிமலை" },
+    "district": "Pudukkottai",
+    "type": "general",
+    "currentMla": { "name": "C. Vijaya Basker", "party": "AIADMK" },
+    "voterCount": 256000
+  },
+  {
+    "id": "tn-180",
+    "number": 180,
+    "name": { "en": "Pudukkottai", "ta": "புதுக்கோட்டை" },
+    "district": "Pudukkottai",
+    "type": "general",
+    "currentMla": { "name": "V. Muthuraja", "party": "DMK" },
+    "voterCount": 260000
+  },
+  {
+    "id": "tn-181",
+    "number": 181,
+    "name": { "en": "Thirumayam", "ta": "திருமயம்" },
+    "district": "Pudukkottai",
+    "type": "general",
+    "currentMla": { "name": "S. Regupathy", "party": "DMK" },
+    "voterCount": 247000
+  },
+  {
+    "id": "tn-182",
+    "number": 182,
+    "name": { "en": "Alangudi", "ta": "ஆலங்குடி" },
+    "district": "Pudukkottai",
+    "type": "general",
+    "currentMla": { "name": "Siva V. Meyyanathan", "party": "DMK" },
+    "voterCount": 252000
+  },
+  {
+    "id": "tn-183",
+    "number": 183,
+    "name": { "en": "Aranthangi", "ta": "அறந்தாங்கி" },
+    "district": "Pudukkottai",
+    "type": "general",
+    "currentMla": { "name": "T. Ramachandran", "party": "INC" },
+    "voterCount": 255000
+  },
+  {
+    "id": "tn-184",
+    "number": 184,
+    "name": { "en": "Karaikudi", "ta": "காரைக்குடி" },
+    "district": "Sivaganga",
+    "type": "general",
+    "currentMla": { "name": "S. Mangudi", "party": "INC" },
+    "voterCount": 261000
+  },
+  {
+    "id": "tn-185",
+    "number": 185,
+    "name": { "en": "Tiruppattur", "ta": "திருப்பத்தூர்" },
+    "district": "Sivaganga",
+    "type": "general",
+    "currentMla": { "name": "KR Periyakaruppan", "party": "DMK" },
+    "voterCount": 258000
+  },
+  {
+    "id": "tn-186",
+    "number": 186,
+    "name": { "en": "Sivaganga", "ta": "சிவகங்கை" },
+    "district": "Sivaganga",
+    "type": "general",
+    "currentMla": { "name": "PR Senthilnathan", "party": "AIADMK" },
+    "voterCount": 253000
+  },
+  {
+    "id": "tn-187",
+    "number": 187,
+    "name": { "en": "Manamadurai", "ta": "மானாமதுரை" },
+    "district": "Sivaganga",
+    "type": "sc",
+    "currentMla": { "name": "A. Tamilarasi", "party": "DMK" },
+    "voterCount": 244000
+  },
+  {
+    "id": "tn-188",
+    "number": 188,
+    "name": { "en": "Melur", "ta": "மேலூர்" },
+    "district": "Madurai",
+    "type": "general",
+    "currentMla": { "name": "P. Selvam", "party": "AIADMK" },
+    "voterCount": 265000
+  },
+  {
+    "id": "tn-189",
+    "number": 189,
+    "name": { "en": "Madurai East", "ta": "மதுரை கிழக்கு" },
+    "district": "Madurai",
+    "type": "general",
+    "currentMla": { "name": "P. Moorthy", "party": "DMK" },
+    "voterCount": 260000
+  },
+  {
+    "id": "tn-190",
+    "number": 190,
+    "name": { "en": "Sholavandan", "ta": "சோழவந்தான்" },
+    "district": "Madurai",
+    "type": "sc",
+    "currentMla": { "name": "A. Venkatesan", "party": "DMK" },
+    "voterCount": 248000
+  },
+  {
+    "id": "tn-191",
+    "number": 191,
+    "name": { "en": "Madurai North", "ta": "மதுரை வடக்கு" },
+    "district": "Madurai",
+    "type": "general",
+    "currentMla": { "name": "G. Thalapathi", "party": "DMK" },
+    "voterCount": 255000
+  },
+  {
+    "id": "tn-192",
+    "number": 192,
+    "name": { "en": "Madurai South", "ta": "மதுரை தெற்கு" },
+    "district": "Madurai",
+    "type": "general",
+    "currentMla": { "name": "M. Boominathan", "party": "DMK" },
+    "voterCount": 251000
+  },
+  {
+    "id": "tn-193",
+    "number": 193,
+    "name": { "en": "Madurai Central", "ta": "மதுரை மத்தி" },
+    "district": "Madurai",
+    "type": "general",
+    "currentMla": { "name": "Palanivel Thiaga Rajan", "party": "DMK" },
+    "voterCount": 257000
+  },
+  {
+    "id": "tn-194",
+    "number": 194,
+    "name": { "en": "Madurai West", "ta": "மதுரை மேற்கு" },
+    "district": "Madurai",
+    "type": "general",
+    "currentMla": { "name": "K. Raju", "party": "AIADMK" },
+    "voterCount": 249000
+  },
+  {
+    "id": "tn-195",
+    "number": 195,
+    "name": { "en": "Thiruparankundram", "ta": "திருப்பரங்குன்றம்" },
+    "district": "Madurai",
+    "type": "general",
+    "currentMla": { "name": "V.V. Rajanchellappa", "party": "AIADMK" },
+    "voterCount": 263000
+  },
+  {
+    "id": "tn-196",
+    "number": 196,
+    "name": { "en": "Thirumangalam", "ta": "திருமங்கலம்" },
+    "district": "Madurai",
+    "type": "general",
+    "currentMla": { "name": "RB Udhayakumar", "party": "AIADMK" },
+    "voterCount": 254000
+  },
+  {
+    "id": "tn-197",
+    "number": 197,
+    "name": { "en": "Usilampatti", "ta": "உசிலம்பட்டி" },
+    "district": "Madurai",
+    "type": "general",
+    "currentMla": { "name": "P. Ayyappan", "party": "AIADMK" },
+    "voterCount": 246000
+  },
+  {
+    "id": "tn-198",
+    "number": 198,
+    "name": { "en": "Andipatti", "ta": "ஆண்டிப்பட்டி" },
+    "district": "Theni",
+    "type": "general",
+    "currentMla": { "name": "A. Maharajan", "party": "DMK" },
+    "voterCount": 250000
+  },
+  {
+    "id": "tn-199",
+    "number": 199,
+    "name": { "en": "Periyakulam", "ta": "பெரியகுளம்" },
+    "district": "Theni",
+    "type": "sc",
+    "currentMla": { "name": "K.S. Saravanakumaar", "party": "DMK" },
+    "voterCount": 243000
+  },
+  {
+    "id": "tn-200",
+    "number": 200,
+    "name": { "en": "Bodinayakanur", "ta": "போடிநாயக்கனூர்" },
+    "district": "Theni",
+    "type": "general",
+    "currentMla": { "name": "O. Panneerselvam", "party": "AIADMK" },
+    "voterCount": 261000
+  },
+  {
+    "id": "tn-201",
+    "number": 201,
+    "name": { "en": "Cumbum", "ta": "கம்பம்" },
+    "district": "Theni",
+    "type": "general",
+    "currentMla": { "name": "N. Ramakrishnan", "party": "DMK" },
+    "voterCount": 255000
+  },
+  {
+    "id": "tn-202",
+    "number": 202,
+    "name": { "en": "Rajapalayam", "ta": "ராஜபாளையம்" },
+    "district": "Virudhunagar",
+    "type": "general",
+    "currentMla": { "name": "S. Thangapandian", "party": "DMK" },
+    "voterCount": 258000
+  },
+  {
+    "id": "tn-203",
+    "number": 203,
+    "name": { "en": "Srivilliputhur", "ta": "திருவில்லிப்புத்தூர்" },
+    "district": "Virudhunagar",
+    "type": "sc",
+    "currentMla": { "name": "E.M. Manraj", "party": "AIADMK" },
+    "voterCount": 247000
+  },
+  {
+    "id": "tn-204",
+    "number": 204,
+    "name": { "en": "Sattur", "ta": "சாத்தூர்" },
+    "district": "Virudhunagar",
+    "type": "general",
+    "currentMla": { "name": "ARR Raghuraman", "party": "DMK" },
+    "voterCount": 252000
+  },
+  {
+    "id": "tn-205",
+    "number": 205,
+    "name": { "en": "Sivakasi", "ta": "சிவகாசி" },
+    "district": "Virudhunagar",
+    "type": "general",
+    "currentMla": { "name": "G. Ashokan", "party": "INC" },
+    "voterCount": 256000
+  },
+  {
+    "id": "tn-206",
+    "number": 206,
+    "name": { "en": "Virudhunagar", "ta": "விருதுநகர்" },
+    "district": "Virudhunagar",
+    "type": "general",
+    "currentMla": { "name": "ARR Seenivasan", "party": "DMK" },
+    "voterCount": 259000
+  },
+  {
+    "id": "tn-207",
+    "number": 207,
+    "name": { "en": "Aruppukkottai", "ta": "அருப்புக்கோட்டை" },
+    "district": "Virudhunagar",
+    "type": "general",
+    "currentMla": { "name": "KKSSR Ramachandran", "party": "DMK" },
+    "voterCount": 264000
+  },
+  {
+    "id": "tn-208",
+    "number": 208,
+    "name": { "en": "Tiruchuli", "ta": "திருச்சுழி" },
+    "district": "Virudhunagar",
+    "type": "general",
+    "currentMla": { "name": "Thangam Thenarasu", "party": "DMK" },
+    "voterCount": 270000
+  },
+  {
+    "id": "tn-209",
+    "number": 209,
+    "name": { "en": "Paramakudi", "ta": "பரமக்குடி" },
+    "district": "Ramanathapuram",
+    "type": "sc",
+    "currentMla": { "name": "S. Murugesan", "party": "DMK" },
+    "voterCount": 251000
+  },
+  {
+    "id": "tn-210",
+    "number": 210,
+    "name": { "en": "Tiruvadanai", "ta": "திருவாடாணை" },
+    "district": "Ramanathapuram",
+    "type": "general",
+    "currentMla": { "name": "Karumanickam", "party": "INC" },
+    "voterCount": 245000
+  },
+  {
+    "id": "tn-211",
+    "number": 211,
+    "name": { "en": "Ramanathapuram", "ta": "ராமநாதபுரம்" },
+    "district": "Ramanathapuram",
+    "type": "general",
+    "currentMla": { "name": "Katharbatcha Muthuramalingam", "party": "DMK" },
+    "voterCount": 261000
+  },
+  {
+    "id": "tn-212",
+    "number": 212,
+    "name": { "en": "Mudhukulathur", "ta": "முதுகுளத்தூர்" },
+    "district": "Ramanathapuram",
+    "type": "general",
+    "currentMla": { "name": "R.S. Rajakannappan", "party": "DMK" },
+    "voterCount": 248000
+  },
+  {
+    "id": "tn-213",
+    "number": 213,
+    "name": { "en": "Vilathikulam", "ta": "விளாத்திக்குளம்" },
+    "district": "Thoothukudi",
+    "type": "general",
+    "currentMla": { "name": "V. Markandayan", "party": "DMK" },
+    "voterCount": 256000
+  },
+  {
+    "id": "tn-214",
+    "number": 214,
+    "name": { "en": "Thoothukudi", "ta": "தூத்துக்குடி" },
+    "district": "Thoothukudi",
+    "type": "general",
+    "currentMla": { "name": "P. Geetha Jeevan", "party": "DMK" },
+    "voterCount": 268000
+  },
+  {
+    "id": "tn-215",
+    "number": 215,
+    "name": { "en": "Tiruchendur", "ta": "திருச்செந்தூர்" },
+    "district": "Thoothukudi",
+    "type": "general",
+    "currentMla": { "name": "Anitha R. Radhakrishnan", "party": "DMK" },
+    "voterCount": 254000
+  },
+  {
+    "id": "tn-216",
+    "number": 216,
+    "name": { "en": "Srivaikuntam", "ta": "ஸ்ரீவைகுண்டம்" },
+    "district": "Thoothukudi",
+    "type": "general",
+    "currentMla": { "name": "S. Amirtharaj", "party": "INC" },
+    "voterCount": 249000
+  },
+  {
+    "id": "tn-217",
+    "number": 217,
+    "name": { "en": "Ottapidaram", "ta": "ஒட்டப்பிடாரம்" },
+    "district": "Thoothukudi",
+    "type": "sc",
+    "currentMla": { "name": "C. Shunmugaiah", "party": "DMK" },
+    "voterCount": 253000
+  },
+  {
+    "id": "tn-218",
+    "number": 218,
+    "name": { "en": "Kovilpatti", "ta": "கோவில்பட்டி" },
+    "district": "Thoothukudi",
+    "type": "general",
+    "currentMla": { "name": "Kadambur Raju", "party": "AIADMK" },
+    "voterCount": 260000
+  },
+  {
+    "id": "tn-219",
+    "number": 219,
+    "name": { "en": "Sankarankovil", "ta": "சங்கரன்கோவில்" },
+    "district": "Tenkasi",
+    "type": "general",
+    "currentMla": { "name": "E. Raja", "party": "DMK" },
+    "voterCount": 252000
+  },
+  {
+    "id": "tn-220",
+    "number": 220,
+    "name": { "en": "Vasudevanallur", "ta": "வாசுதேவநல்லூர்" },
+    "district": "Tenkasi",
+    "type": "sc",
+    "currentMla": { "name": "T. Sadhan Thirumalaikumar", "party": "DMK" },
+    "voterCount": 245000
+  },
+  {
+    "id": "tn-221",
+    "number": 221,
+    "name": { "en": "Kadayanallur", "ta": "கடையநல்லூர்" },
+    "district": "Tenkasi",
+    "type": "general",
+    "currentMla": { "name": "C. Krishnamurali", "party": "AIADMK" },
+    "voterCount": 258000
+  },
+  {
+    "id": "tn-222",
+    "number": 222,
+    "name": { "en": "Tenkasi", "ta": "தென்காசி" },
+    "district": "Tenkasi",
+    "type": "general",
+    "currentMla": { "name": "S. Palani Nadar", "party": "INC" },
+    "voterCount": 254000
+  },
+  {
+    "id": "tn-223",
+    "number": 223,
+    "name": { "en": "Alangulam", "ta": "ஆலங்குளம்" },
+    "district": "Tenkasi",
+    "type": "general",
+    "currentMla": { "name": "Paul Manoj Pandian", "party": "AIADMK" },
+    "voterCount": 249000
+  },
+  {
+    "id": "tn-224",
+    "number": 224,
+    "name": { "en": "Tirunelveli", "ta": "திருநெல்வேலி" },
+    "district": "Tirunelveli",
+    "type": "general",
+    "currentMla": { "name": "Nainar Nagenthran", "party": "BJP" },
+    "voterCount": 266000
+  },
+  {
+    "id": "tn-225",
+    "number": 225,
+    "name": { "en": "Ambasamudram", "ta": "அம்பாசமுத்திரம்" },
+    "district": "Tirunelveli",
+    "type": "general",
+    "currentMla": { "name": "E. Subaya", "party": "AIADMK" },
+    "voterCount": 252000
+  },
+  {
+    "id": "tn-226",
+    "number": 226,
+    "name": { "en": "Palayamkottai", "ta": "பாளையங்கோட்டை" },
+    "district": "Tirunelveli",
+    "type": "general",
+    "currentMla": { "name": "M. Abdul Wahab", "party": "DMK" },
+    "voterCount": 261000
+  },
+  {
+    "id": "tn-227",
+    "number": 227,
+    "name": { "en": "Nanguneri", "ta": "நாங்குநேரி" },
+    "district": "Tirunelveli",
+    "type": "sc",
+    "currentMla": { "name": "Ruby R. Manoharan", "party": "INC" },
+    "voterCount": 247000
+  },
+  {
+    "id": "tn-228",
+    "number": 228,
+    "name": { "en": "Radhapuram", "ta": "ராதாபுரம்" },
+    "district": "Tirunelveli",
+    "type": "general",
+    "currentMla": { "name": "M. Appavu", "party": "DMK" },
+    "voterCount": 256000
+  },
+  {
+    "id": "tn-229",
+    "number": 229,
+    "name": { "en": "Kanniyakumari", "ta": "கன்னியாகுமரி" },
+    "district": "Kanniyakumari",
+    "type": "general",
+    "currentMla": { "name": "N. Thalavai Sundaram", "party": "AIADMK" },
+    "voterCount": 264000
+  },
+  {
+    "id": "tn-230",
+    "number": 230,
+    "name": { "en": "Nagercoil", "ta": "நாகர்கோவில்" },
+    "district": "Kanniyakumari",
+    "type": "general",
+    "currentMla": { "name": "M.R. Gandhi", "party": "BJP" },
+    "voterCount": 258000
+  },
+  {
+    "id": "tn-231",
+    "number": 231,
+    "name": { "en": "Colachel", "ta": "குளச்சல்" },
+    "district": "Kanniyakumari",
+    "type": "general",
+    "currentMla": { "name": "J.G. Prince", "party": "INC" },
+    "voterCount": 262000
+  },
+  {
+    "id": "tn-232",
+    "number": 232,
+    "name": { "en": "Padmanabhapuram", "ta": "பத்மநாபபுரம்" },
+    "district": "Kanniyakumari",
+    "type": "general",
+    "currentMla": { "name": "T. Mano Thangaraj", "party": "DMK" },
+    "voterCount": 254000
+  },
+  {
+    "id": "tn-233",
+    "number": 233,
+    "name": { "en": "Vilavancode", "ta": "விளவங்கோடு" },
+    "district": "Kanniyakumari",
+    "type": "general",
+    "currentMla": { "name": "S. Vijayadharani", "party": "INC" },
+    "voterCount": 267000
+  },
+  {
+    "id": "tn-234",
+    "number": 234,
+    "name": { "en": "Killiyoor", "ta": "கிள்ளியூர்" },
+    "district": "Kanniyakumari",
+    "type": "general",
+    "currentMla": { "name": "S. Rajesh Kumar", "party": "INC" },
+    "voterCount": 271000
+  }
+]

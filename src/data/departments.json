@@ -1,0 +1,2524 @@
+[
+  {
+    "id": "adi-dravidar-tribal-welfare",
+    "name": {
+      "en": "Adi Dravidar and Tribal Welfare",
+      "ta": "ஆதிதிராவிடர் மற்றும் பழங்குடியினர் நலம்"
+    },
+    "sector": "Social Welfare",
+    "minister": {
+      "name": "N. Kayalvizhi Selvaraj",
+      "constituency": "Manamadurai",
+      "party": "DMK"
+    },
+    "secretary": "S. Madumathi, IAS",
+    "budget": {
+      "revenue": 5200,
+      "capital": 800,
+      "total": 6000,
+      "year": "2025-26"
+    },
+    "agencies": [
+      {
+        "name": {
+          "en": "Adi Dravidar and Tribal Welfare Board",
+          "ta": "ஆதிதிராவிடர் மற்றும் பழங்குடியினர் நல வாரியம்"
+        },
+        "type": "Board"
+      },
+      {
+        "name": {
+          "en": "Tamil Nadu Adi Dravidar Housing Development Corporation (TAHDCO)",
+          "ta": "தமிழ்நாடு ஆதிதிராவிடர் வீட்டு வசதி மேம்பாட்டு நிறுவனம்"
+        },
+        "type": "Corporation"
+      }
+    ],
+    "keySchemes": [
+      {
+        "name": {
+          "en": "Free Education Scholarship for SC/ST Students",
+          "ta": "தாழ்த்தப்பட்ட / பழங்குடியினர் மாணவர்களுக்கான இலவச கல்வி உதவித்தொகை"
+        },
+        "description": {
+          "en": "Provides scholarships for SC/ST students pursuing higher education",
+          "ta": "உயர்கல்வி பயிலும் தாழ்த்தப்பட்ட/பழங்குடியினர் மாணவர்களுக்கு உதவித்தொகை வழங்குதல்"
+        }
+      },
+      {
+        "name": {
+          "en": "Free Housing Scheme for Adi Dravidars",
+          "ta": "ஆதிதிராவிடர்களுக்கான இலவச வீட்டுத் திட்டம்"
+        },
+        "description": {
+          "en": "Construction of free houses for Adi Dravidar families",
+          "ta": "ஆதிதிராவிடர் குடும்பங்களுக்கு இலவச வீடுகள் கட்டுதல்"
+        }
+      }
+    ],
+    "description": {
+      "en": "Department responsible for the welfare and development of Scheduled Castes and Scheduled Tribes in Tamil Nadu",
+      "ta": "தமிழ்நாட்டில் தாழ்த்தப்பட்ட மற்றும் பழங்குடியினரின் நலன் மற்றும் மேம்பாட்டிற்கு பொறுப்பான துறை"
+    }
+  },
+  {
+    "id": "agriculture",
+    "name": {
+      "en": "Agriculture",
+      "ta": "வேளாண்மை"
+    },
+    "sector": "Agriculture",
+    "minister": {
+      "name": "M.R.K. Panneerselvam",
+      "constituency": "Peravurani",
+      "party": "DMK"
+    },
+    "secretary": "C. Samayamoorthy, IAS",
+    "budget": {
+      "revenue": 8500,
+      "capital": 1500,
+      "total": 10000,
+      "year": "2025-26"
+    },
+    "agencies": [
+      {
+        "name": {
+          "en": "Tamil Nadu Agricultural University (TNAU)",
+          "ta": "தமிழ்நாடு வேளாண்மைப் பல்கலைக்கழகம்"
+        },
+        "type": "University"
+      },
+      {
+        "name": {
+          "en": "Department of Agricultural Marketing",
+          "ta": "வேளாண் சந்தைத் துறை"
+        },
+        "type": "Department"
+      },
+      {
+        "name": {
+          "en": "Tamil Nadu State Agricultural Marketing Board",
+          "ta": "தமிழ்நாடு வேளாண் சந்தை வாரியம்"
+        },
+        "type": "Board"
+      }
+    ],
+    "keySchemes": [
+      {
+        "name": {
+          "en": "Crop Insurance Scheme",
+          "ta": "பயிர் காப்பீட்டுத் திட்டம்"
+        },
+        "description": {
+          "en": "Insurance coverage for farmers against crop loss due to natural calamities",
+          "ta": "இயற்கை பேரழிவுகளால் பயிர் இழப்புக்கு விவசாயிகளுக்கு காப்பீடு"
+        }
+      },
+      {
+        "name": {
+          "en": "Free Electricity for Farmers",
+          "ta": "விவசாயிகளுக்கு இலவச மின்சாரம்"
+        },
+        "description": {
+          "en": "Providing free electricity to agricultural pump sets",
+          "ta": "வேளாண் பம்ப் செட்களுக்கு இலவச மின்சாரம் வழங்குதல்"
+        }
+      }
+    ],
+    "description": {
+      "en": "Department managing agricultural development, farmer welfare, and food production in Tamil Nadu",
+      "ta": "தமிழ்நாட்டில் வேளாண் வளர்ச்சி, விவசாயிகள் நலன் மற்றும் உணவு உற்பத்தியை நிர்வகிக்கும் துறை"
+    }
+  },
+  {
+    "id": "animal-husbandry-dairying-fisheries",
+    "name": {
+      "en": "Animal Husbandry, Dairying and Fisheries",
+      "ta": "கால்நடை வளர்ப்பு, பால்வளம் மற்றும் மீன்வளம்"
+    },
+    "sector": "Agriculture",
+    "minister": {
+      "name": "Anitha R. Radhakrishnan",
+      "constituency": "Tiruchendur",
+      "party": "DMK"
+    },
+    "secretary": "M. Vijayalakshmi, IAS",
+    "budget": {
+      "revenue": 3800,
+      "capital": 700,
+      "total": 4500,
+      "year": "2025-26"
+    },
+    "agencies": [
+      {
+        "name": {
+          "en": "Tamil Nadu Veterinary and Animal Sciences University (TANUVAS)",
+          "ta": "தமிழ்நாடு கால்நடை அறிவியல் பல்கலைக்கழகம்"
+        },
+        "type": "University"
+      },
+      {
+        "name": {
+          "en": "Tamil Nadu Fisheries Development Corporation",
+          "ta": "தமிழ்நாடு மீன்வள மேம்பாட்டு நிறுவனம்"
+        },
+        "type": "Corporation"
+      },
+      {
+        "name": {
+          "en": "Aavin (Tamil Nadu Co-operative Milk Producers' Federation)",
+          "ta": "ஆவின் (தமிழ்நாடு கூட்டுறவு பால் உற்பத்தியாளர் கூட்டமைப்பு)"
+        },
+        "type": "Federation"
+      }
+    ],
+    "keySchemes": [
+      {
+        "name": {
+          "en": "Free Livestock Insurance Scheme",
+          "ta": "இலவச கால்நடை காப்பீட்டுத் திட்டம்"
+        },
+        "description": {
+          "en": "Providing free insurance coverage for livestock owned by farmers",
+          "ta": "விவசாயிகளின் கால்நடைகளுக்கு இலவச காப்பீடு வழங்குதல்"
+        }
+      },
+      {
+        "name": {
+          "en": "Marine Fishermen Savings-cum-Relief Scheme",
+          "ta": "கடல் மீனவர் சேமிப்பு-நிவாரணத் திட்டம்"
+        },
+        "description": {
+          "en": "Financial assistance to marine fishermen during fishing ban period",
+          "ta": "மீன்பிடி தடைக்காலத்தில் கடல் மீனவர்களுக்கு நிதி உதவி"
+        }
+      }
+    ],
+    "description": {
+      "en": "Department overseeing animal husbandry, dairy development, and fisheries in Tamil Nadu",
+      "ta": "தமிழ்நாட்டில் கால்நடை வளர்ப்பு, பால் வளர்ச்சி மற்றும் மீன்வளத்தை மேற்பார்வையிடும் துறை"
+    }
+  },
+  {
+    "id": "backward-classes-mbc-minorities",
+    "name": {
+      "en": "Backward Classes, Most Backward Classes and Minorities Welfare",
+      "ta": "பிற்படுத்தப்பட்டோர், மிகவும் பிற்படுத்தப்பட்டோர் மற்றும் சிறுபான்மையினர் நலம்"
+    },
+    "sector": "Social Welfare",
+    "minister": {
+      "name": "S.S. Sivasankar",
+      "constituency": "Kulithalai",
+      "party": "DMK"
+    },
+    "secretary": "K. Phanindra Reddy, IAS",
+    "budget": {
+      "revenue": 4200,
+      "capital": 600,
+      "total": 4800,
+      "year": "2025-26"
+    },
+    "agencies": [
+      {
+        "name": {
+          "en": "Tamil Nadu Backward Classes Economic Development Corporation (TABCEDCO)",
+          "ta": "தமிழ்நாடு பிற்படுத்தப்பட்டோர் பொருளாதார மேம்பாட்டு நிறுவனம்"
+        },
+        "type": "Corporation"
+      },
+      {
+        "name": {
+          "en": "Tamil Nadu Minorities Economic Development Corporation",
+          "ta": "தமிழ்நாடு சிறுபான்மையினர் பொருளாதார மேம்பாட்டு நிறுவனம்"
+        },
+        "type": "Corporation"
+      }
+    ],
+    "keySchemes": [
+      {
+        "name": {
+          "en": "Educational Scholarships for BC/MBC/Minorities",
+          "ta": "பிற்படுத்தப்பட்ட/மிகவும் பிற்படுத்தப்பட்ட/சிறுபான்மையினர் கல்வி உதவித்தொகை"
+        },
+        "description": {
+          "en": "Scholarships for students from backward classes and minorities pursuing education",
+          "ta": "பிற்படுத்தப்பட்ட வகுப்பினர் மற்றும் சிறுபான்மையினர் மாணவர்களுக்கு கல்வி உதவித்தொகை"
+        }
+      }
+    ],
+    "description": {
+      "en": "Department dedicated to the welfare and empowerment of backward classes, most backward classes, and minorities",
+      "ta": "பிற்படுத்தப்பட்டோர், மிகவும் பிற்படுத்தப்பட்டோர் மற்றும் சிறுபான்மையினரின் நலன் மற்றும் அதிகாரமளித்தலுக்கான துறை"
+    }
+  },
+  {
+    "id": "commercial-taxes-registration",
+    "name": {
+      "en": "Commercial Taxes and Registration",
+      "ta": "வணிக வரி மற்றும் பதிவுத் துறை"
+    },
+    "sector": "Finance",
+    "minister": {
+      "name": "P. Moorthy",
+      "constituency": "Sholinganallur",
+      "party": "DMK"
+    },
+    "secretary": "T.K. Rajesh Kumar, IAS",
+    "budget": {
+      "revenue": 2500,
+      "capital": 300,
+      "total": 2800,
+      "year": "2025-26"
+    },
+    "agencies": [
+      {
+        "name": {
+          "en": "Commercial Tax Department",
+          "ta": "வணிக வரித் துறை"
+        },
+        "type": "Department"
+      },
+      {
+        "name": {
+          "en": "Department of Registration and Stamps",
+          "ta": "பதிவு மற்றும் முத்திரைத் துறை"
+        },
+        "type": "Department"
+      }
+    ],
+    "keySchemes": [
+      {
+        "name": {
+          "en": "GST Facilitation and Compliance",
+          "ta": "ஜிஎஸ்டி வசதி மற்றும் இணக்கம்"
+        },
+        "description": {
+          "en": "Facilitating GST compliance and registration for businesses in Tamil Nadu",
+          "ta": "தமிழ்நாட்டில் வணிகங்களுக்கு ஜிஎஸ்டி இணக்கம் மற்றும் பதிவு வசதி"
+        }
+      }
+    ],
+    "description": {
+      "en": "Department responsible for tax collection, commercial tax administration, and property registration",
+      "ta": "வரி வசூல், வணிக வரி நிர்வாகம் மற்றும் சொத்து பதிவு பொறுப்பான துறை"
+    }
+  },
+  {
+    "id": "cooperation-food-consumer-protection",
+    "name": {
+      "en": "Co-operation, Food and Consumer Protection",
+      "ta": "கூட்டுறவு, உணவு மற்றும் நுகர்வோர் பாதுகாப்பு"
+    },
+    "sector": "Social Welfare",
+    "minister": {
+      "name": "R. Sakkarapani",
+      "constituency": "Thiruvottiyur",
+      "party": "DMK"
+    },
+    "secretary": "N. Muruganandam, IAS",
+    "budget": {
+      "revenue": 12000,
+      "capital": 500,
+      "total": 12500,
+      "year": "2025-26"
+    },
+    "agencies": [
+      {
+        "name": {
+          "en": "Tamil Nadu Civil Supplies Corporation (TNCSC)",
+          "ta": "தமிழ்நாடு சிவில் சப்ளை கார்ப்பரேஷன்"
+        },
+        "type": "Corporation"
+      },
+      {
+        "name": {
+          "en": "Tamil Nadu Co-operative Union",
+          "ta": "தமிழ்நாடு கூட்டுறவு ஒன்றியம்"
+        },
+        "type": "Union"
+      },
+      {
+        "name": {
+          "en": "Consumer Protection Authority",
+          "ta": "நுகர்வோர் பாதுகாப்பு ஆணையம்"
+        },
+        "type": "Authority"
+      }
+    ],
+    "keySchemes": [
+      {
+        "name": {
+          "en": "Public Distribution System (PDS)",
+          "ta": "பொது விநியோக முறை"
+        },
+        "description": {
+          "en": "Distribution of essential commodities through ration shops at subsidized rates",
+          "ta": "ரேஷன் கடைகள் மூலம் மானியத்தில் அத்தியாவசியப் பொருட்கள் விநியோகம்"
+        }
+      },
+      {
+        "name": {
+          "en": "One Rupee Breakfast Scheme",
+          "ta": "ஒரு ரூபாய் காலை உணவுத் திட்டம்"
+        },
+        "description": {
+          "en": "Providing breakfast at Re.1 to urban poor and working class",
+          "ta": "நகர்ப்புற ஏழைகள் மற்றும் தொழிலாளர்களுக்கு ரூ.1 க்கு காலை உணவு"
+        }
+      }
+    ],
+    "description": {
+      "en": "Department managing cooperative societies, food distribution, and consumer protection in Tamil Nadu",
+      "ta": "தமிழ்நாட்டில் கூட்டுறவு சங்கங்கள், உணவு விநியோகம் மற்றும் நுகர்வோர் பாதுகாப்பை நிர்வகிக்கும் துறை"
+    }
+  },
+  {
+    "id": "energy",
+    "name": {
+      "en": "Energy",
+      "ta": "எரிசக்தி"
+    },
+    "sector": "Energy & Environment",
+    "minister": {
+      "name": "V. Senthil Balaji",
+      "constituency": "Karur",
+      "party": "DMK"
+    },
+    "secretary": "Pradeep Yadav, IAS",
+    "budget": {
+      "revenue": 14000,
+      "capital": 6000,
+      "total": 20000,
+      "year": "2025-26"
+    },
+    "agencies": [
+      {
+        "name": {
+          "en": "Tamil Nadu Generation and Distribution Corporation (TANGEDCO)",
+          "ta": "தமிழ்நாடு மின் உற்பத்தி மற்றும் பகிர்மான நிறுவனம்"
+        },
+        "type": "Corporation"
+      },
+      {
+        "name": {
+          "en": "Tamil Nadu Electricity Regulatory Commission (TNERC)",
+          "ta": "தமிழ்நாடு மின்சார ஒழுங்குமுறை ஆணையம்"
+        },
+        "type": "Commission"
+      },
+      {
+        "name": {
+          "en": "Tamil Nadu Energy Development Agency (TEDA)",
+          "ta": "தமிழ்நாடு எரிசக்தி மேம்பாட்டு முகமை"
+        },
+        "type": "Agency"
+      }
+    ],
+    "keySchemes": [
+      {
+        "name": {
+          "en": "Solar Energy Promotion Scheme",
+          "ta": "சூரிய ஆற்றல் ஊக்குவிப்புத் திட்டம்"
+        },
+        "description": {
+          "en": "Promoting rooftop solar installations and solar parks across Tamil Nadu",
+          "ta": "தமிழ்நாடு முழுவதும் கூரை மேல் சூரிய மின் நிறுவல் மற்றும் சூரிய பூங்காக்களை ஊக்குவித்தல்"
+        }
+      },
+      {
+        "name": {
+          "en": "Free Electricity for Farmers",
+          "ta": "விவசாயிகளுக்கு இலவச மின்சாரம்"
+        },
+        "description": {
+          "en": "Free power supply to agricultural pump sets",
+          "ta": "வேளாண் பம்ப் செட்களுக்கு இலவச மின் வழங்கல்"
+        }
+      }
+    ],
+    "description": {
+      "en": "Department overseeing electricity generation, distribution, and renewable energy development",
+      "ta": "மின் உற்பத்தி, பகிர்மானம் மற்றும் புதுப்பிக்கத்தக்க எரிசக்தி வளர்ச்சியை மேற்பார்வையிடும் துறை"
+    }
+  },
+  {
+    "id": "environment-forests",
+    "name": {
+      "en": "Environment and Forests",
+      "ta": "சுற்றுச்சூழல் மற்றும் வனம்"
+    },
+    "sector": "Energy & Environment",
+    "minister": {
+      "name": "K. Ramachandran",
+      "constituency": "Udhagamandalam",
+      "party": "DMK"
+    },
+    "secretary": "Supriya Sahu, IAS",
+    "budget": {
+      "revenue": 2200,
+      "capital": 800,
+      "total": 3000,
+      "year": "2025-26"
+    },
+    "agencies": [
+      {
+        "name": {
+          "en": "Tamil Nadu Forest Department",
+          "ta": "தமிழ்நாடு வனத் துறை"
+        },
+        "type": "Department"
+      },
+      {
+        "name": {
+          "en": "Tamil Nadu Pollution Control Board (TNPCB)",
+          "ta": "தமிழ்நாடு மாசுக்கட்டுப்பாடு வாரியம்"
+        },
+        "type": "Board"
+      },
+      {
+        "name": {
+          "en": "Tamil Nadu Biodiversity Board",
+          "ta": "தமிழ்நாடு உயிரி பன்முகத்தன்மை வாரியம்"
+        },
+        "type": "Board"
+      }
+    ],
+    "keySchemes": [
+      {
+        "name": {
+          "en": "Green Tamil Nadu Mission",
+          "ta": "பசுமை தமிழ்நாடு இயக்கம்"
+        },
+        "description": {
+          "en": "Large-scale tree planting and forest restoration initiative",
+          "ta": "பெரிய அளவிலான மரம் நடுதல் மற்றும் வன மறுசீரமைப்பு முயற்சி"
+        }
+      }
+    ],
+    "description": {
+      "en": "Department responsible for environmental protection, forest conservation, and wildlife management",
+      "ta": "சுற்றுச்சூழல் பாதுகாப்பு, வனப் பாதுகாப்பு மற்றும் வனவிலங்கு மேலாண்மைக்கு பொறுப்பான துறை"
+    }
+  },
+  {
+    "id": "finance",
+    "name": {
+      "en": "Finance",
+      "ta": "நிதி"
+    },
+    "sector": "Finance",
+    "minister": {
+      "name": "Thangam Thennarasu",
+      "constituency": "Thirupparankundram",
+      "party": "DMK"
+    },
+    "secretary": "N. Muruganandam, IAS",
+    "budget": {
+      "revenue": 5000,
+      "capital": 1000,
+      "total": 6000,
+      "year": "2025-26"
+    },
+    "agencies": [
+      {
+        "name": {
+          "en": "Treasury and Accounts Department",
+          "ta": "கருவூலம் மற்றும் கணக்குத் துறை"
+        },
+        "type": "Department"
+      },
+      {
+        "name": {
+          "en": "Tamil Nadu Public Service Commission (TNPSC)",
+          "ta": "தமிழ்நாடு அரசுப் பணியாளர் தேர்வாணையம்"
+        },
+        "type": "Commission"
+      }
+    ],
+    "keySchemes": [
+      {
+        "name": {
+          "en": "Fiscal Consolidation and Budget Management",
+          "ta": "நிதி ஒருங்கிணைப்பு மற்றும் வரவு செலவுத் திட்ட மேலாண்மை"
+        },
+        "description": {
+          "en": "Managing state finances, budget allocation, and fiscal policy",
+          "ta": "மாநில நிதி, வரவு செலவுத் திட்ட ஒதுக்கீடு மற்றும் நிதிக் கொள்கை நிர்வாகம்"
+        }
+      }
+    ],
+    "description": {
+      "en": "Department managing state finances, budget preparation, expenditure control, and fiscal policy",
+      "ta": "மாநில நிதி, வரவு செலவுத் திட்டம் தயாரிப்பு, செலவுக் கட்டுப்பாடு மற்றும் நிதிக் கொள்கையை நிர்வகிக்கும் துறை"
+    }
+  },
+  {
+    "id": "handlooms-handicrafts-textiles-khadi",
+    "name": {
+      "en": "Handlooms, Handicrafts, Textiles and Khadi",
+      "ta": "கைத்தறி, கைவினைப் பொருட்கள், ஜவுளி மற்றும் காதி"
+    },
+    "sector": "Industry",
+    "minister": {
+      "name": "R. Gandhi",
+      "constituency": "Poompuhar",
+      "party": "DMK"
+    },
+    "secretary": "K. Gopal, IAS",
+    "budget": {
+      "revenue": 2800,
+      "capital": 400,
+      "total": 3200,
+      "year": "2025-26"
+    },
+    "agencies": [
+      {
+        "name": {
+          "en": "Tamil Nadu Handloom Weavers' Co-operative Society (Co-optex)",
+          "ta": "தமிழ்நாடு கைத்தறி நெசவாளர் கூட்டுறவு சங்கம் (கோ-ஆப்டெக்ஸ்)"
+        },
+        "type": "Society"
+      },
+      {
+        "name": {
+          "en": "Tamil Nadu Khadi and Village Industries Board",
+          "ta": "தமிழ்நாடு காதி மற்றும் கிராமத் தொழில் வாரியம்"
+        },
+        "type": "Board"
+      }
+    ],
+    "keySchemes": [
+      {
+        "name": {
+          "en": "Free Dhoti and Saree Scheme",
+          "ta": "இலவச வேட்டி, சேலைத் திட்டம்"
+        },
+        "description": {
+          "en": "Distribution of free dhotis and sarees to people during Pongal and Deepavali",
+          "ta": "பொங்கல் மற்றும் தீபாவளி அன்று மக்களுக்கு இலவச வேட்டி, சேலை வழங்கல்"
+        }
+      },
+      {
+        "name": {
+          "en": "Handloom Weavers Welfare Scheme",
+          "ta": "கைத்தறி நெசவாளர் நலத் திட்டம்"
+        },
+        "description": {
+          "en": "Welfare measures including insurance and financial assistance for handloom weavers",
+          "ta": "கைத்தறி நெசவாளர்களுக்கு காப்பீடு மற்றும் நிதி உதவி உள்ளிட்ட நல நடவடிக்கைகள்"
+        }
+      }
+    ],
+    "description": {
+      "en": "Department promoting handloom, handicrafts, textiles, and khadi industries in Tamil Nadu",
+      "ta": "தமிழ்நாட்டில் கைத்தறி, கைவினைப் பொருட்கள், ஜவுளி மற்றும் காதி தொழில்களை ஊக்குவிக்கும் துறை"
+    }
+  },
+  {
+    "id": "health-family-welfare",
+    "name": {
+      "en": "Health and Family Welfare",
+      "ta": "சுகாதாரம் மற்றும் குடும்ப நலம்"
+    },
+    "sector": "Health & Family Welfare",
+    "minister": {
+      "name": "Ma. Subramanian",
+      "constituency": "Saidapet",
+      "party": "DMK"
+    },
+    "secretary": "P. Senthil Kumar, IAS",
+    "budget": {
+      "revenue": 18000,
+      "capital": 4000,
+      "total": 22000,
+      "year": "2025-26"
+    },
+    "agencies": [
+      {
+        "name": {
+          "en": "Directorate of Public Health and Preventive Medicine",
+          "ta": "பொது சுகாதாரம் மற்றும் தடுப்பு மருத்துவ இயக்ககம்"
+        },
+        "type": "Directorate"
+      },
+      {
+        "name": {
+          "en": "Directorate of Medical and Rural Health Services",
+          "ta": "மருத்துவ மற்றும் கிராமப்புற சுகாதார சேவைகள் இயக்ககம்"
+        },
+        "type": "Directorate"
+      },
+      {
+        "name": {
+          "en": "Tamil Nadu Medical Services Corporation (TNMSC)",
+          "ta": "தமிழ்நாடு மருத்துவ சேவை நிறுவனம்"
+        },
+        "type": "Corporation"
+      }
+    ],
+    "keySchemes": [
+      {
+        "name": {
+          "en": "Chief Minister's Comprehensive Health Insurance Scheme (CMCHIS)",
+          "ta": "முதலமைச்சரின் விரிவான மருத்துவக் காப்பீட்டுத் திட்டம்"
+        },
+        "description": {
+          "en": "Providing cashless health insurance up to Rs. 5 lakhs for families below poverty line",
+          "ta": "வறுமைக் கோட்டிற்கு கீழ் உள்ள குடும்பங்களுக்கு ரூ. 5 லட்சம் வரை பணமில்லா மருத்துவக் காப்பீடு"
+        }
+      },
+      {
+        "name": {
+          "en": "Makkalai Thedi Maruthuvam (Healthcare at Doorstep)",
+          "ta": "மக்களைத் தேடி மருத்துவம்"
+        },
+        "description": {
+          "en": "Door-to-door health screening and treatment for chronic diseases",
+          "ta": "நாட்பட்ட நோய்களுக்கு வீடு வீடாக சுகாதார பரிசோதனை மற்றும் சிகிச்சை"
+        }
+      }
+    ],
+    "description": {
+      "en": "Department managing public health services, hospitals, and family welfare programs in Tamil Nadu",
+      "ta": "தமிழ்நாட்டில் பொது சுகாதார சேவைகள், மருத்துவமனைகள் மற்றும் குடும்ப நலத் திட்டங்களை நிர்வகிக்கும் துறை"
+    }
+  },
+  {
+    "id": "higher-education",
+    "name": {
+      "en": "Higher Education",
+      "ta": "உயர்கல்வி"
+    },
+    "sector": "Education",
+    "minister": {
+      "name": "K. Ponmudy",
+      "constituency": "Thirukkovilur",
+      "party": "DMK"
+    },
+    "secretary": "D. Karthikeyan, IAS",
+    "budget": {
+      "revenue": 8000,
+      "capital": 2000,
+      "total": 10000,
+      "year": "2025-26"
+    },
+    "agencies": [
+      {
+        "name": {
+          "en": "Directorate of Collegiate Education",
+          "ta": "கல்லூரிக் கல்வி இயக்ககம்"
+        },
+        "type": "Directorate"
+      },
+      {
+        "name": {
+          "en": "Directorate of Technical Education",
+          "ta": "தொழில்நுட்பக் கல்வி இயக்ககம்"
+        },
+        "type": "Directorate"
+      },
+      {
+        "name": {
+          "en": "Anna University",
+          "ta": "அண்ணா பல்கலைக்கழகம்"
+        },
+        "type": "University"
+      }
+    ],
+    "keySchemes": [
+      {
+        "name": {
+          "en": "Naan Mudhalvan (I Am First) Skill Development Scheme",
+          "ta": "நான் முதல்வன் திறன் மேம்பாட்டுத் திட்டம்"
+        },
+        "description": {
+          "en": "Skill development and employability enhancement for college students",
+          "ta": "கல்லூரி மாணவர்களுக்கு திறன் மேம்பாடு மற்றும் வேலைவாய்ப்பு மேம்பாடு"
+        }
+      },
+      {
+        "name": {
+          "en": "First Graduate Scholarship",
+          "ta": "முதல் தலைமுறை பட்டதாரி உதவித்தொகை"
+        },
+        "description": {
+          "en": "Scholarships for first-generation graduates from economically weaker sections",
+          "ta": "பொருளாதாரத்தில் பின்தங்கிய பிரிவினரின் முதல் தலைமுறை பட்டதாரிகளுக்கு உதவித்தொகை"
+        }
+      }
+    ],
+    "description": {
+      "en": "Department managing universities, colleges, and technical education institutions in Tamil Nadu",
+      "ta": "தமிழ்நாட்டில் பல்கலைக்கழகங்கள், கல்லூரிகள் மற்றும் தொழில்நுட்ப கல்வி நிறுவனங்களை நிர்வகிக்கும் துறை"
+    }
+  },
+  {
+    "id": "highways-minor-ports",
+    "name": {
+      "en": "Highways and Minor Ports",
+      "ta": "நெடுஞ்சாலைகள் மற்றும் சிறு துறைமுகங்கள்"
+    },
+    "sector": "Infrastructure",
+    "minister": {
+      "name": "E.V. Velu",
+      "constituency": "Tiruvannamalai",
+      "party": "DMK"
+    },
+    "secretary": "Dheeraj Kumar, IAS",
+    "budget": {
+      "revenue": 6000,
+      "capital": 9000,
+      "total": 15000,
+      "year": "2025-26"
+    },
+    "agencies": [
+      {
+        "name": {
+          "en": "Highways Department",
+          "ta": "நெடுஞ்சாலைத் துறை"
+        },
+        "type": "Department"
+      },
+      {
+        "name": {
+          "en": "Tamil Nadu Road Development Company (TNRDC)",
+          "ta": "தமிழ்நாடு சாலை மேம்பாட்டு நிறுவனம்"
+        },
+        "type": "Corporation"
+      }
+    ],
+    "keySchemes": [
+      {
+        "name": {
+          "en": "Tamil Nadu Road Improvement Programme",
+          "ta": "தமிழ்நாடு சாலை மேம்பாட்டுத் திட்டம்"
+        },
+        "description": {
+          "en": "Upgrading and widening of state highways and major district roads",
+          "ta": "மாநில நெடுஞ்சாலைகள் மற்றும் முக்கிய மாவட்ட சாலைகளை மேம்படுத்துதல் மற்றும் அகலப்படுத்துதல்"
+        }
+      }
+    ],
+    "description": {
+      "en": "Department responsible for construction and maintenance of highways, bridges, and minor ports",
+      "ta": "நெடுஞ்சாலைகள், பாலங்கள் மற்றும் சிறு துறைமுகங்களின் கட்டுமானம் மற்றும் பராமரிப்புக்கு பொறுப்பான துறை"
+    }
+  },
+  {
+    "id": "home-prohibition-excise",
+    "name": {
+      "en": "Home, Prohibition and Excise",
+      "ta": "உள்துறை, தடை மற்றும் கலால்"
+    },
+    "sector": "Law & Order",
+    "minister": {
+      "name": "M.K. Stalin",
+      "constituency": "Kolathur",
+      "party": "DMK"
+    },
+    "secretary": "Phanindra Reddy, IAS",
+    "budget": {
+      "revenue": 12000,
+      "capital": 2000,
+      "total": 14000,
+      "year": "2025-26"
+    },
+    "agencies": [
+      {
+        "name": {
+          "en": "Tamil Nadu Police",
+          "ta": "தமிழ்நாடு காவல்துறை"
+        },
+        "type": "Department"
+      },
+      {
+        "name": {
+          "en": "Tamil Nadu Fire and Rescue Services",
+          "ta": "தமிழ்நாடு தீயணைப்பு மற்றும் மீட்புப் பணிகள்"
+        },
+        "type": "Department"
+      },
+      {
+        "name": {
+          "en": "Tamil Nadu State Marketing Corporation (TASMAC)",
+          "ta": "தமிழ்நாடு அரசு மதுபான வணிக நிறுவனம் (டாஸ்மாக்)"
+        },
+        "type": "Corporation"
+      }
+    ],
+    "keySchemes": [
+      {
+        "name": {
+          "en": "Modernization of Police Force",
+          "ta": "காவல்துறை நவீனமயமாக்கல்"
+        },
+        "description": {
+          "en": "Equipping police with modern technology, vehicles, and infrastructure",
+          "ta": "நவீன தொழில்நுட்பம், வாகனங்கள் மற்றும் உள்கட்டமைப்புடன் காவல்துறையை சித்தப்படுத்துதல்"
+        }
+      },
+      {
+        "name": {
+          "en": "Women Safety Initiatives",
+          "ta": "பெண்கள் பாதுகாப்பு முயற்சிகள்"
+        },
+        "description": {
+          "en": "All-women police stations and safety patrol units for women's security",
+          "ta": "பெண்கள் பாதுகாப்புக்கான அனைத்து பெண் காவல் நிலையங்கள் மற்றும் பாதுகாப்பு ரோந்து அலகுகள்"
+        }
+      }
+    ],
+    "description": {
+      "en": "Department managing law enforcement, police administration, prohibition, and excise duties",
+      "ta": "சட்ட அமலாக்கம், காவல்துறை நிர்வாகம், தடை மற்றும் கலால் வரிகளை நிர்வகிக்கும் துறை"
+    }
+  },
+  {
+    "id": "housing-urban-development",
+    "name": {
+      "en": "Housing and Urban Development",
+      "ta": "வீட்டு வசதி மற்றும் நகர்ப்புற வளர்ச்சி"
+    },
+    "sector": "Urban Development",
+    "minister": {
+      "name": "S. Muthusamy",
+      "constituency": "Paramathi Velur",
+      "party": "DMK"
+    },
+    "secretary": "S. Krishnan, IAS",
+    "budget": {
+      "revenue": 4000,
+      "capital": 6000,
+      "total": 10000,
+      "year": "2025-26"
+    },
+    "agencies": [
+      {
+        "name": {
+          "en": "Tamil Nadu Housing Board (TNHB)",
+          "ta": "தமிழ்நாடு வீட்டு வசதி வாரியம்"
+        },
+        "type": "Board"
+      },
+      {
+        "name": {
+          "en": "Tamil Nadu Slum Clearance Board (TNSCB)",
+          "ta": "தமிழ்நாடு குடிசை மாற்று வாரியம்"
+        },
+        "type": "Board"
+      }
+    ],
+    "keySchemes": [
+      {
+        "name": {
+          "en": "Pradhan Mantri Awas Yojana - Urban (PMAY-U)",
+          "ta": "பிரதமர் வீட்டு வசதித் திட்டம் - நகர்ப்புறம்"
+        },
+        "description": {
+          "en": "Affordable housing for urban poor under central government scheme",
+          "ta": "மத்திய அரசு திட்டத்தின் கீழ் நகர்ப்புற ஏழைகளுக்கு மலிவு விலை வீடுகள்"
+        }
+      },
+      {
+        "name": {
+          "en": "Tamil Nadu Urban Habitat Development Board Scheme",
+          "ta": "தமிழ்நாடு நகர்ப்புற குடியிருப்பு மேம்பாட்டு வாரியத் திட்டம்"
+        },
+        "description": {
+          "en": "Comprehensive urban housing and settlement development programme",
+          "ta": "விரிவான நகர்ப்புற வீட்டு வசதி மற்றும் குடியிருப்பு மேம்பாட்டுத் திட்டம்"
+        }
+      }
+    ],
+    "description": {
+      "en": "Department overseeing housing development and urban planning in Tamil Nadu",
+      "ta": "தமிழ்நாட்டில் வீட்டு வசதி மேம்பாடு மற்றும் நகர்ப்புற திட்டமிடலை மேற்பார்வையிடும் துறை"
+    }
+  },
+  {
+    "id": "human-resources-management",
+    "name": {
+      "en": "Human Resources Management",
+      "ta": "மனிதவள மேலாண்மை"
+    },
+    "sector": "Administration",
+    "minister": {
+      "name": "M.K. Stalin",
+      "constituency": "Kolathur",
+      "party": "DMK"
+    },
+    "secretary": "V. Irai Anbu, IAS",
+    "budget": {
+      "revenue": 1200,
+      "capital": 200,
+      "total": 1400,
+      "year": "2025-26"
+    },
+    "agencies": [
+      {
+        "name": {
+          "en": "Anna Institute of Management Studies",
+          "ta": "அண்ணா மேலாண்மை ஆய்வுகள் நிறுவனம்"
+        },
+        "type": "Institute"
+      },
+      {
+        "name": {
+          "en": "Tamil Nadu Institute of Urban Studies",
+          "ta": "தமிழ்நாடு நகர்ப்புற ஆய்வு நிறுவனம்"
+        },
+        "type": "Institute"
+      }
+    ],
+    "keySchemes": [
+      {
+        "name": {
+          "en": "Government Staff Training Programme",
+          "ta": "அரசு ஊழியர் பயிற்சித் திட்டம்"
+        },
+        "description": {
+          "en": "Capacity building and training programs for government employees",
+          "ta": "அரசு ஊழியர்களுக்கான திறன் மேம்பாடு மற்றும் பயிற்சி திட்டங்கள்"
+        }
+      }
+    ],
+    "description": {
+      "en": "Department managing government staff recruitment, training, and administrative reforms",
+      "ta": "அரசு ஊழியர்கள் நியமனம், பயிற்சி மற்றும் நிர்வாக சீர்திருத்தங்களை நிர்வகிக்கும் துறை"
+    }
+  },
+  {
+    "id": "industries",
+    "name": {
+      "en": "Industries",
+      "ta": "தொழில்கள்"
+    },
+    "sector": "Industry",
+    "minister": {
+      "name": "T.R.B. Rajaa",
+      "constituency": "Mannargudi",
+      "party": "DMK"
+    },
+    "secretary": "S. Krishnan, IAS",
+    "budget": {
+      "revenue": 3500,
+      "capital": 2500,
+      "total": 6000,
+      "year": "2025-26"
+    },
+    "agencies": [
+      {
+        "name": {
+          "en": "Tamil Nadu Industrial Development Corporation (TIDCO)",
+          "ta": "தமிழ்நாடு தொழில்துறை வளர்ச்சி நிறுவனம்"
+        },
+        "type": "Corporation"
+      },
+      {
+        "name": {
+          "en": "State Industries Promotion Corporation of Tamil Nadu (SIPCOT)",
+          "ta": "தமிழ்நாடு அரசு தொழில் ஊக்குவிப்பு நிறுவனம்"
+        },
+        "type": "Corporation"
+      },
+      {
+        "name": {
+          "en": "Tamil Nadu Industrial Investment Corporation (TIIC)",
+          "ta": "தமிழ்நாடு தொழில்துறை முதலீட்டு நிறுவனம்"
+        },
+        "type": "Corporation"
+      }
+    ],
+    "keySchemes": [
+      {
+        "name": {
+          "en": "Tamil Nadu Industrial Policy 2021",
+          "ta": "தமிழ்நாடு தொழில் கொள்கை 2021"
+        },
+        "description": {
+          "en": "Policy framework for attracting investment and promoting industrial growth",
+          "ta": "முதலீட்டை ஈர்த்தல் மற்றும் தொழில் வளர்ச்சியை ஊக்குவிப்பதற்கான கொள்கை கட்டமைப்பு"
+        }
+      },
+      {
+        "name": {
+          "en": "Single Window Facilitation",
+          "ta": "ஒற்றை சாளர வசதி"
+        },
+        "description": {
+          "en": "Single point approval system for industrial clearances and licenses",
+          "ta": "தொழிற்சாலை அனுமதிகள் மற்றும் உரிமங்களுக்கான ஒற்றை புள்ளி ஒப்புதல் முறை"
+        }
+      }
+    ],
+    "description": {
+      "en": "Department promoting industrial development, investment, and manufacturing in Tamil Nadu",
+      "ta": "தமிழ்நாட்டில் தொழில்துறை வளர்ச்சி, முதலீடு மற்றும் உற்பத்தியை ஊக்குவிக்கும் துறை"
+    }
+  },
+  {
+    "id": "information-technology-digital-services",
+    "name": {
+      "en": "Information Technology and Digital Services",
+      "ta": "தகவல் தொழில்நுட்பம் மற்றும் டிஜிட்டல் சேவைகள்"
+    },
+    "sector": "Industry",
+    "minister": {
+      "name": "Palanivel Thiaga Rajan",
+      "constituency": "Madurai Central",
+      "party": "DMK"
+    },
+    "secretary": "Neeraj Mittal, IAS",
+    "budget": {
+      "revenue": 2000,
+      "capital": 1500,
+      "total": 3500,
+      "year": "2025-26"
+    },
+    "agencies": [
+      {
+        "name": {
+          "en": "Electronics Corporation of Tamil Nadu (ELCOT)",
+          "ta": "தமிழ்நாடு மின்னணுவியல் நிறுவனம் (எல்காட்)"
+        },
+        "type": "Corporation"
+      },
+      {
+        "name": {
+          "en": "Tamil Nadu e-Governance Agency (TNeGA)",
+          "ta": "தமிழ்நாடு மின்-ஆளுமை முகமை"
+        },
+        "type": "Agency"
+      }
+    ],
+    "keySchemes": [
+      {
+        "name": {
+          "en": "Tamil Nadu Fibre Net (TN FibreNet)",
+          "ta": "தமிழ்நாடு ஃபைபர்நெட்"
+        },
+        "description": {
+          "en": "Providing high-speed broadband connectivity to all villages in Tamil Nadu",
+          "ta": "தமிழ்நாட்டின் அனைத்து கிராமங்களுக்கும் அதிவேக பிராட்பேண்ட் இணைப்பு"
+        }
+      },
+      {
+        "name": {
+          "en": "Free Laptop Scheme for Students",
+          "ta": "மாணவர்களுக்கான இலவச லேப்டாப் திட்டம்"
+        },
+        "description": {
+          "en": "Distribution of free laptops to students of government schools and colleges",
+          "ta": "அரசுப் பள்ளி மற்றும் கல்லூரி மாணவர்களுக்கு இலவச லேப்டாப் வழங்கல்"
+        }
+      }
+    ],
+    "description": {
+      "en": "Department driving IT industry growth, e-governance, and digital transformation in Tamil Nadu",
+      "ta": "தமிழ்நாட்டில் தகவல் தொழில்நுட்பத் துறை வளர்ச்சி, மின்-ஆளுமை மற்றும் டிஜிட்டல் மாற்றத்தை உந்தும் துறை"
+    }
+  },
+  {
+    "id": "labour-employment",
+    "name": {
+      "en": "Labour and Employment",
+      "ta": "தொழிலாளர் நலன் மற்றும் வேலைவாய்ப்பு"
+    },
+    "sector": "Social Welfare",
+    "minister": {
+      "name": "C.V. Ganesan",
+      "constituency": "Ponneri",
+      "party": "DMK"
+    },
+    "secretary": "M.S. Shanmugam, IAS",
+    "budget": {
+      "revenue": 2200,
+      "capital": 300,
+      "total": 2500,
+      "year": "2025-26"
+    },
+    "agencies": [
+      {
+        "name": {
+          "en": "Labour Department",
+          "ta": "தொழிலாளர் நலத் துறை"
+        },
+        "type": "Department"
+      },
+      {
+        "name": {
+          "en": "Employment and Training Department",
+          "ta": "வேலைவாய்ப்பு மற்றும் பயிற்சித் துறை"
+        },
+        "type": "Department"
+      },
+      {
+        "name": {
+          "en": "Tamil Nadu Construction Workers Welfare Board",
+          "ta": "தமிழ்நாடு கட்டுமானத் தொழிலாளர் நல வாரியம்"
+        },
+        "type": "Board"
+      }
+    ],
+    "keySchemes": [
+      {
+        "name": {
+          "en": "Construction Workers Welfare Scheme",
+          "ta": "கட்டுமானத் தொழிலாளர் நலத் திட்டம்"
+        },
+        "description": {
+          "en": "Welfare benefits including education assistance, marriage aid, and pension for construction workers",
+          "ta": "கட்டுமானத் தொழிலாளர்களுக்கு கல்வி உதவி, திருமண உதவி மற்றும் ஓய்வூதியம் உள்ளிட்ட நல சலுகைகள்"
+        }
+      }
+    ],
+    "description": {
+      "en": "Department overseeing labour welfare, employment services, and industrial relations",
+      "ta": "தொழிலாளர் நலன், வேலைவாய்ப்பு சேவைகள் மற்றும் தொழில்துறை உறவுகளை மேற்பார்வையிடும் துறை"
+    }
+  },
+  {
+    "id": "law",
+    "name": {
+      "en": "Law",
+      "ta": "சட்டம்"
+    },
+    "sector": "Law & Order",
+    "minister": {
+      "name": "S. Regupathy",
+      "constituency": "Thousand Lights",
+      "party": "DMK"
+    },
+    "secretary": "Dheeraj Kumar, IAS",
+    "budget": {
+      "revenue": 1800,
+      "capital": 400,
+      "total": 2200,
+      "year": "2025-26"
+    },
+    "agencies": [
+      {
+        "name": {
+          "en": "Law Department",
+          "ta": "சட்டத் துறை"
+        },
+        "type": "Department"
+      },
+      {
+        "name": {
+          "en": "Tamil Nadu State Legal Services Authority (TNSLSA)",
+          "ta": "தமிழ்நாடு அரசு சட்ட சேவைகள் ஆணையம்"
+        },
+        "type": "Authority"
+      }
+    ],
+    "keySchemes": [
+      {
+        "name": {
+          "en": "Free Legal Aid Programme",
+          "ta": "இலவச சட்ட உதவித் திட்டம்"
+        },
+        "description": {
+          "en": "Providing free legal assistance to weaker sections of society",
+          "ta": "சமுதாயத்தின் நலிவடைந்த பிரிவினருக்கு இலவச சட்ட உதவி வழங்குதல்"
+        }
+      }
+    ],
+    "description": {
+      "en": "Department managing legal affairs, legislative drafting, and legal aid services",
+      "ta": "சட்ட விவகாரங்கள், சட்ட வரைவு மற்றும் சட்ட உதவி சேவைகளை நிர்வகிக்கும் துறை"
+    }
+  },
+  {
+    "id": "legislative-assembly",
+    "name": {
+      "en": "Legislative Assembly",
+      "ta": "சட்டமன்றம்"
+    },
+    "sector": "Administration",
+    "minister": {
+      "name": "M. Appavu",
+      "constituency": "Radhapuram",
+      "party": "DMK"
+    },
+    "secretary": "K. Srinivasan, IAS",
+    "budget": {
+      "revenue": 300,
+      "capital": 50,
+      "total": 350,
+      "year": "2025-26"
+    },
+    "agencies": [
+      {
+        "name": {
+          "en": "Tamil Nadu Legislative Assembly Secretariat",
+          "ta": "தமிழ்நாடு சட்டமன்ற செயலகம்"
+        },
+        "type": "Secretariat"
+      }
+    ],
+    "keySchemes": [
+      {
+        "name": {
+          "en": "Digitization of Legislative Records",
+          "ta": "சட்டமன்ற பதிவுகளின் மின்னிலக்கமாக்கல்"
+        },
+        "description": {
+          "en": "Digitizing historical legislative records and proceedings for public access",
+          "ta": "பொது அணுகலுக்காக வரலாற்று சட்டமன்ற பதிவுகள் மற்றும் நடவடிக்கைகளை மின்னிலக்கமாக்குதல்"
+        }
+      }
+    ],
+    "description": {
+      "en": "Department supporting the functioning of the Tamil Nadu Legislative Assembly",
+      "ta": "தமிழ்நாடு சட்டமன்றத்தின் செயல்பாட்டை ஆதரிக்கும் துறை"
+    }
+  },
+  {
+    "id": "msme",
+    "name": {
+      "en": "Micro, Small and Medium Enterprises",
+      "ta": "நுண், சிறு மற்றும் நடுத்தர நிறுவனங்கள்"
+    },
+    "sector": "Industry",
+    "minister": {
+      "name": "T.M. Anbarasan",
+      "constituency": "Chepauk-Triplicane",
+      "party": "DMK"
+    },
+    "secretary": "K. Gopal, IAS",
+    "budget": {
+      "revenue": 1500,
+      "capital": 500,
+      "total": 2000,
+      "year": "2025-26"
+    },
+    "agencies": [
+      {
+        "name": {
+          "en": "Tamil Nadu Small Industries Development Corporation (TANSIDCO)",
+          "ta": "தமிழ்நாடு சிறு தொழில் மேம்பாட்டு நிறுவனம்"
+        },
+        "type": "Corporation"
+      },
+      {
+        "name": {
+          "en": "Directorate of Industries and Commerce",
+          "ta": "தொழில் மற்றும் வணிக இயக்ககம்"
+        },
+        "type": "Directorate"
+      }
+    ],
+    "keySchemes": [
+      {
+        "name": {
+          "en": "New Entrepreneur cum Enterprise Development Scheme (NEEDS)",
+          "ta": "புதிய தொழில்முனைவோர் மற்றும் நிறுவன மேம்பாட்டுத் திட்டம்"
+        },
+        "description": {
+          "en": "Financial assistance for first-generation entrepreneurs to start enterprises",
+          "ta": "நிறுவனங்களை தொடங்க முதல் தலைமுறை தொழில்முனைவோருக்கு நிதி உதவி"
+        }
+      }
+    ],
+    "description": {
+      "en": "Department promoting micro, small, and medium enterprises for economic growth and employment",
+      "ta": "பொருளாதார வளர்ச்சி மற்றும் வேலைவாய்ப்பிற்காக நுண், சிறு மற்றும் நடுத்தர நிறுவனங்களை ஊக்குவிக்கும் துறை"
+    }
+  },
+  {
+    "id": "miscellaneous-officers-secretariat",
+    "name": {
+      "en": "Miscellaneous Officers, Secretariat",
+      "ta": "இதர அலுவலர்கள், செயலகம்"
+    },
+    "sector": "Administration",
+    "minister": {
+      "name": "M.K. Stalin",
+      "constituency": "Kolathur",
+      "party": "DMK"
+    },
+    "secretary": "V. Irai Anbu, IAS",
+    "budget": {
+      "revenue": 500,
+      "capital": 100,
+      "total": 600,
+      "year": "2025-26"
+    },
+    "agencies": [
+      {
+        "name": {
+          "en": "Secretariat Administration",
+          "ta": "செயலக நிர்வாகம்"
+        },
+        "type": "Department"
+      }
+    ],
+    "keySchemes": [
+      {
+        "name": {
+          "en": "Secretariat Modernisation",
+          "ta": "செயலக நவீனமயமாக்கல்"
+        },
+        "description": {
+          "en": "Modernizing secretariat infrastructure and administrative processes",
+          "ta": "செயலக உள்கட்டமைப்பு மற்றும் நிர்வாக செயல்முறைகளை நவீனமயமாக்குதல்"
+        }
+      }
+    ],
+    "description": {
+      "en": "Department managing general secretariat administration and miscellaneous government functions",
+      "ta": "பொது செயலக நிர்வாகம் மற்றும் இதர அரசு செயல்பாடுகளை நிர்வகிக்கும் துறை"
+    }
+  },
+  {
+    "id": "mudalvarin-mugavari",
+    "name": {
+      "en": "Mudalvarin Mugavari (Chief Minister's Office)",
+      "ta": "முதல்வரின் முகவரி"
+    },
+    "sector": "Administration",
+    "minister": {
+      "name": "M.K. Stalin",
+      "constituency": "Kolathur",
+      "party": "DMK"
+    },
+    "secretary": "V. Irai Anbu, IAS",
+    "budget": {
+      "revenue": 800,
+      "capital": 200,
+      "total": 1000,
+      "year": "2025-26"
+    },
+    "agencies": [
+      {
+        "name": {
+          "en": "Chief Minister's Cell",
+          "ta": "முதலமைச்சர் அலுவலகம்"
+        },
+        "type": "Office"
+      }
+    ],
+    "keySchemes": [
+      {
+        "name": {
+          "en": "Chief Minister's Special Grievance Redressal",
+          "ta": "முதலமைச்சரின் சிறப்பு குறைதீர்ப்பு"
+        },
+        "description": {
+          "en": "Direct grievance redressal mechanism through the Chief Minister's Office",
+          "ta": "முதலமைச்சர் அலுவலகம் மூலம் நேரடி குறைதீர்ப்பு அமைப்பு"
+        }
+      }
+    ],
+    "description": {
+      "en": "Chief Minister's Office handling public grievances and special initiatives",
+      "ta": "பொது குறைகள் மற்றும் சிறப்பு முயற்சிகளை கையாளும் முதலமைச்சர் அலுவலகம்"
+    }
+  },
+  {
+    "id": "municipal-administration-water-supply",
+    "name": {
+      "en": "Municipal Administration and Water Supply",
+      "ta": "நகராட்சி நிர்வாகம் மற்றும் குடிநீர் வழங்கல்"
+    },
+    "sector": "Urban Development",
+    "minister": {
+      "name": "K.N. Nehru",
+      "constituency": "Tiruchirappalli West",
+      "party": "DMK"
+    },
+    "secretary": "Shilpa Prabhakar Satish, IAS",
+    "budget": {
+      "revenue": 8000,
+      "capital": 7000,
+      "total": 15000,
+      "year": "2025-26"
+    },
+    "agencies": [
+      {
+        "name": {
+          "en": "Chennai Metropolitan Water Supply and Sewerage Board (CMWSSB)",
+          "ta": "சென்னை மாநகர குடிநீர் வழங்கல் மற்றும் கழிவுநீர் வாரியம்"
+        },
+        "type": "Board"
+      },
+      {
+        "name": {
+          "en": "Tamil Nadu Water Supply and Drainage Board (TWAD)",
+          "ta": "தமிழ்நாடு குடிநீர் வழங்கல் மற்றும் கழிவுநீர் வடிகால் வாரியம்"
+        },
+        "type": "Board"
+      },
+      {
+        "name": {
+          "en": "Directorate of Municipal Administration",
+          "ta": "நகராட்சி நிர்வாக இயக்ககம்"
+        },
+        "type": "Directorate"
+      }
+    ],
+    "keySchemes": [
+      {
+        "name": {
+          "en": "Combined Drinking Water Supply Schemes",
+          "ta": "கூட்டு குடிநீர் வழங்கல் திட்டங்கள்"
+        },
+        "description": {
+          "en": "Providing safe drinking water to urban and rural areas through integrated schemes",
+          "ta": "ஒருங்கிணைந்த திட்டங்கள் மூலம் நகர்ப்புற மற்றும் கிராமப்புறங்களுக்கு பாதுகாப்பான குடிநீர் வழங்குதல்"
+        }
+      },
+      {
+        "name": {
+          "en": "Smart City Mission",
+          "ta": "ஸ்மார்ட் சிட்டி திட்டம்"
+        },
+        "description": {
+          "en": "Urban development under Smart City initiative for select cities in Tamil Nadu",
+          "ta": "தமிழ்நாட்டில் தேர்ந்தெடுக்கப்பட்ட நகரங்களுக்கான ஸ்மார்ட் சிட்டி முயற்சியின் கீழ் நகர்ப்புற வளர்ச்சி"
+        }
+      }
+    ],
+    "description": {
+      "en": "Department overseeing urban local bodies, water supply, and sewerage services in Tamil Nadu",
+      "ta": "தமிழ்நாட்டில் நகர்ப்புற உள்ளாட்சி அமைப்புகள், குடிநீர் வழங்கல் மற்றும் கழிவுநீர் சேவைகளை மேற்பார்வையிடும் துறை"
+    }
+  },
+  {
+    "id": "natural-resources",
+    "name": {
+      "en": "Natural Resources",
+      "ta": "இயற்கை வளங்கள்"
+    },
+    "sector": "Energy & Environment",
+    "minister": {
+      "name": "Duraimurugan",
+      "constituency": "Katpadi",
+      "party": "DMK"
+    },
+    "secretary": "S. Nagarajan, IAS",
+    "budget": {
+      "revenue": 1000,
+      "capital": 500,
+      "total": 1500,
+      "year": "2025-26"
+    },
+    "agencies": [
+      {
+        "name": {
+          "en": "Department of Geology and Mining",
+          "ta": "புவியியல் மற்றும் சுரங்கத் துறை"
+        },
+        "type": "Department"
+      },
+      {
+        "name": {
+          "en": "Tamil Nadu Minerals Limited (TAMIN)",
+          "ta": "தமிழ்நாடு கனிம நிறுவனம் (டாமின்)"
+        },
+        "type": "Corporation"
+      }
+    ],
+    "keySchemes": [
+      {
+        "name": {
+          "en": "Sand Mining Regulation",
+          "ta": "மணல் எடுப்பு ஒழுங்குமுறை"
+        },
+        "description": {
+          "en": "Regulating sand mining to prevent environmental degradation",
+          "ta": "சுற்றுச்சூழல் சீரழிவைத் தடுக்க மணல் எடுப்பை ஒழுங்குபடுத்துதல்"
+        }
+      }
+    ],
+    "description": {
+      "en": "Department managing mining, minerals, and natural resource conservation in Tamil Nadu",
+      "ta": "தமிழ்நாட்டில் சுரங்கம், கனிமங்கள் மற்றும் இயற்கை வள பாதுகாப்பை நிர்வகிக்கும் துறை"
+    }
+  },
+  {
+    "id": "other-states-government",
+    "name": {
+      "en": "Other States Government",
+      "ta": "பிற மாநில அரசுகள்"
+    },
+    "sector": "Administration",
+    "minister": {
+      "name": "M.K. Stalin",
+      "constituency": "Kolathur",
+      "party": "DMK"
+    },
+    "secretary": "V. Irai Anbu, IAS",
+    "budget": {
+      "revenue": 100,
+      "capital": 0,
+      "total": 100,
+      "year": "2025-26"
+    },
+    "agencies": [
+      {
+        "name": {
+          "en": "Inter-State Relations Cell",
+          "ta": "மாநிலங்களுக்கிடையிலான உறவுகள் பிரிவு"
+        },
+        "type": "Cell"
+      }
+    ],
+    "keySchemes": [
+      {
+        "name": {
+          "en": "Inter-State Coordination",
+          "ta": "மாநிலங்களுக்கிடையிலான ஒருங்கிணைப்பு"
+        },
+        "description": {
+          "en": "Coordinating with other state governments on inter-state matters",
+          "ta": "மாநிலங்களுக்கிடையிலான விவகாரங்களில் பிற மாநில அரசுகளுடன் ஒருங்கிணைத்தல்"
+        }
+      }
+    ],
+    "description": {
+      "en": "Department handling inter-state relations and coordination with other state governments",
+      "ta": "மாநிலங்களுக்கிடையிலான உறவுகள் மற்றும் பிற மாநில அரசுகளுடன் ஒருங்கிணைப்பை கையாளும் துறை"
+    }
+  },
+  {
+    "id": "planning-development-special-initiatives",
+    "name": {
+      "en": "Planning, Development and Special Initiatives",
+      "ta": "திட்டமிடல், வளர்ச்சி மற்றும் சிறப்பு முயற்சிகள்"
+    },
+    "sector": "Administration",
+    "minister": {
+      "name": "M.K. Stalin",
+      "constituency": "Kolathur",
+      "party": "DMK"
+    },
+    "secretary": "S. Krishnan, IAS",
+    "budget": {
+      "revenue": 3000,
+      "capital": 2000,
+      "total": 5000,
+      "year": "2025-26"
+    },
+    "agencies": [
+      {
+        "name": {
+          "en": "State Planning Commission",
+          "ta": "மாநில திட்டக்குழு"
+        },
+        "type": "Commission"
+      },
+      {
+        "name": {
+          "en": "Tamil Nadu Innovation Initiatives (TANII)",
+          "ta": "தமிழ்நாடு புத்தாக்க முயற்சிகள்"
+        },
+        "type": "Initiative"
+      }
+    ],
+    "keySchemes": [
+      {
+        "name": {
+          "en": "Dravidian Model Governance",
+          "ta": "திராவிட மாதிரி ஆட்சி"
+        },
+        "description": {
+          "en": "Implementing the Dravidian model of equitable development and social justice",
+          "ta": "சமத்துவ வளர்ச்சி மற்றும் சமூக நீதியின் திராவிட மாதிரியை செயல்படுத்துதல்"
+        }
+      }
+    ],
+    "description": {
+      "en": "Department responsible for development planning, policy formulation, and special initiatives",
+      "ta": "வளர்ச்சி திட்டமிடல், கொள்கை உருவாக்கம் மற்றும் சிறப்பு முயற்சிகளுக்கு பொறுப்பான துறை"
+    }
+  },
+  {
+    "id": "public",
+    "name": {
+      "en": "Public",
+      "ta": "பொது"
+    },
+    "sector": "Administration",
+    "minister": {
+      "name": "M.K. Stalin",
+      "constituency": "Kolathur",
+      "party": "DMK"
+    },
+    "secretary": "V. Irai Anbu, IAS",
+    "budget": {
+      "revenue": 400,
+      "capital": 50,
+      "total": 450,
+      "year": "2025-26"
+    },
+    "agencies": [
+      {
+        "name": {
+          "en": "Public Department Secretariat",
+          "ta": "பொதுத் துறை செயலகம்"
+        },
+        "type": "Secretariat"
+      }
+    ],
+    "keySchemes": [
+      {
+        "name": {
+          "en": "Public Administration and General Services",
+          "ta": "பொது நிர்வாகம் மற்றும் பொது சேவைகள்"
+        },
+        "description": {
+          "en": "Managing general administration, protocol, and public affairs of the government",
+          "ta": "அரசின் பொது நிர்வாகம், நெறிமுறை மற்றும் பொது விவகாரங்களை நிர்வகித்தல்"
+        }
+      }
+    ],
+    "description": {
+      "en": "Department handling general public administration, protocol, and official communications",
+      "ta": "பொது நிர்வாகம், நெறிமுறை மற்றும் அதிகாரப்பூர்வ தகவல் தொடர்புகளை கையாளும் துறை"
+    }
+  },
+  {
+    "id": "public-elections",
+    "name": {
+      "en": "Public (Elections)",
+      "ta": "பொது (தேர்தல்கள்)"
+    },
+    "sector": "Administration",
+    "minister": {
+      "name": "M.K. Stalin",
+      "constituency": "Kolathur",
+      "party": "DMK"
+    },
+    "secretary": "V. Irai Anbu, IAS",
+    "budget": {
+      "revenue": 600,
+      "capital": 100,
+      "total": 700,
+      "year": "2025-26"
+    },
+    "agencies": [
+      {
+        "name": {
+          "en": "Chief Electoral Officer, Tamil Nadu",
+          "ta": "தலைமை தேர்தல் அதிகாரி, தமிழ்நாடு"
+        },
+        "type": "Office"
+      }
+    ],
+    "keySchemes": [
+      {
+        "name": {
+          "en": "Electoral Roll Management and Voter Education",
+          "ta": "தேர்தல் பட்டியல் மேலாண்மை மற்றும் வாக்காளர் கல்வி"
+        },
+        "description": {
+          "en": "Maintaining accurate electoral rolls and conducting voter awareness campaigns",
+          "ta": "துல்லியமான தேர்தல் பட்டியல்களை பராமரித்தல் மற்றும் வாக்காளர் விழிப்புணர்வு பிரச்சாரங்கள் நடத்துதல்"
+        }
+      }
+    ],
+    "description": {
+      "en": "Department managing election-related administration and coordination with Election Commission",
+      "ta": "தேர்தல் தொடர்பான நிர்வாகம் மற்றும் தேர்தல் ஆணையத்துடன் ஒருங்கிணைப்பை நிர்வகிக்கும் துறை"
+    }
+  },
+  {
+    "id": "public-works",
+    "name": {
+      "en": "Public Works",
+      "ta": "பொதுப்பணி"
+    },
+    "sector": "Infrastructure",
+    "minister": {
+      "name": "E.V. Velu",
+      "constituency": "Tiruvannamalai",
+      "party": "DMK"
+    },
+    "secretary": "K. Manivasan, IAS",
+    "budget": {
+      "revenue": 5000,
+      "capital": 8000,
+      "total": 13000,
+      "year": "2025-26"
+    },
+    "agencies": [
+      {
+        "name": {
+          "en": "Public Works Department (PWD)",
+          "ta": "பொதுப்பணித் துறை"
+        },
+        "type": "Department"
+      },
+      {
+        "name": {
+          "en": "Tamil Nadu Water Resources Organisation",
+          "ta": "தமிழ்நாடு நீர் வள அமைப்பு"
+        },
+        "type": "Organisation"
+      }
+    ],
+    "keySchemes": [
+      {
+        "name": {
+          "en": "Flood Management and Drainage Improvement",
+          "ta": "வெள்ள மேலாண்மை மற்றும் வடிகால் மேம்பாடு"
+        },
+        "description": {
+          "en": "Improving drainage infrastructure and flood management systems across Tamil Nadu",
+          "ta": "தமிழ்நாடு முழுவதும் வடிகால் உள்கட்டமைப்பு மற்றும் வெள்ள மேலாண்மை அமைப்புகளை மேம்படுத்துதல்"
+        }
+      }
+    ],
+    "description": {
+      "en": "Department managing construction of government buildings, roads, bridges, and irrigation works",
+      "ta": "அரசு கட்டிடங்கள், சாலைகள், பாலங்கள் மற்றும் பாசனப் பணிகளின் கட்டுமானத்தை நிர்வகிக்கும் துறை"
+    }
+  },
+  {
+    "id": "revenue-disaster-management",
+    "name": {
+      "en": "Revenue and Disaster Management",
+      "ta": "வருவாய் மற்றும் பேரிடர் மேலாண்மை"
+    },
+    "sector": "Administration",
+    "minister": {
+      "name": "KKSSR Ramachandran",
+      "constituency": "Sivaganga",
+      "party": "DMK"
+    },
+    "secretary": "V. Rajaraman, IAS",
+    "budget": {
+      "revenue": 6000,
+      "capital": 1000,
+      "total": 7000,
+      "year": "2025-26"
+    },
+    "agencies": [
+      {
+        "name": {
+          "en": "Revenue Department",
+          "ta": "வருவாய்த் துறை"
+        },
+        "type": "Department"
+      },
+      {
+        "name": {
+          "en": "Tamil Nadu State Disaster Management Authority (TNSDMA)",
+          "ta": "தமிழ்நாடு அரசு பேரிடர் மேலாண்மை ஆணையம்"
+        },
+        "type": "Authority"
+      },
+      {
+        "name": {
+          "en": "Survey and Settlement Department",
+          "ta": "அளவை மற்றும் நிலப்பதிவுத் துறை"
+        },
+        "type": "Department"
+      }
+    ],
+    "keySchemes": [
+      {
+        "name": {
+          "en": "Disaster Relief and Rehabilitation",
+          "ta": "பேரிடர் நிவாரணம் மற்றும் மறுவாழ்வு"
+        },
+        "description": {
+          "en": "Providing immediate relief and rehabilitation assistance during natural disasters",
+          "ta": "இயற்கை பேரழிவுகளின் போது உடனடி நிவாரணம் மற்றும் மறுவாழ்வு உதவி வழங்குதல்"
+        }
+      },
+      {
+        "name": {
+          "en": "Patta Transfer and Land Records Modernisation",
+          "ta": "பட்டா மாற்றம் மற்றும் நில பதிவுகள் நவீனமயமாக்கல்"
+        },
+        "description": {
+          "en": "Modernizing land records and enabling online patta transfer services",
+          "ta": "நில பதிவுகளை நவீனமயமாக்குதல் மற்றும் ஆன்லைன் பட்டா மாற்ற சேவைகளை இயக்குதல்"
+        }
+      }
+    ],
+    "description": {
+      "en": "Department managing land revenue administration, land records, and disaster management",
+      "ta": "நில வருவாய் நிர்வாகம், நில பதிவுகள் மற்றும் பேரிடர் மேலாண்மையை நிர்வகிக்கும் துறை"
+    }
+  },
+  {
+    "id": "rural-development-panchayat-raj",
+    "name": {
+      "en": "Rural Development and Panchayat Raj",
+      "ta": "ஊரக வளர்ச்சி மற்றும் பஞ்சாயத்து ராஜ்"
+    },
+    "sector": "Rural Development",
+    "minister": {
+      "name": "I. Periyasamy",
+      "constituency": "Attur",
+      "party": "DMK"
+    },
+    "secretary": "P. Amudha, IAS",
+    "budget": {
+      "revenue": 15000,
+      "capital": 5000,
+      "total": 20000,
+      "year": "2025-26"
+    },
+    "agencies": [
+      {
+        "name": {
+          "en": "Directorate of Rural Development and Panchayat Raj",
+          "ta": "ஊரக வளர்ச்சி மற்றும் பஞ்சாயத்து ராஜ் இயக்ககம்"
+        },
+        "type": "Directorate"
+      },
+      {
+        "name": {
+          "en": "Tamil Nadu Corporation for Development of Women (TNCDW)",
+          "ta": "தமிழ்நாடு பெண்கள் மேம்பாட்டு நிறுவனம்"
+        },
+        "type": "Corporation"
+      }
+    ],
+    "keySchemes": [
+      {
+        "name": {
+          "en": "Mahatma Gandhi National Rural Employment Guarantee Scheme (MGNREGS)",
+          "ta": "மகாத்மா காந்தி தேசிய ஊரக வேலைவாய்ப்பு உறுதித் திட்டம்"
+        },
+        "description": {
+          "en": "Guaranteeing 100 days of wage employment per year to rural households",
+          "ta": "ஊரக குடும்பங்களுக்கு ஆண்டுக்கு 100 நாட்கள் கூலி வேலைவாய்ப்பு உத்தரவாதம்"
+        }
+      },
+      {
+        "name": {
+          "en": "Kalaignar Veettu Vasathi Thittam",
+          "ta": "கலைஞர் வீட்டு வசதித் திட்டம்"
+        },
+        "description": {
+          "en": "Housing scheme for rural poor providing pucca houses",
+          "ta": "ஊரக ஏழைகளுக்கு நிரந்தர வீடுகள் வழங்கும் வீட்டு வசதித் திட்டம்"
+        }
+      }
+    ],
+    "description": {
+      "en": "Department managing rural development programmes, panchayat governance, and village infrastructure",
+      "ta": "ஊரக வளர்ச்சி திட்டங்கள், பஞ்சாயத்து ஆட்சி மற்றும் கிராம உள்கட்டமைப்பை நிர்வகிக்கும் துறை"
+    }
+  },
+  {
+    "id": "school-education",
+    "name": {
+      "en": "School Education",
+      "ta": "பள்ளிக் கல்வி"
+    },
+    "sector": "Education",
+    "minister": {
+      "name": "Anbil Mahesh Poyyamozhi",
+      "constituency": "Tiruverumbur",
+      "party": "DMK"
+    },
+    "secretary": "B. Chandra Mohan, IAS",
+    "budget": {
+      "revenue": 25000,
+      "capital": 3000,
+      "total": 28000,
+      "year": "2025-26"
+    },
+    "agencies": [
+      {
+        "name": {
+          "en": "Directorate of School Education",
+          "ta": "பள்ளிக் கல்வி இயக்ககம்"
+        },
+        "type": "Directorate"
+      },
+      {
+        "name": {
+          "en": "Tamil Nadu Textbook and Educational Services Corporation",
+          "ta": "தமிழ்நாடு பாடநூல் மற்றும் கல்விச் சேவைகள் நிறுவனம்"
+        },
+        "type": "Corporation"
+      },
+      {
+        "name": {
+          "en": "Samagra Shiksha Abhiyan",
+          "ta": "சமக்ர சிக்ஷா அபியான்"
+        },
+        "type": "Programme"
+      }
+    ],
+    "keySchemes": [
+      {
+        "name": {
+          "en": "Breakfast Scheme for Government School Students",
+          "ta": "அரசுப் பள்ளி மாணவர்களுக்கான காலை உணவுத் திட்டம்"
+        },
+        "description": {
+          "en": "Providing free nutritious breakfast to government school students",
+          "ta": "அரசுப் பள்ளி மாணவர்களுக்கு இலவச சத்தான காலை உணவு வழங்குதல்"
+        }
+      },
+      {
+        "name": {
+          "en": "Ennum Ezhuthum (Reading and Writing)",
+          "ta": "எண்ணும் எழுத்தும்"
+        },
+        "description": {
+          "en": "Ensuring foundational literacy and numeracy for all children by Class 3",
+          "ta": "அனைத்து குழந்தைகளுக்கும் 3ம் வகுப்புக்குள் அடிப்படை எழுத்தறிவு மற்றும் எண்ணறிவை உறுதிசெய்தல்"
+        }
+      }
+    ],
+    "description": {
+      "en": "Department managing primary and secondary school education across Tamil Nadu",
+      "ta": "தமிழ்நாடு முழுவதும் தொடக்க மற்றும் இடைநிலைப் பள்ளிக் கல்வியை நிர்வகிக்கும் துறை"
+    }
+  },
+  {
+    "id": "social-reforms",
+    "name": {
+      "en": "Social Reforms",
+      "ta": "சமூக சீர்திருத்தங்கள்"
+    },
+    "sector": "Social Welfare",
+    "minister": {
+      "name": "S. Raghupathy",
+      "constituency": "Virudhunagar",
+      "party": "DMK"
+    },
+    "secretary": "P. Amudha, IAS",
+    "budget": {
+      "revenue": 800,
+      "capital": 100,
+      "total": 900,
+      "year": "2025-26"
+    },
+    "agencies": [
+      {
+        "name": {
+          "en": "Social Reform Department",
+          "ta": "சமூக சீர்திருத்தத் துறை"
+        },
+        "type": "Department"
+      }
+    ],
+    "keySchemes": [
+      {
+        "name": {
+          "en": "Anti-Untouchability and Social Reform Programmes",
+          "ta": "தீண்டாமை ஒழிப்பு மற்றும் சமூக சீர்திருத்தத் திட்டங்கள்"
+        },
+        "description": {
+          "en": "Programmes to eradicate untouchability and promote social equality",
+          "ta": "தீண்டாமையை ஒழிக்க மற்றும் சமூக சமத்துவத்தை ஊக்குவிக்க திட்டங்கள்"
+        }
+      }
+    ],
+    "description": {
+      "en": "Department implementing social reform measures, anti-untouchability, and social justice initiatives",
+      "ta": "சமூக சீர்திருத்த நடவடிக்கைகள், தீண்டாமை ஒழிப்பு மற்றும் சமூக நீதி முயற்சிகளை செயல்படுத்தும் துறை"
+    }
+  },
+  {
+    "id": "social-welfare-women-empowerment",
+    "name": {
+      "en": "Social Welfare and Women Empowerment",
+      "ta": "சமூக நலம் மற்றும் பெண்கள் அதிகாரமளித்தல்"
+    },
+    "sector": "Social Welfare",
+    "minister": {
+      "name": "Geetha Jeevan",
+      "constituency": "Nagercoil",
+      "party": "DMK"
+    },
+    "secretary": "M.S. Shanmugam, IAS",
+    "budget": {
+      "revenue": 5500,
+      "capital": 500,
+      "total": 6000,
+      "year": "2025-26"
+    },
+    "agencies": [
+      {
+        "name": {
+          "en": "Directorate of Social Welfare",
+          "ta": "சமூக நல இயக்ககம்"
+        },
+        "type": "Directorate"
+      },
+      {
+        "name": {
+          "en": "Tamil Nadu State Commission for Women",
+          "ta": "தமிழ்நாடு பெண்கள் ஆணையம்"
+        },
+        "type": "Commission"
+      },
+      {
+        "name": {
+          "en": "Integrated Child Development Services (ICDS)",
+          "ta": "ஒருங்கிணைந்த குழந்தை வளர்ச்சி சேவைகள்"
+        },
+        "type": "Programme"
+      }
+    ],
+    "keySchemes": [
+      {
+        "name": {
+          "en": "Moovalur Ramamirtham Ammaiyar Higher Education Assurance Scheme",
+          "ta": "மூவலூர் ராமமிர்தம் அம்மையார் உயர்கல்வி உறுதித் திட்டம்"
+        },
+        "description": {
+          "en": "Financial assistance of Rs. 1000/month for girls from poor families pursuing higher education",
+          "ta": "உயர்கல்வி பயிலும் ஏழை குடும்பங்களைச் சேர்ந்த பெண்களுக்கு மாதம் ரூ.1000 நிதி உதவி"
+        }
+      },
+      {
+        "name": {
+          "en": "Kalaignar Magalir Urimai Thogai Thittam",
+          "ta": "கலைஞர் மகளிர் உரிமைத் தொகைத் திட்டம்"
+        },
+        "description": {
+          "en": "Monthly financial assistance of Rs. 1000 to women heads of eligible families",
+          "ta": "தகுதியுள்ள குடும்பங்களின் பெண் தலைவிகளுக்கு மாதம் ரூ.1000 நிதி உதவி"
+        }
+      }
+    ],
+    "description": {
+      "en": "Department implementing social welfare programmes and women empowerment initiatives",
+      "ta": "சமூக நலத் திட்டங்கள் மற்றும் பெண்கள் அதிகாரமளிக்கும் முயற்சிகளை செயல்படுத்தும் துறை"
+    }
+  },
+  {
+    "id": "special-programme-implementation",
+    "name": {
+      "en": "Special Programme Implementation",
+      "ta": "சிறப்புத் திட்ட செயலாக்கம்"
+    },
+    "sector": "Administration",
+    "minister": {
+      "name": "T.M. Anbarasan",
+      "constituency": "Chepauk-Triplicane",
+      "party": "DMK"
+    },
+    "secretary": "K. Gopal, IAS",
+    "budget": {
+      "revenue": 2000,
+      "capital": 500,
+      "total": 2500,
+      "year": "2025-26"
+    },
+    "agencies": [
+      {
+        "name": {
+          "en": "Special Programme Implementation Department",
+          "ta": "சிறப்புத் திட்ட செயலாக்கத் துறை"
+        },
+        "type": "Department"
+      }
+    ],
+    "keySchemes": [
+      {
+        "name": {
+          "en": "District-level Special Development Programmes",
+          "ta": "மாவட்ட அளவிலான சிறப்பு வளர்ச்சித் திட்டங்கள்"
+        },
+        "description": {
+          "en": "Implementing special development programmes at the district level for targeted areas",
+          "ta": "இலக்கு பகுதிகளுக்கான மாவட்ட அளவிலான சிறப்பு வளர்ச்சி திட்டங்களை செயல்படுத்துதல்"
+        }
+      }
+    ],
+    "description": {
+      "en": "Department implementing special programmes and targeted development initiatives",
+      "ta": "சிறப்புத் திட்டங்கள் மற்றும் இலக்குள்ள வளர்ச்சி முயற்சிகளை செயல்படுத்தும் துறை"
+    }
+  },
+  {
+    "id": "tamil-development-information",
+    "name": {
+      "en": "Tamil Development and Information",
+      "ta": "தமிழ் வளர்ச்சி மற்றும் தகவல்"
+    },
+    "sector": "Culture & Tourism",
+    "minister": {
+      "name": "M.P. Saminathan",
+      "constituency": "Sathankulam",
+      "party": "DMK"
+    },
+    "secretary": "B. Chandra Mohan, IAS",
+    "budget": {
+      "revenue": 800,
+      "capital": 200,
+      "total": 1000,
+      "year": "2025-26"
+    },
+    "agencies": [
+      {
+        "name": {
+          "en": "Department of Information and Public Relations",
+          "ta": "தகவல் மற்றும் மக்கள் தொடர்புத் துறை"
+        },
+        "type": "Department"
+      },
+      {
+        "name": {
+          "en": "Tamil Nadu Iyal Isai Nataka Mandram",
+          "ta": "தமிழ்நாடு இயல் இசை நாடக மன்றம்"
+        },
+        "type": "Board"
+      }
+    ],
+    "keySchemes": [
+      {
+        "name": {
+          "en": "Promotion of Tamil Language and Literature",
+          "ta": "தமிழ் மொழி மற்றும் இலக்கிய ஊக்குவிப்பு"
+        },
+        "description": {
+          "en": "Promoting Tamil language, literature, and cultural heritage globally",
+          "ta": "தமிழ் மொழி, இலக்கியம் மற்றும் பண்பாட்டு மரபை உலகளவில் ஊக்குவித்தல்"
+        }
+      },
+      {
+        "name": {
+          "en": "Thirukkural Translation Project",
+          "ta": "திருக்குறள் மொழிபெயர்ப்புத் திட்டம்"
+        },
+        "description": {
+          "en": "Translating Thirukkural into world languages to spread Tamil wisdom",
+          "ta": "தமிழ் ஞானத்தை பரப்ப திருக்குறளை உலக மொழிகளில் மொழிபெயர்த்தல்"
+        }
+      }
+    ],
+    "description": {
+      "en": "Department promoting Tamil language development, media, and public information services",
+      "ta": "தமிழ் மொழி வளர்ச்சி, ஊடகம் மற்றும் பொது தகவல் சேவைகளை ஊக்குவிக்கும் துறை"
+    }
+  },
+  {
+    "id": "tourism-culture-religious-endowments",
+    "name": {
+      "en": "Tourism, Culture and Religious Endowments",
+      "ta": "சுற்றுலா, பண்பாடு மற்றும் அறநிலையங்கள்"
+    },
+    "sector": "Culture & Tourism",
+    "minister": {
+      "name": "M. Mathiventhan",
+      "constituency": "Madurai North",
+      "party": "DMK"
+    },
+    "secretary": "B. Chandra Mohan, IAS",
+    "budget": {
+      "revenue": 3000,
+      "capital": 1500,
+      "total": 4500,
+      "year": "2025-26"
+    },
+    "agencies": [
+      {
+        "name": {
+          "en": "Tamil Nadu Tourism Development Corporation (TTDC)",
+          "ta": "தமிழ்நாடு சுற்றுலா வளர்ச்சி நிறுவனம்"
+        },
+        "type": "Corporation"
+      },
+      {
+        "name": {
+          "en": "Hindu Religious and Charitable Endowments Department (HR&CE)",
+          "ta": "இந்து அறநிலையங்கள் மற்றும் அறக்கட்டளைத் துறை"
+        },
+        "type": "Department"
+      },
+      {
+        "name": {
+          "en": "Department of Archaeology",
+          "ta": "தொல்லியல் துறை"
+        },
+        "type": "Department"
+      }
+    ],
+    "keySchemes": [
+      {
+        "name": {
+          "en": "Temple Renovation and Consecration (Kumbabishekam) Scheme",
+          "ta": "கோயில் புதுப்பிப்பு மற்றும் குடமுழுக்குத் திட்டம்"
+        },
+        "description": {
+          "en": "Renovation of ancient temples and organizing consecration ceremonies",
+          "ta": "பண்டைய கோயில்களின் புதுப்பிப்பு மற்றும் குடமுழுக்கு விழா ஏற்பாடு"
+        }
+      },
+      {
+        "name": {
+          "en": "Tourism Infrastructure Development",
+          "ta": "சுற்றுலா உள்கட்டமைப்பு மேம்பாடு"
+        },
+        "description": {
+          "en": "Developing tourism infrastructure and promoting heritage tourism in Tamil Nadu",
+          "ta": "சுற்றுலா உள்கட்டமைப்பை மேம்படுத்துதல் மற்றும் தமிழ்நாட்டில் பாரம்பரிய சுற்றுலாவை ஊக்குவித்தல்"
+        }
+      }
+    ],
+    "description": {
+      "en": "Department managing tourism promotion, cultural preservation, and religious endowments administration",
+      "ta": "சுற்றுலா ஊக்குவிப்பு, பண்பாட்டு பாதுகாப்பு மற்றும் அறநிலையங்கள் நிர்வாகத்தை நிர்வகிக்கும் துறை"
+    }
+  },
+  {
+    "id": "transport",
+    "name": {
+      "en": "Transport",
+      "ta": "போக்குவரத்து"
+    },
+    "sector": "Infrastructure",
+    "minister": {
+      "name": "S.S. Sivasankar",
+      "constituency": "Kulithalai",
+      "party": "DMK"
+    },
+    "secretary": "Dheeraj Kumar, IAS",
+    "budget": {
+      "revenue": 6000,
+      "capital": 4000,
+      "total": 10000,
+      "year": "2025-26"
+    },
+    "agencies": [
+      {
+        "name": {
+          "en": "Tamil Nadu State Transport Corporation (TNSTC)",
+          "ta": "தமிழ்நாடு அரசு போக்குவரத்து நிறுவனம்"
+        },
+        "type": "Corporation"
+      },
+      {
+        "name": {
+          "en": "Metropolitan Transport Corporation (MTC)",
+          "ta": "பெருநகர போக்குவரத்து நிறுவனம்"
+        },
+        "type": "Corporation"
+      },
+      {
+        "name": {
+          "en": "Chennai Metro Rail Limited (CMRL)",
+          "ta": "சென்னை மெட்ரோ ரயில் நிறுவனம்"
+        },
+        "type": "Corporation"
+      }
+    ],
+    "keySchemes": [
+      {
+        "name": {
+          "en": "Free Bus Travel for Women",
+          "ta": "பெண்களுக்கு இலவச பேருந்து பயணம்"
+        },
+        "description": {
+          "en": "Free bus travel for all women in government buses across Tamil Nadu",
+          "ta": "தமிழ்நாடு முழுவதும் அரசு பேருந்துகளில் அனைத்து பெண்களுக்கும் இலவச பயணம்"
+        }
+      },
+      {
+        "name": {
+          "en": "Chennai Metro Rail Phase-2 Expansion",
+          "ta": "சென்னை மெட்ரோ ரயில் இரண்டாம் கட்ட விரிவாக்கம்"
+        },
+        "description": {
+          "en": "Expansion of Chennai Metro Rail network covering 118.9 km in Phase 2",
+          "ta": "இரண்டாம் கட்டத்தில் 118.9 கி.மீ உள்ளடக்கிய சென்னை மெட்ரோ ரயில் நெட்வொர்க் விரிவாக்கம்"
+        }
+      }
+    ],
+    "description": {
+      "en": "Department managing public transport, motor vehicle administration, and urban transit systems",
+      "ta": "பொது போக்குவரத்து, மோட்டார் வாகன நிர்வாகம் மற்றும் நகர்ப்புற போக்குவரத்து அமைப்புகளை நிர்வகிக்கும் துறை"
+    }
+  },
+  {
+    "id": "water-resources",
+    "name": {
+      "en": "Water Resources",
+      "ta": "நீர் வளம்"
+    },
+    "sector": "Infrastructure",
+    "minister": {
+      "name": "Duraimurugan",
+      "constituency": "Katpadi",
+      "party": "DMK"
+    },
+    "secretary": "K. Manivasan, IAS",
+    "budget": {
+      "revenue": 4000,
+      "capital": 6000,
+      "total": 10000,
+      "year": "2025-26"
+    },
+    "agencies": [
+      {
+        "name": {
+          "en": "Water Resources Department",
+          "ta": "நீர் வளத் துறை"
+        },
+        "type": "Department"
+      },
+      {
+        "name": {
+          "en": "Tamil Nadu Water Investment Company (TWIC)",
+          "ta": "தமிழ்நாடு நீர் முதலீட்டு நிறுவனம்"
+        },
+        "type": "Corporation"
+      }
+    ],
+    "keySchemes": [
+      {
+        "name": {
+          "en": "Kudimaramathu (Community Participation in Tank Restoration)",
+          "ta": "குடிமராமத்து"
+        },
+        "description": {
+          "en": "Community-driven restoration and maintenance of water tanks and irrigation systems",
+          "ta": "நீர் தொட்டிகள் மற்றும் பாசன அமைப்புகளின் சமூக சார்ந்த மறுசீரமைப்பு மற்றும் பராமரிப்பு"
+        }
+      },
+      {
+        "name": {
+          "en": "Cauvery-Gundar River Linking Project",
+          "ta": "காவிரி-குண்டாறு நதி இணைப்புத் திட்டம்"
+        },
+        "description": {
+          "en": "Inter-linking of rivers to ensure equitable water distribution across the state",
+          "ta": "மாநிலம் முழுவதும் சமமான நீர் பகிர்வை உறுதி செய்ய நதிகளை இணைத்தல்"
+        }
+      }
+    ],
+    "description": {
+      "en": "Department managing irrigation, water conservation, and inter-state water resources",
+      "ta": "பாசனம், நீர் பாதுகாப்பு மற்றும் மாநிலங்களுக்கிடையிலான நீர் வளங்களை நிர்வகிக்கும் துறை"
+    }
+  },
+  {
+    "id": "welfare-differently-abled",
+    "name": {
+      "en": "Welfare of Differently Abled Persons",
+      "ta": "மாற்றுத்திறனாளிகள் நலம்"
+    },
+    "sector": "Social Welfare",
+    "minister": {
+      "name": "M. Subramanian",
+      "constituency": "Saidapet",
+      "party": "DMK"
+    },
+    "secretary": "M.S. Shanmugam, IAS",
+    "budget": {
+      "revenue": 1500,
+      "capital": 300,
+      "total": 1800,
+      "year": "2025-26"
+    },
+    "agencies": [
+      {
+        "name": {
+          "en": "Commissionerate for the Welfare of the Differently Abled",
+          "ta": "மாற்றுத்திறனாளிகள் நல ஆணையரகம்"
+        },
+        "type": "Commissionerate"
+      },
+      {
+        "name": {
+          "en": "Tamil Nadu Differently Abled Persons Welfare Board",
+          "ta": "தமிழ்நாடு மாற்றுத்திறனாளிகள் நல வாரியம்"
+        },
+        "type": "Board"
+      }
+    ],
+    "keySchemes": [
+      {
+        "name": {
+          "en": "Disability Pension Scheme",
+          "ta": "மாற்றுத்திறன் ஓய்வூதியத் திட்டம்"
+        },
+        "description": {
+          "en": "Monthly pension for differently abled persons who are unable to work",
+          "ta": "வேலை செய்ய இயலாத மாற்றுத்திறனாளிகளுக்கு மாதாந்திர ஓய்வூதியம்"
+        }
+      },
+      {
+        "name": {
+          "en": "Free Motorized Tricycles and Assistive Devices",
+          "ta": "இலவச மோட்டார் மூன்று சக்கர வண்டி மற்றும் உதவி சாதனங்கள்"
+        },
+        "description": {
+          "en": "Distribution of free motorized tricycles and assistive devices to differently abled persons",
+          "ta": "மாற்றுத்திறனாளிகளுக்கு இலவச மோட்டார் மூன்று சக்கர வண்டிகள் மற்றும் உதவி சாதனங்கள் வழங்கல்"
+        }
+      }
+    ],
+    "description": {
+      "en": "Department dedicated to the welfare, rehabilitation, and empowerment of differently abled persons",
+      "ta": "மாற்றுத்திறனாளிகளின் நலன், மறுவாழ்வு மற்றும் அதிகாரமளித்தலுக்கான துறை"
+    }
+  },
+  {
+    "id": "youth-welfare-sports",
+    "name": {
+      "en": "Youth Welfare and Sports Development",
+      "ta": "இளைஞர் நலன் மற்றும் விளையாட்டு வளர்ச்சி"
+    },
+    "sector": "Culture & Tourism",
+    "minister": {
+      "name": "Udhayanidhi Stalin",
+      "constituency": "Chepauk-Triplicane",
+      "party": "DMK"
+    },
+    "secretary": "N. Muruganandam, IAS",
+    "budget": {
+      "revenue": 1800,
+      "capital": 1200,
+      "total": 3000,
+      "year": "2025-26"
+    },
+    "agencies": [
+      {
+        "name": {
+          "en": "Sports Development Authority of Tamil Nadu (SDAT)",
+          "ta": "தமிழ்நாடு விளையாட்டு மேம்பாட்டு ஆணையம்"
+        },
+        "type": "Authority"
+      },
+      {
+        "name": {
+          "en": "Tamil Nadu Physical Education and Sports University",
+          "ta": "தமிழ்நாடு உடற்கல்வி மற்றும் விளையாட்டு பல்கலைக்கழகம்"
+        },
+        "type": "University"
+      }
+    ],
+    "keySchemes": [
+      {
+        "name": {
+          "en": "Chief Minister's Trophy for District Level Sports",
+          "ta": "முதலமைச்சர் மாவட்ட விளையாட்டுக் கோப்பை"
+        },
+        "description": {
+          "en": "Annual inter-district sports competition to promote sports culture across Tamil Nadu",
+          "ta": "தமிழ்நாடு முழுவதும் விளையாட்டு கலாசாரத்தை ஊக்குவிக்க ஆண்டு மாவட்டங்களுக்கிடையிலான விளையாட்டு போட்டி"
+        }
+      },
+      {
+        "name": {
+          "en": "Cash Incentive for Olympic and International Medal Winners",
+          "ta": "ஒலிம்பிக் மற்றும் சர்வதேச பதக்க வெற்றியாளர்களுக்கு பணப் பரிசு"
+        },
+        "description": {
+          "en": "Cash prizes and government job opportunities for international medal-winning athletes",
+          "ta": "சர்வதேச பதக்க வெற்றி பெற்ற விளையாட்டு வீரர்களுக்கு பணப் பரிசுகள் மற்றும் அரசு வேலை வாய்ப்புகள்"
+        }
+      }
+    ],
+    "description": {
+      "en": "Department promoting youth welfare, sports development, and athletic excellence in Tamil Nadu",
+      "ta": "தமிழ்நாட்டில் இளைஞர் நலன், விளையாட்டு வளர்ச்சி மற்றும் விளையாட்டு சிறப்பை ஊக்குவிக்கும் துறை"
+    }
+  }
+]

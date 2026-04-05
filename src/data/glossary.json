@@ -1,0 +1,182 @@
+[
+  {
+    "term": { "en": "Member of Legislative Assembly (MLA)", "ta": "சட்டமன்ற உறுப்பினர் (எம்.எல்.ஏ.)" },
+    "definition": { "en": "Elected representative of a constituency in the Tamil Nadu Legislative Assembly, responsible for lawmaking and representing constituents.", "ta": "தமிழ்நாடு சட்டமன்றத்தில் ஒரு தொகுதியின் தேர்ந்தெடுக்கப்பட்ட பிரதிநிதி, சட்டம் இயற்றுவதற்கும் வாக்காளர்களைப் பிரதிநிதித்துவப்படுத்துவதற்கும் பொறுப்பானவர்." },
+    "category": "legislature"
+  },
+  {
+    "term": { "en": "Chief Minister (CM)", "ta": "முதலமைச்சர் (முதல்வர்)" },
+    "definition": { "en": "Head of the state government, appointed by the Governor and leader of the majority party or coalition in the Legislative Assembly.", "ta": "மாநில அரசின் தலைவர், ஆளுநரால் நியமிக்கப்படுபவர் மற்றும் சட்டமன்றத்தில் பெரும்பான்மைக் கட்சி அல்லது கூட்டணியின் தலைவர்." },
+    "category": "executive"
+  },
+  {
+    "term": { "en": "Governor", "ta": "ஆளுநர்" },
+    "definition": { "en": "Constitutional head of the state, appointed by the President of India. Acts on the advice of the Council of Ministers.", "ta": "மாநிலத்தின் அரசியலமைப்பு தலைவர், இந்திய குடியரசுத் தலைவரால் நியமிக்கப்படுபவர். அமைச்சரவையின் ஆலோசனையின் பேரில் செயல்படுபவர்." },
+    "category": "executive"
+  },
+  {
+    "term": { "en": "Speaker", "ta": "சபாநாயகர்" },
+    "definition": { "en": "Presiding officer of the Legislative Assembly, elected from among its members. Maintains order and conducts proceedings.", "ta": "சட்டமன்றத்தின் தலைமை அதிகாரி, அதன் உறுப்பினர்களிடமிருந்து தேர்ந்தெடுக்கப்படுபவர். ஒழுங்கைப் பேணி நடவடிக்கைகளை நடத்துபவர்." },
+    "category": "legislature"
+  },
+  {
+    "term": { "en": "Bill", "ta": "மசோதா" },
+    "definition": { "en": "A proposed law presented for debate and approval in the Legislative Assembly before it becomes an Act.", "ta": "சட்டமாக மாறுவதற்கு முன் சட்டமன்றத்தில் விவாதம் மற்றும் ஒப்புதலுக்காக சமர்ப்பிக்கப்படும் முன்மொழியப்பட்ட சட்டம்." },
+    "category": "legislature"
+  },
+  {
+    "term": { "en": "Act", "ta": "சட்டம்" },
+    "definition": { "en": "A Bill that has been passed by the Legislative Assembly and received assent from the Governor, becoming enforceable law.", "ta": "சட்டமன்றத்தால் நிறைவேற்றப்பட்டு ஆளுநரின் ஒப்புதலைப் பெற்ற மசோதா, நடைமுறைப்படுத்தக்கூடிய சட்டமாக மாறுவது." },
+    "category": "legislature"
+  },
+  {
+    "term": { "en": "Budget", "ta": "வரவு-செலவுத் திட்டம்" },
+    "definition": { "en": "Annual financial statement of the state government's estimated revenue and expenditure, presented in the Legislative Assembly.", "ta": "மாநில அரசின் மதிப்பிடப்பட்ட வருவாய் மற்றும் செலவினத்தின் வருடாந்திர நிதி அறிக்கை, சட்டமன்றத்தில் தாக்கல் செய்யப்படுவது." },
+    "category": "finance"
+  },
+  {
+    "term": { "en": "Constituency", "ta": "தொகுதி" },
+    "definition": { "en": "A defined geographical area whose voters elect one MLA to represent them in the Legislative Assembly. Tamil Nadu has 234 assembly constituencies.", "ta": "ஒரு வரையறுக்கப்பட்ட புவியியல் பகுதி, அதன் வாக்காளர்கள் சட்டமன்றத்தில் தங்களைப் பிரதிநிதித்துவப்படுத்த ஒரு எம்.எல்.ஏ.வைத் தேர்ந்தெடுப்பர். தமிழ்நாட்டில் 234 சட்டமன்றத் தொகுதிகள் உள்ளன." },
+    "category": "election"
+  },
+  {
+    "term": { "en": "Panchayat", "ta": "பஞ்சாயத்து" },
+    "definition": { "en": "Elected local self-government institution in rural areas. The three-tier system includes Village Panchayats, Panchayat Unions, and District Panchayats.", "ta": "கிராமப்புறங்களில் தேர்ந்தெடுக்கப்பட்ட உள்ளாட்சி அமைப்பு. மூன்று அடுக்கு அமைப்பில் கிராம பஞ்சாயத்துகள், பஞ்சாயத்து ஒன்றியங்கள் மற்றும் மாவட்ட பஞ்சாயத்துகள் அடங்கும்." },
+    "category": "local-governance"
+  },
+  {
+    "term": { "en": "Municipality", "ta": "நகராட்சி" },
+    "definition": { "en": "Urban local body governing a town or small city, responsible for civic services like water supply, sanitation, and roads.", "ta": "ஒரு நகரம் அல்லது சிறிய நகரத்தை ஆளும் நகர்ப்புற உள்ளாட்சி அமைப்பு, குடிநீர், சுகாதாரம் மற்றும் சாலைகள் போன்ற குடிமக்கள் சேவைகளுக்குப் பொறுப்பானது." },
+    "category": "local-governance"
+  },
+  {
+    "term": { "en": "Municipal Corporation", "ta": "மாநகராட்சி" },
+    "definition": { "en": "Urban local body governing a large city. Tamil Nadu has 25 municipal corporations, with Greater Chennai Corporation being the oldest in India.", "ta": "ஒரு பெரிய நகரத்தை ஆளும் நகர்ப்புற உள்ளாட்சி அமைப்பு. தமிழ்நாட்டில் 25 மாநகராட்சிகள் உள்ளன, சென்னை மாநகராட்சி இந்தியாவிலேயே பழமையானது." },
+    "category": "local-governance"
+  },
+  {
+    "term": { "en": "District Collector", "ta": "மாவட்ட ஆட்சியர்" },
+    "definition": { "en": "Chief administrative officer of a district, responsible for revenue collection, law and order, and coordination of government programs.", "ta": "ஒரு மாவட்டத்தின் தலைமை நிர்வாக அதிகாரி, வருவாய் வசூல், சட்டம்-ஒழுங்கு மற்றும் அரசு திட்டங்களின் ஒருங்கிணைப்புக்குப் பொறுப்பானவர்." },
+    "category": "administration"
+  },
+  {
+    "term": { "en": "Taluk", "ta": "வட்டம் (தாலுகா)" },
+    "definition": { "en": "Administrative subdivision of a district, headed by a Tahsildar. Tamil Nadu has 310 taluks across its 38 districts.", "ta": "ஒரு மாவட்டத்தின் நிர்வாக உட்பிரிவு, தாசில்தார் தலைமையில் செயல்படும். தமிழ்நாட்டில் 38 மாவட்டங்களில் 310 வட்டங்கள் உள்ளன." },
+    "category": "administration"
+  },
+  {
+    "term": { "en": "Revenue Division", "ta": "வருவாய் கோட்டம்" },
+    "definition": { "en": "Administrative unit between district and taluk levels, headed by a Revenue Divisional Officer (RDO). Tamil Nadu has 87 revenue divisions.", "ta": "மாவட்டம் மற்றும் வட்ட நிலைகளுக்கு இடையேயான நிர்வாக அலகு, வருவாய் கோட்ட அலுவலர் தலைமையில் செயல்படும். தமிழ்நாட்டில் 87 வருவாய் கோட்டங்கள் உள்ளன." },
+    "category": "administration"
+  },
+  {
+    "term": { "en": "Election", "ta": "தேர்தல்" },
+    "definition": { "en": "Process by which citizens vote to choose their representatives for the Legislative Assembly or local bodies.", "ta": "சட்டமன்றம் அல்லது உள்ளாட்சி அமைப்புகளுக்கு தங்கள் பிரதிநிதிகளைத் தேர்ந்தெடுக்க குடிமக்கள் வாக்களிக்கும் செயல்முறை." },
+    "category": "election"
+  },
+  {
+    "term": { "en": "Ballot", "ta": "வாக்குச்சீட்டு" },
+    "definition": { "en": "The paper or electronic medium used by voters to cast their votes during an election.", "ta": "தேர்தலின் போது வாக்காளர்கள் தங்கள் வாக்குகளை அளிக்கப் பயன்படுத்தும் காகிதம் அல்லது மின்னணு ஊடகம்." },
+    "category": "election"
+  },
+  {
+    "term": { "en": "Alliance", "ta": "கூட்டணி" },
+    "definition": { "en": "A coalition of political parties that agree to contest elections together and share seats, forming a combined front against other alliances.", "ta": "தேர்தலில் ஒன்றாகப் போட்டியிடவும் இடங்களைப் பகிர்ந்து கொள்ளவும் ஒப்புக்கொள்ளும் அரசியல் கட்சிகளின் கூட்டணி." },
+    "category": "election"
+  },
+  {
+    "term": { "en": "Majority", "ta": "பெரும்பான்மை" },
+    "definition": { "en": "The minimum number of seats (118 out of 234) a party or alliance needs to form the government in Tamil Nadu.", "ta": "தமிழ்நாட்டில் அரசை அமைக்க ஒரு கட்சி அல்லது கூட்டணிக்கு தேவையான குறைந்தபட்ச இடங்களின் எண்ணிக்கை (234 இல் 118)." },
+    "category": "legislature"
+  },
+  {
+    "term": { "en": "Opposition", "ta": "எதிர்க்கட்சி" },
+    "definition": { "en": "The party or coalition with the second largest number of seats in the Assembly, serving as a check on the ruling government.", "ta": "சட்டமன்றத்தில் இரண்டாவது அதிக இடங்களைப் பெற்ற கட்சி அல்லது கூட்டணி, ஆளும் அரசாங்கத்தின் மீது கண்காணிப்பாகச் செயல்படுவது." },
+    "category": "legislature"
+  },
+  {
+    "term": { "en": "Cabinet", "ta": "அமைச்சரவை" },
+    "definition": { "en": "The group of senior ministers, headed by the Chief Minister, who collectively make major government policy decisions.", "ta": "முதலமைச்சர் தலைமையில் உள்ள மூத்த அமைச்சர்களின் குழு, கூட்டாக முக்கிய அரசுக் கொள்கை முடிவுகளை எடுப்பது." },
+    "category": "executive"
+  },
+  {
+    "term": { "en": "Town Panchayat", "ta": "பேரூராட்சி" },
+    "definition": { "en": "Local body governing a transitional area between rural panchayat and urban municipality. Tamil Nadu has about 490 town panchayats.", "ta": "கிராம பஞ்சாயத்துக்கும் நகராட்சிக்கும் இடையிலான மாற்றுப் பகுதியை ஆளும் உள்ளாட்சி அமைப்பு. தமிழ்நாட்டில் சுமார் 490 பேரூராட்சிகள் உள்ளன." },
+    "category": "local-governance"
+  },
+  {
+    "term": { "en": "Village Panchayat", "ta": "கிராம பஞ்சாயத்து" },
+    "definition": { "en": "The lowest tier of local self-government, governing a village or group of villages. Tamil Nadu has over 12,600 village panchayats.", "ta": "உள்ளாட்சியின் கீழ்நிலை அமைப்பு, ஒரு கிராமம் அல்லது கிராமங்களின் குழுவை ஆளுவது. தமிழ்நாட்டில் 12,600க்கும் மேற்பட்ட கிராம பஞ்சாயத்துகள் உள்ளன." },
+    "category": "local-governance"
+  },
+  {
+    "term": { "en": "Panchayat Union", "ta": "பஞ்சாயத்து ஒன்றியம்" },
+    "definition": { "en": "Middle tier of the rural local government system, comprising multiple village panchayats. Headed by an elected chairman.", "ta": "கிராம உள்ளாட்சி அமைப்பின் நடுநிலை அடுக்கு, பல கிராம பஞ்சாயத்துகளை உள்ளடக்கியது. தேர்ந்தெடுக்கப்பட்ட தலைவர் தலைமையில் செயல்படும்." },
+    "category": "local-governance"
+  },
+  {
+    "term": { "en": "District Panchayat", "ta": "மாவட்ட பஞ்சாயத்து" },
+    "definition": { "en": "Highest tier of the rural local government system at the district level, coordinating development activities across panchayat unions.", "ta": "மாவட்ட அளவில் கிராம உள்ளாட்சி அமைப்பின் உயர்நிலை அடுக்கு, பஞ்சாயத்து ஒன்றியங்கள் முழுவதும் வளர்ச்சி நடவடிக்கைகளை ஒருங்கிணைப்பது." },
+    "category": "local-governance"
+  },
+  {
+    "term": { "en": "First-Past-the-Post (FPTP)", "ta": "அதிக வாக்கு முறை" },
+    "definition": { "en": "Electoral system used in Tamil Nadu where the candidate with the most votes in a constituency wins, regardless of whether they have a majority.", "ta": "தமிழ்நாட்டில் பயன்படுத்தப்படும் தேர்தல் முறை, ஒரு தொகுதியில் அதிக வாக்குகளைப் பெறும் வேட்பாளர் வெற்றி பெறுவார்." },
+    "category": "election"
+  },
+  {
+    "term": { "en": "Election Commission", "ta": "தேர்தல் ஆணையம்" },
+    "definition": { "en": "Independent constitutional body responsible for conducting free and fair elections to the Legislative Assembly and Parliament.", "ta": "சட்டமன்றம் மற்றும் நாடாளுமன்றத்திற்கு சுதந்திரமான மற்றும் நியாயமான தேர்தல்களை நடத்தும் சுதந்திரமான அரசியலமைப்பு அமைப்பு." },
+    "category": "election"
+  },
+  {
+    "term": { "en": "Vote of Confidence", "ta": "நம்பிக்கை வாக்கெடுப்பு" },
+    "definition": { "en": "A legislative procedure to test whether the government has majority support in the Assembly. Failure leads to fall of the government.", "ta": "சட்டமன்றத்தில் அரசுக்கு பெரும்பான்மை ஆதரவு உள்ளதா என்பதை சோதிக்கும் சட்டமன்ற நடவடிக்கை. தோல்வி அரசின் வீழ்ச்சிக்கு வழிவகுக்கும்." },
+    "category": "legislature"
+  },
+  {
+    "term": { "en": "Ordinance", "ta": "அவசரச் சட்டம்" },
+    "definition": { "en": "A temporary law issued by the Governor when the Assembly is not in session, having the same force as an Act. Must be ratified within six weeks.", "ta": "சட்டமன்றம் கூடாத போது ஆளுநரால் வெளியிடப்படும் தற்காலிக சட்டம், ஒரு சட்டத்தின் அதே வலிமையைக் கொண்டது. ஆறு வாரங்களுக்குள் உறுதிப்படுத்தப்பட வேண்டும்." },
+    "category": "legislature"
+  },
+  {
+    "term": { "en": "Demand for Grants", "ta": "மானியக் கோரிக்கைகள்" },
+    "definition": { "en": "Formal requests for funds by government departments, presented in the Assembly during budget session for approval.", "ta": "அரசுத் துறைகளின் நிதிக்கான முறையான கோரிக்கைகள், வரவு-செலவுத் திட்ட கூட்டத்தொடரின் போது சட்டமன்றத்தில் ஒப்புதலுக்காக சமர்ப்பிக்கப்படுவது." },
+    "category": "finance"
+  },
+  {
+    "term": { "en": "Appropriation Bill", "ta": "ஒதுக்கீட்டு மசோதா" },
+    "definition": { "en": "A Bill that authorizes the government to withdraw money from the Consolidated Fund after the budget is passed.", "ta": "வரவு-செலவுத் திட்டம் நிறைவேற்றப்பட்ட பிறகு ஒருங்கிணைந்த நிதியிலிருந்து பணம் எடுக்க அரசுக்கு அதிகாரம் அளிக்கும் மசோதா." },
+    "category": "finance"
+  },
+  {
+    "term": { "en": "Consolidated Fund", "ta": "ஒருங்கிணைந்த நிதி" },
+    "definition": { "en": "The main account of the state where all revenues received and loans raised are deposited. No money can be withdrawn without Assembly approval.", "ta": "அனைத்து வருவாய்கள் மற்றும் கடன்கள் செலுத்தப்படும் மாநிலத்தின் முதன்மை கணக்கு. சட்டமன்ற ஒப்புதல் இல்லாமல் பணம் எடுக்க முடியாது." },
+    "category": "finance"
+  },
+  {
+    "term": { "en": "Fiscal Deficit", "ta": "நிதிப் பற்றாக்குறை" },
+    "definition": { "en": "The difference between the government's total expenditure and total revenue, indicating the amount the government needs to borrow.", "ta": "அரசின் மொத்த செலவினம் மற்றும் மொத்த வருவாய் இடையேயான வேறுபாடு, அரசு கடன் வாங்க வேண்டிய தொகையைக் குறிக்கிறது." },
+    "category": "finance"
+  },
+  {
+    "term": { "en": "Anti-Defection Law", "ta": "கட்சி தாவல் தடைச் சட்டம்" },
+    "definition": { "en": "Law that disqualifies elected members who switch parties after being elected, ensuring political stability.", "ta": "தேர்ந்தெடுக்கப்பட்ட பிறகு கட்சி மாறும் உறுப்பினர்களை தகுதி நீக்கம் செய்யும் சட்டம், அரசியல் நிலைத்தன்மையை உறுதி செய்வது." },
+    "category": "legislature"
+  },
+  {
+    "term": { "en": "Question Hour", "ta": "கேள்வி நேரம்" },
+    "definition": { "en": "The first hour of each Assembly sitting when members ask questions to ministers about government policies and administration.", "ta": "ஒவ்வொரு சட்டமன்ற அமர்வின் முதல் மணி நேரம், உறுப்பினர்கள் அரசுக் கொள்கைகள் மற்றும் நிர்வாகம் பற்றி அமைச்சர்களிடம் கேள்விகள் கேட்பர்." },
+    "category": "legislature"
+  },
+  {
+    "term": { "en": "Whip", "ta": "கட்சி கொறடா" },
+    "definition": { "en": "A directive issued by a political party to its members to vote in a particular way on a specific issue in the Assembly.", "ta": "சட்டமன்றத்தில் ஒரு குறிப்பிட்ட விஷயத்தில் ஒரு குறிப்பிட்ட வழியில் வாக்களிக்க அரசியல் கட்சி தனது உறுப்பினர்களுக்கு வழங்கும் உத்தரவு." },
+    "category": "legislature"
+  },
+  {
+    "term": { "en": "Secretariat", "ta": "செயலகம்" },
+    "definition": { "en": "The main administrative building complex (Fort St. George, Chennai) housing the offices of the Chief Minister and senior bureaucrats.", "ta": "முதலமைச்சர் மற்றும் மூத்த அதிகாரிகளின் அலுவலகங்கள் இருக்கும் முக்கிய நிர்வாக கட்டிட வளாகம் (கோட்டை செயின்ட் ஜார்ஜ், சென்னை)." },
+    "category": "administration"
+  }
+]

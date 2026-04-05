@@ -1,0 +1,57 @@
+{
+  "municipalCorporations": {
+    "count": 25,
+    "bodies": [
+      { "name": { "en": "Greater Chennai Corporation", "ta": "சென்னை மாநகராட்சி" }, "wards": 200, "established": 1688 },
+      { "name": { "en": "Madurai City Municipal Corporation", "ta": "மதுரை மாநகராட்சி" }, "wards": 100, "established": 1971 },
+      { "name": { "en": "Coimbatore City Municipal Corporation", "ta": "கோயம்புத்தூர் மாநகராட்சி" }, "wards": 100, "established": 1981 },
+      { "name": { "en": "Tiruchirappalli City Municipal Corporation", "ta": "திருச்சிராப்பள்ளி மாநகராட்சி" }, "wards": 65, "established": 1994 },
+      { "name": { "en": "Salem City Municipal Corporation", "ta": "சேலம் மாநகராட்சி" }, "wards": 60, "established": 1994 },
+      { "name": { "en": "Tirunelveli City Municipal Corporation", "ta": "திருநெல்வேலி மாநகராட்சி" }, "wards": 55, "established": 1994 },
+      { "name": { "en": "Tiruppur City Municipal Corporation", "ta": "திருப்பூர் மாநகராட்சி" }, "wards": 60, "established": 2008 },
+      { "name": { "en": "Erode City Municipal Corporation", "ta": "ஈரோடு மாநகராட்சி" }, "wards": 60, "established": 2008 },
+      { "name": { "en": "Vellore City Municipal Corporation", "ta": "வேலூர் மாநகராட்சி" }, "wards": 60, "established": 2008 },
+      { "name": { "en": "Thoothukudi City Municipal Corporation", "ta": "தூத்துக்குடி மாநகராட்சி" }, "wards": 60, "established": 2008 },
+      { "name": { "en": "Dindigul Municipal Corporation", "ta": "திண்டுக்கல் மாநகராட்சி" }, "wards": 48, "established": 2014 },
+      { "name": { "en": "Thanjavur Municipal Corporation", "ta": "தஞ்சாவூர் மாநகராட்சி" }, "wards": 51, "established": 2014 },
+      { "name": { "en": "Nagercoil Municipal Corporation", "ta": "நாகர்கோவில் மாநகராட்சி" }, "wards": 52, "established": 2019 },
+      { "name": { "en": "Hosur Municipal Corporation", "ta": "ஓசூர் மாநகராட்சி" }, "wards": 45, "established": 2019 },
+      { "name": { "en": "Avadi Municipal Corporation", "ta": "ஆவடி மாநகராட்சி" }, "wards": 48, "established": 2019 },
+      { "name": { "en": "Kumbakonam Municipal Corporation", "ta": "கும்பகோணம் மாநகராட்சி" }, "wards": 48, "established": 2021 },
+      { "name": { "en": "Cuddalore Municipal Corporation", "ta": "கடலூர் மாநகராட்சி" }, "wards": 45, "established": 2021 },
+      { "name": { "en": "Kancheepuram Municipal Corporation", "ta": "காஞ்சிபுரம் மாநகராட்சி" }, "wards": 51, "established": 2021 },
+      { "name": { "en": "Karur Municipal Corporation", "ta": "கரூர் மாநகராட்சி" }, "wards": 48, "established": 2021 },
+      { "name": { "en": "Sivakasi Municipal Corporation", "ta": "சிவகாசி மாநகராட்சி" }, "wards": 48, "established": 2021 },
+      { "name": { "en": "Tambaram Municipal Corporation", "ta": "தாம்பரம் மாநகராட்சி" }, "wards": 70, "established": 2021 },
+      { "name": { "en": "Karaikudi Municipal Corporation", "ta": "காரைக்குடி மாநகராட்சி" }, "wards": 48, "established": 2024 },
+      { "name": { "en": "Namakkal Municipal Corporation", "ta": "நாமக்கல் மாநகராட்சி" }, "wards": 48, "established": 2024 },
+      { "name": { "en": "Pudukkottai Municipal Corporation", "ta": "புதுக்கோட்டை மாநகராட்சி" }, "wards": 48, "established": 2024 },
+      { "name": { "en": "Tiruvannamalai Municipal Corporation", "ta": "திருவண்ணாமலை மாநகராட்சி" }, "wards": 48, "established": 2024 }
+    ]
+  },
+  "municipalities": {
+    "count": 138,
+    "note": "Municipalities are governed by elected councils headed by a Chairman. They manage towns with populations typically between 50,000 and 5,00,000."
+  },
+  "townPanchayats": {
+    "count": 490,
+    "note": "Town Panchayats govern transitional areas between rural and urban regions."
+  },
+  "districtPanchayats": {
+    "count": 38,
+    "note": "One District Panchayat for each of the 38 districts, serving as the top tier of rural local governance."
+  },
+  "panchayatUnions": {
+    "count": 388,
+    "note": "Middle tier of rural local governance, each comprising multiple village panchayats."
+  },
+  "villagePanchayats": {
+    "count": 12620,
+    "note": "Lowest tier of rural local governance, each governing one or more villages."
+  },
+  "summary": {
+    "totalUrbanBodies": 653,
+    "totalRuralBodies": 13046,
+    "totalLocalBodies": 13699
+  }
+}

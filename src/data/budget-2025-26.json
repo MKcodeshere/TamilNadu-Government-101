@@ -1,0 +1,156 @@
+{
+  "year": "2025-26",
+  "currency": "INR Crores",
+  "totalRevenue": 373204,
+  "totalCapital": 57231,
+  "grandTotal": 439293,
+  "totalRevenueReceipts": 331569,
+  "fiscalDeficitPercent": 3.04,
+  "note": "All figures in INR Crores. Grand total includes revenue, capital, and other expenditure (excluding debt repayment).",
+  "items": [
+    {
+      "departmentId": "school-education",
+      "department": { "en": "School Education", "ta": "பள்ளிக் கல்வி" },
+      "sector": "Education",
+      "revenue": 44200,
+      "capital": 2567,
+      "total": 46767
+    },
+    {
+      "departmentId": "municipal-admin",
+      "department": { "en": "Municipal Administration and Water Supply", "ta": "நகராட்சி நிர்வாகம் மற்றும் குடிநீர் வழங்கல்" },
+      "sector": "Urban Development",
+      "revenue": 18500,
+      "capital": 8178,
+      "total": 26678
+    },
+    {
+      "departmentId": "health",
+      "department": { "en": "Health and Family Welfare", "ta": "சுகாதாரம் மற்றும் குடும்ப நலம்" },
+      "sector": "Health & Family Welfare",
+      "revenue": 18500,
+      "capital": 3465,
+      "total": 21965
+    },
+    {
+      "departmentId": "highways",
+      "department": { "en": "Highways and Minor Ports", "ta": "நெடுஞ்சாலைகள் மற்றும் சிறு துறைமுகங்கள்" },
+      "sector": "Infrastructure",
+      "revenue": 8500,
+      "capital": 12222,
+      "total": 20722
+    },
+    {
+      "departmentId": "energy",
+      "department": { "en": "Energy", "ta": "எரிசக்தி" },
+      "sector": "Energy",
+      "revenue": 17800,
+      "capital": 3378,
+      "total": 21178
+    },
+    {
+      "departmentId": "rural-development",
+      "department": { "en": "Rural Development and Panchayat Raj", "ta": "ஊரக வளர்ச்சி மற்றும் பஞ்சாயத்து ராஜ்" },
+      "sector": "Rural Development",
+      "revenue": 11500,
+      "capital": 2110,
+      "total": 13610
+    },
+    {
+      "departmentId": "home-police",
+      "department": { "en": "Home, Police and Fire Services", "ta": "உள்துறை, காவல் மற்றும் தீயணைப்பு" },
+      "sector": "Public Safety",
+      "revenue": 12800,
+      "capital": 1200,
+      "total": 14000
+    },
+    {
+      "departmentId": "agriculture",
+      "department": { "en": "Agriculture and Allied Activities", "ta": "வேளாண்மை மற்றும் அதனுடன் தொடர்புடைய செயல்பாடுகள்" },
+      "sector": "Agriculture",
+      "revenue": 10200,
+      "capital": 1400,
+      "total": 11600
+    },
+    {
+      "departmentId": "higher-education",
+      "department": { "en": "Higher Education", "ta": "உயர்கல்வி" },
+      "sector": "Education",
+      "revenue": 7800,
+      "capital": 694,
+      "total": 8494
+    },
+    {
+      "departmentId": "social-welfare",
+      "department": { "en": "Social Welfare and Nutritious Noon Meal", "ta": "சமூக நலம் மற்றும் சத்துணவு" },
+      "sector": "Social Welfare",
+      "revenue": 8000,
+      "capital": 597,
+      "total": 8597
+    },
+    {
+      "departmentId": "housing",
+      "department": { "en": "Housing and Urban Development", "ta": "வீட்டு வசதி மற்றும் நகர்ப்புற வளர்ச்சி" },
+      "sector": "Urban Development",
+      "revenue": 3500,
+      "capital": 4200,
+      "total": 7700
+    },
+    {
+      "departmentId": "water-resources",
+      "department": { "en": "Water Resources", "ta": "நீர்வளம்" },
+      "sector": "Infrastructure",
+      "revenue": 3800,
+      "capital": 3500,
+      "total": 7300
+    },
+    {
+      "departmentId": "adi-dravidar",
+      "department": { "en": "Adi Dravidar and Tribal Welfare", "ta": "ஆதிதிராவிடர் மற்றும் பழங்குடியினர் நலம்" },
+      "sector": "Social Justice",
+      "revenue": 5800,
+      "capital": 800,
+      "total": 6600
+    },
+    {
+      "departmentId": "transport",
+      "department": { "en": "Transport", "ta": "போக்குவரத்து" },
+      "sector": "Infrastructure",
+      "revenue": 3200,
+      "capital": 2800,
+      "total": 6000
+    },
+    {
+      "departmentId": "industries",
+      "department": { "en": "Industries and Commerce", "ta": "தொழில் மற்றும் வணிகம்" },
+      "sector": "Industry",
+      "revenue": 2800,
+      "capital": 2500,
+      "total": 5300
+    },
+    {
+      "departmentId": "food-civil-supplies",
+      "department": { "en": "Food and Civil Supplies", "ta": "உணவு மற்றும் நுகர்பொருள் வழங்கல்" },
+      "sector": "Public Distribution",
+      "revenue": 4800,
+      "capital": 200,
+      "total": 5000
+    },
+    {
+      "departmentId": "cooperation",
+      "department": { "en": "Cooperation", "ta": "கூட்டுறவு" },
+      "sector": "Cooperative Development",
+      "revenue": 3200,
+      "capital": 1200,
+      "total": 4400
+    },
+    {
+      "departmentId": "bc-welfare",
+      "department": { "en": "Backward Classes and Minorities Welfare", "ta": "பிற்படுத்தப்பட்டோர் மற்றும் சிறுபான்மையினர் நலம்" },
+      "sector": "Social Justice",
+      "revenue": 1300,
+      "capital": 263,
+      "total": 1563
+    }
+  ]
+}
