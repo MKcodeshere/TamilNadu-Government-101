@@ -1,6 +1,6 @@
 "use client";
 
-import { useState, useCallback, useRef, useEffect } from "react";
+import { Suspense, useState, useCallback, useRef, useEffect } from "react";
 import { useSearchParams } from "next/navigation";
 import Link from "next/link";
 import { useLanguage } from "@/hooks/useLanguage";
@@ -16,6 +16,14 @@ function formatNumber(n: number): string {
 }
 
 export default function DistrictsPage() {
+  return (
+    <Suspense>
+      <DistrictsPageContent />
+    </Suspense>
+  );
+}
+
+function DistrictsPageContent() {
   const { t, lang } = useLanguage();
   const searchParams = useSearchParams();
   const [expandedDistrict, setExpandedDistrict] = useState<string | null>(null);
