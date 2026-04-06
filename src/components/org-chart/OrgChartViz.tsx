@@ -73,7 +73,8 @@ export default function OrgChartViz() {
     // Clear previous chart
     containerRef.current.innerHTML = "";
 
-    const chart = new OrgChart()
+    // eslint-disable-next-line @typescript-eslint/no-explicit-any
+    const chart = (new OrgChart() as any)
       .container(containerRef.current)
       .data(data)
       .nodeId((d: OrgNode) => d.id)
